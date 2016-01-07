@@ -1,0 +1,632 @@
+
+ -------------------------------------------
+AMD FX 8-Core Black Edition FX-9590 P...
+ -> 
+Highlights
+_____________________
+Generation : Fx
+SUPC: SDL509038993
+Technical Specification
+_____________________
+
+General
+Number of Cores
+8 Cores
+Speed
+4.7 GHz
+Maximum Thermal Design Power [TDP]
+220W
+Manufacturing Process
+32nm
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+INTEL Core i3-2120 Processor
+ -> 
+Highlights
+_____________________
+Socket Type : LGA 1155
+Warranty : 3 Years
+Number Of Cores : 2
+SUPC: SDL877324132
+Technical Specification
+_____________________
+
+General
+Number of Cores
+
+Number of Threads
+
+Speed
+
+Intel Smart Cache
+
+Bus-Core Ratio
+
+Bus Speed
+
+Maximum Thermal Design Power [TDP]
+
+Manufacturing Process
+
+
+Memory
+Memory Type Supported
+DDR3 -1066/1333
+Memory Channels Supported
+
+Maximum Memory Size Supported
+32 GB
+Maximum Memory Bandwidth
+
+
+Graphics
+Integrated Graphics
+
+Base Frequency
+
+Other Graphics Features
+
+
+Expansion Slots
+PCI Slots
+
+Terms & Conditions
+_____________________
+ -------------------------------------------
+AMD 8350  (fx-8350) Processor
+ -> 
+Highlights
+_____________________
+Socket Type : AM3+
+Warranty : 3 Years
+Number Of Cores : 8
+SUPC: SDL877140204
+Technical Specification
+_____________________
+
+General
+Number of Cores
+
+Number of Threads
+
+Speed
+
+Intel Smart Cache
+
+Bus-Core Ratio
+
+Bus Speed
+
+Maximum Thermal Design Power [TDP]
+
+Manufacturing Process
+
+
+Memory
+Memory Type Supported
+
+Memory Channels Supported
+
+Maximum Memory Size Supported
+
+Maximum Memory Bandwidth
+
+
+Graphics
+Integrated Graphics
+
+Base Frequency
+
+Other Graphics Features
+
+
+Expansion Slots
+PCI Slots
+
+Terms & Conditions
+_____________________
+ -------------------------------------------
+AMD 8350  Processor
+ -> 
+Highlights
+_____________________
+1 Year Warranty
+AMD FX 8-Core Black Edition
+Frequency: 4000
+Socket Type: AM3+
+Power Wattage: 125
+SUPC: SDL192919254
+Technical Specification
+_____________________
+
+Warranty
+Period
+3 Year Warranty
+
+GENERAL
+Brand
+AMD
+Series
+FX-Series
+Model
+FD8350FRHKBOX
+CPU Socket Type
+Socket AM3+
+
+TECHNICAL SPECIFICATIONS
+Core Name
+Vishera
+Number of Cores
+8-core
+Name
+FX-8350 Black Edition
+Operating Frequency
+4.0GHz (4.2GHz Turbo)
+L2 Cache
+4 x 2MB
+L3 Cache
+8 MB
+Manufacturing Tech
+32nm
+64-Bit Support
+Yes
+Virtualization Technology Support
+Yes
+Thermal Design Power
+125W
+Cooling Device
+Heatsink and fan included
+Description
+_____________________
+Your computer will surely perform amazingly with the AMD 8350 Processor. This powerful processor lets you do more in less time and enhances your computerâ€™s digital life.
+Â
+32nm SOI CMOS
+. The socket type is AM3+.
+The powerful processor lets you enjoy better application performance and
+
+and
+Terms & Conditions
+_____________________
+ -------------------------------------------
+INTEL i5-4440  (3.1 GHz, 6 MB Cache, ...
+ -> 
+Highlights
+_____________________
+3 year Manufacturer Warranty
+Quad Core Technology
+3.10GHz clock speed
+22nm Process
+6MB L3  Cache
+Dual Channel DDR3 Controller
+Integrated HD 4600 Graphics
+3 Year Warranty
+SUPC: SDL946215752
+Technical Specification
+_____________________
+
+Warranty
+Period
+3 year Manufacturer Warranty
+
+General
+Maximum Thermal Design Power [TDP]
+84 W
+Bus Speed
+5 GT/s
+Speed
+3.1 GHz (Max Turbo Frequency 3.3 GHz)
+Number of Threads
+4 Threads
+Number of Cores
+4 Cores
+Model ID
+i5-4440
+
+Memory
+Maximum Memory Size Supported
+32 GB
+Memory Channels Supported
+2 Channel
+Memory Type Supported
+DDR3-1333/1600
+Manufacturing Process
+22 nm
+
+Graphics
+Base Frequency
+350 MHz
+Integrated Graphics
+Intel HD Graphics 4600
+Maximum Memory Bandwidth
+25.6 GB/s
+
+Expansion Slots
+Other Graphics Features
+Graphics Max Dynamic Frequency: 1.1 GHz, Intel Quick Sync Video, Intel InTru 3D Technology, Intel Insider, Intel Wireless Display, Intel Clear Video HD Technology, No. of Displays Supported: 3
+
+Warranty
+PCI Slots
+PCI Express Revision 3.0, PCI Express Configurations: Up to 1x16, 2x8, 1x8/2x4, Max No. of PCI Express Lanes: 16
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+INTEL Core i3-4130 3.4 GHz LGA 1150 4...
+ -> 
+Highlights
+_____________________
+Type : Processor
+Warranty : 3 Years Manufacturer Warranty
+SUPC: SDL425251002
+Technical Specification
+_____________________
+
+SALES PACKAGE
+In The Box
+Main Unit, User Manual
+
+GENERAL FEATURES
+Brand
+Intel
+Type
+Processor
+Processor Number
+i3-4130
+Supported Sockets
+FCLGA1150
+Number of Cores
+2
+Number of Threads
+4
+Clock Speed
+3.4 GHz
+Intel Smart Cache
+3 MB
+DMI2
+5 GT/s
+Instruction Set
+64-bit
+Instruction Set Extensions
+SSE 4.1/4.2, AVX 2.0
+Lithography
+22 nm
+Scalability
+1S Only
+Max TDP
+54 W
+
+MEMORY SPECIFICATIONS
+Max Memory Size (dependent on memory type)
+32 GB
+Memory Types
+DDR3-1333/1600
+No. of Memory Channels
+2
+Max Memory Bandwidth
+25.6 GB/s
+ECC Memory Supported
+Yes
+
+GRAPHICS SPECIFICATIONS
+Processor Graphics
+Intel HD Graphics 4400
+Graphics Base Frequency
+350 MHz
+Graphics Max Dynamic Frequency
+1.15 GHz
+No. of Displays Supported
+3
+Graphics Video Max Memory
+1.7 GB
+Additional Features
+Intel Quick Sync Video; Intel InTru 3D Technology; Intel Wireless Display; Intel Clear Video HD Technology
+
+EXPANSION OPTIONS
+PCI Express Revision
+3
+PCI Express Configurations
+Up to 1x16, 2x8, 1x8/2x4
+Max No. of PCI Express Lanes
+16
+
+ADDITIONAL FEATURES
+Features
+Max CPU Configuration: 1; Package Size: 37.5mm x 37.5mm; Graphics and IMC Lithography: 22 nm; Advanced Technologies: Hyper-Threading Virtualization Technology, VT-x with Extended Page Tables, Intel 64, Idle States, Enhanced Intel SpeedStep Technology, Thermal Monitoring Technologies; Intel Data Protection Technology - AES New Instructions; Intel Platform Protection Technology - Execute Disable Bit
+Terms & Conditions
+_____________________
+ -------------------------------------------
+INTEL Core i3-3220  Processor
+ -> 
+Highlights
+_____________________
+3 Years Warranty
+64-bit Architechture
+2 Cores
+Desktop Processor
+3.3 GHz Clock Speed
+FCLGA1155 Socket Type
+55 W Maximum Thermal Design Power (TDP)
+22 nm Manufacturing Process
+SUPC: SDL208434055
+Technical Specification
+_____________________
+
+Warranty
+Period
+3 Years Warranty
+
+SALES PACKAGE
+In The Box
+Main Unit, User Manual
+
+GENERAL FEATURES
+Brand
+Intel
+Type
+Processor
+Processor Number
+i3-3220
+Supported Sockets
+FCLGA1155
+Number of Cores
+2
+Number of Threads
+4
+Clock Speed
+3.3 GHz
+Intel Smart Cache
+3 MB
+DMI2
+5 GT/s
+Instruction Set
+64-bit
+Instruction Set Extensions
+SSE 4.1/4.2, AVX
+Embedded Options Available
+Yes
+Lithography
+22 nm
+Max TDP
+55 W
+
+MEMORY SPECIFICATIONS
+Max Memory Size (dependent on memory type)
+32 GB
+Memory Types
+DDR3-1333/1600
+No. of Memory Channels
+2
+Max Memory Bandwidth
+25.6 GB/s
+ECC Memory Supported
+Yes
+
+GRAPHICS SPECIFICATIONS
+Processor Graphics
+Intel HD Graphics 2500
+Graphics Base Frequency
+650 MHz
+Graphics Max Dynamic Frequency
+1.05 GHz
+No. of Displays Supported
+3
+Additional Features
+Intel Quick Sync Video; Intel InTru 3D Technology; Intel Insider; Intel Wireless Display; Intel Flexible Display Interface; Intel Clear Video HD Technology
+
+EXPANSION OPTIONS
+PCI Express Revision
+2
+PCI Express Configurations
+Up to 1x16, 2x8, 1x8 & 2x4
+
+ADDITIONAL FEATURES
+Features
+Max CPU Configuration: 1; Package Size: 37.5mm x 37.5mm; Advanced Technologies: Virtualization Technology, VT-x with Extended Page Tables, Intel 64, My WiFi Technology, Idle States, Enhanced Intel SpeedStep Technology, Thermal Monitoring Technologies, Identity Protection Technology; Intel Platform Protection Technology - Execute Disable Bit, Anti-Theft Technology
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+INTEL Core i7-4790 4.00 GHz 8M Cache ...
+ -> 
+Highlights
+_____________________
+3 Years Manufacturer Warranty
+Number Of Cores : 4
+Speed : 3.6 GHz
+SUPC: SDL147336105
+Technical Specification
+_____________________
+
+SALES PACKAGE
+In The Box
+Main Unit, User Manual
+
+GENERAL FEATURES
+Brand
+Intel
+Type
+Processor
+Processor Number
+i7-4790
+Supported Sockets
+FCLGA1150
+Number of Cores
+4
+Number of Threads
+8
+Clock Speed
+3.6 GHz
+Max Turbo Frequency
+4 GHz
+Intel Smart Cache
+8 MB
+DMI2
+5 GT/s
+Instruction Set
+64-bit
+Instruction Set Extensions
+SSE 4.1/4.2, AVX 2.0
+Lithography
+22 nm
+Scalability
+1S Only
+Max TDP
+84 W
+
+MEMORY SPECIFICATIONS
+Max Memory Size (dependent on memory type)
+32 GB
+Memory Types
+DDR3-1333/1600
+No. of Memory Channels
+2
+Max Memory Bandwidth
+25.6 GB/s
+
+GRAPHICS SPECIFICATIONS
+Processor Graphics
+Intel HD Graphics 4600
+Graphics Base Frequency
+350 MHz
+Graphics Max Dynamic Frequency
+1.2 GHz
+No. of Displays Supported
+3
+Graphics Video Max Memory
+1.7 GB
+Additional Features
+Intel Quick Sync Video; Intel InTru 3D Technology; Intel Insider; Intel Wireless Display; Intel Clear Video HD Technology
+
+EXPANSION OPTIONS
+PCI Express Revision
+3
+PCI Express Configurations
+Up to 1x16, 2x8, 1x8/2x4
+Max No. of PCI Express Lanes
+16
+
+ADDITIONAL FEATURES
+Features
+Max CPU Configuration: 1; Package Size: 37.5mm x 37.5mm; Graphics and IMC Lithography: 22 nm; Advanced Technologies: Intel Turbo Boost Technology 2.0, vPro Technology, Hyper-threading Technology, Virtualization Technology, Virtualization Technology for Directed I/O, VT-x with Extended Page Tables, TSX-NI, Intel 64, My WiFi Technology, Idle States, Enhanced Intel SpeedStep Technology, Thermal Monitoring Technologies, Identity Protection Technologies, Stable Image Platform Program; Intel Data Protection Technology - AES New Instructions & Secure Key; Intel Platform Protection Technology - OS Guard, Trusted Execution Technology, Execute Disable Bit, Anti-Theft Technology
+Terms & Conditions
+_____________________
+ -------------------------------------------
+INTEL Corei3-4150 Processor
+ -> 
+Highlights
+_____________________
+Socket Type : LGA 1150
+Warranty : 3 years
+Architecture : 4-Way Multitask Processing
+Integrated Memory Controller
+Support 4th Generation Mother Board Only
+Number Of Cores : 2
+Speed : 3.5 Ghz
+SUPC: SDL181233744
+Technical Specification
+_____________________
+
+General
+Number of Cores
+
+Number of Threads
+
+Speed
+3.5 Ghz
+Intel Smart Cache
+Intel Smart Cache Technology
+Bus-Core Ratio
+
+Bus Speed
+
+Maximum Thermal Design Power [TDP]
+
+Manufacturing Process
+intel
+
+Memory
+Memory Type Supported
+
+Memory Channels Supported
+Support Two- Channel DDR3 Memory
+Maximum Memory Size Supported
+
+Maximum Memory Bandwidth
+
+
+Graphics
+Integrated Graphics
+
+Base Frequency
+3.5 Ghz
+Other Graphics Features
+
+
+Expansion Slots
+PCI Slots
+
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+INTEL Corei3-4150  Processor
+ -> 
+Highlights
+_____________________
+Socket Type : LGA 1150
+Warranty : 3 Years
+Architecture : -
+Number Of Cores : 2
+Speed : 3.5 Ghz
+Features : -
+SUPC: SDL215793386
+Technical Specification
+_____________________
+
+General
+Number of Cores
+2
+Number of Threads
+2
+Speed
+3.5 Ghz
+Intel Smart Cache
+-
+Bus-Core Ratio
+-
+Bus Speed
+-
+Maximum Thermal Design Power [TDP]
+54W
+Manufacturing Process
+22nm
+
+Memory
+Memory Type Supported
+DDR3
+Memory Channels Supported
+2 Channels
+Maximum Memory Size Supported
+-
+Maximum Memory Bandwidth
+25.6 GB/s
+
+Graphics
+Integrated Graphics
+-
+Base Frequency
+3.5GHz
+Other Graphics Features
+-
+
+Expansion Slots
+PCI Slots
+-
+Terms & Conditions
+_____________________

@@ -1,0 +1,1170 @@
+
+ -------------------------------------------
+AOC E966SWN 18.5 Inch LED Monitor
+ -> 
+Highlights
+_____________________
+1 Year Warranty
+Screen: 18.5-inch LED
+High Gloss Finish
+LED Panel: Hg Free
+Colour Boost: 5 colour enhancement settings - Full Enhance, Natural Skin, Green Field, Sky Blue and Auto Detect plus Demo
+Picture Boost to highlight any section of the screen
+Ultra-high Dynamic Contrast Ratio of 20,000,000:1
+i-Menu allows users to change the OSD settings using their mouse
+Supports Eco Mode
+Ultra-Low Power Consumption
+Energy Star Certified
+Clean design with power button only
+Photo frame style
+SUPC: SDL376288626
+Technical Specification
+_____________________
+
+SPECIFICATIONS
+Screen Size
+18.5-inch W
+Viewable Image Size
+470mm
+Pixel Pitch
+0.3(H) x 0.3 (V)mm
+Display Area
+409.8 (H) x 230.4 (V)mm
+Brightness
+200 cd/m²
+Contrast Ratio (typical)
+600:1; 20000000:1 (DCR)
+Response Time (typical)
+5ms
+Viewing Angle
+90/65(CR greater than equal to 10)
+Scan Frequency
+H: 30K-60KHz V: 50-75Hz
+Pixel Frequency
+85MHz
+Recommended Resolution
+1366x768 @ 60Hz
+Display Colours
+16.7M
+HDCP Compatible
+No
+Input Signal
+Analog RGB
+Input Connector
+15-pin D-Sub
+Power Supply
+90-240VAC, 50/60Hz
+Power Consumption
+Power On:
+Plug & Play
+VESA DDC2B™ & DDC2B/CI
+User Control
+Power/Auto
+OSD Languages
+NA
+Speakers
+No
+Safety & Regulations
+FCC,CE,cTUVus,TUV-S,Win7,ISO9241-307,EPA5.1,EPEAT Sliver,TUV-Bauart,CB,CKT,BSMI,RoHS
+Wall-Mount
+100mm x 100mm
+Cabinet Colour
+Black
+Mechanical Function
+Tilt: -6° ~ 12°
+WxHxD (w/base)mm
+450 x 333.5 x 131.2 mm
+WxHxD (package)mm
+500 x 394 x 122 mm
+Weight (Net /Gross)
+2.8Kg/3.5Kg
+Terms & Conditions
+_____________________
+ -------------------------------------------
+ViewSonic VX2770SMH-LED 68.5 cm (27) ...
+ -> 
+Highlights
+_____________________
+3 Years Manufacturer Warranty
+Warranty : 3 Years Manufacturer Warranty
+Monitor Type : LCD
+Monitor Size : 68.5 cm (27)
+SUPC: SDL580471811
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Power cable, AC/DC adapter, VGA cable, HDMI cable, Quick Start Guide, ViewSonic Wizard CD (available in some countries only)
+
+GENERAL
+Brand
+ViewSonic
+Model
+VX2770SMH
+Display
+68.58 cm (27) Color Active Matrix IPS TFT LCD
+HD
+Yes
+
+DISPLAY FEATURES
+Panel Type
+Anti-glare Type, 3H Hardness
+Contrast Ratio
+1000:1 (typical); 30M:1 (dynamic)
+Brightness
+250 cd/m² (typ.)
+Screen Resolution
+1920 x 1080
+View Angle
+178 Degree horizontal, 178 Degree vertical
+Response Time
+7 ms (GTG)
+Other Features
+Display Area: 59.69 cm (23.5) horizontal x 33.52 cm (13.2) vertical; 68.58 cm (27) diagonal; Light Source: WLED with 30000 hours (min.)
+
+SPECIFICATION
+Controls
+Basic: Power, 1, 2, up, down; OSD: Auto Image Adjust, Contrast/Brightness, Input Select (D-SUB, DVI-D, HDMI), Color Adjust (sRGB, Bluish, Cool, Native, Warm, User Color [R,G,B]), Audio Adjust (volume, mute, audio input), Information, Manual Image Adjust (H/V Position, Horizontal Size, Fine Tune, Sharpness, Dynamic Contrast, Response Time, Aspect Ratio, Overscan, ECO-mode), Setup Menu (Language, Resolution Notice, OSD Position, OSD Timeout, OSD Background, Auto Power Off, Sleep, Power Indicator), Memory Recall
+Connectivity
+Analog/Digital: 15-pin mini D-sub (VGA) / HDMI (with HDCP) DVI-D (with HDCP); Audio Input: 3.5 mm mini-jack; Headphone: 3.5 mm mini-jack; Power: External power adapter
+System Requirements
+PC: PC compatibles (from VGA up to 1920 x 1080 non-interlaced), Mac: Power: Mac Up to 1920 x 1080
+Temperature Range
+32 - 104 Degree F (0 to 40 Degree C)
+Operating Humidity Range
+20 - 90 % (non-condensing)
+Mounting Features
+Tilt: Forward 5 Degree, Back 20 Degree
+Audio Features
+Built In Speakers
+
+POWER
+Power Supply
+AC 100 - 240 V; 50/60 Hz
+Power Consumption
+30 W (typical); Eco Mode: 26W (Optimize) / 22W (Conserve); Power Save Mode: Less than equal to 1 W
+
+ADDITIONAL FEATURES
+Other Features
+VIDEO INPUT - Analog/Digital: RGB analog (0.7 / 1.0 Vp-p, 75 ohms)/ HDMI / DVI-D (TMDS, 100 ohms), Frequency - Fh: 24 - 83 kHz, Fv: 50 - 76 Hz, Sync: Separate Sync; Regulations: CE,CB, BSMI, SASO, C-tick, e-standby, KC, UL/cUL, FCC-B (including ICES003), NOM, GOST-R/Hygienic, UkrSEPRO, Erp, CCC, China Energy, EPEAT Silver, WEEE, RoHS, SVHC list; Power Management: ENERGY STAR standards, EPEAT Silver
+
+Dimensions & Weight
+W x H x D (With Stand)
+622.3 x 459.3 x 192.5 mm
+Weight with Stand
+5.0 Kg
+
+WARRANTY
+Period
+3 Years Manufacturer Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Viewsonic VA2046a 50.8 cm (20) LED Ba...
+ -> 
+Highlights
+_____________________
+3 Years Manufacturer Warranty
+Monitor Size : 50.8 cm (20)
+Monitor Type : LED
+Warranty : 3 Years Manufacturer Warranty
+SUPC: SDL578639142
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Monitor, Adapter Cable, User Guide
+
+GENERAL
+Brand
+ViewSonic
+Model
+VA2046a
+Display
+50.8cm (20) LED Backlit LCD Display
+
+DISPLAY FEATURES
+Panel Type
+Anti-glare, Hard Coating 3H
+Contrast Ratio
+600:1, 10000000:1 (Dynamic)
+Brightness
+250 cd/m Square (typ.)
+Screen Resolution
+1600 x 900
+View Angle
+90 Degree horizontal, 65 Degree vertical
+Response Time
+5 ms
+Other Features
+Number of Colors: 75 M Colors; Horizontal Scanning Frequencies: 24 - 82 kHz (Digital); Wide Screen, White-light LED, Minimum Backlight Life: 40000 Hours
+
+SPECIFICATION
+Connectivity
+VGA: D-sub; Internal Power Board, 3-pin Plug (CEE22)
+System Requirements
+Windows Vista Premium/7/8
+Temperature Range
+0 - 40 Degree C
+Operating Humidity Range
+5 - 90 Percent
+Mounting Features
+Stand: Tilt; Stand Tilt: -5 Degree to 18 Degree; Wall Mounting: 100 x 100 mm; Wall Mount Standard: VESA Mount; Security Lock Slot: Kensington Lock
+
+ADDITIONAL FEATURES
+Other Features
+Eco Mode, Glossy Thin-bezel Design
+
+Dimensions & Weight
+W x H x D (Without Stand)
+478.2 x 301.8 x 49 mm
+W x H x D (With Stand)
+478.2 x 360.2 x 197.6 mm
+Weight with Stand
+3 Kg
+Weight without Stand
+2.6 Kg
+
+WARRANTY
+Period
+3 Years Manufacturer Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+AOC e1660Sw 39.62 cm (15.6) LED Monitor
+ -> 
+Highlights
+_____________________
+3 Years Onsite Warranty
+39.62 cm (15.6) LED Monitor
+Contrast Ratio: 20000000:1 (DCR)
+Response Time: 11 ms
+Resolution: 1366 x 768 at 60Hz
+Ultra Low Power Consumption
+LED Panel: Hg Free
+Screen+ Software
+Eco Mode, e-Saver, and i-Menu
+TCO Certified Display 5.2
+SUPC: 1779098
+Technical Specification
+_____________________
+
+SALES PACKAGE
+In The Box
+Main Unit
+
+GENERAL
+Model
+E1660SW
+Type
+LED Monitor
+Colour
+Black
+
+SPECIFICATIONS
+Screen Size
+39.62 cm (15.6) Wide
+Viewable Image Size
+395 mm
+Pixel Pitch
+0.252 (H) x 0.252 (V) mm
+Display Area
+344.232 (H) x 193.536 (V)mm
+Brightness
+220 cd/metre square
+Contrast Ratio
+20000000:1 (DCR)
+Response Time (typical)
+11ms
+Viewing Angle
+90/65 (CR=10)
+Scan Frequency
+H: 30K - 60KHz, V:60 - 75Hz
+Pixel Frequency
+85.5MHz
+Recommended Resolution
+1366 x 768 at 60 Hz
+Display Colours
+262K
+Input Signal
+Analog RGB
+Input Connector
+15-pin D-Sub
+
+POWER
+Power Supply
+100 - 240VAC, 50/60Hz
+Power Consumption
+Power On: Less than 12W (Typical), Standby: Less than 0.5W
+
+ADDITIONAL FEATURES
+Features
+Plug & Play: VESA DDC2B & DDC2B/CI; User Control: Auto, Eco(DCR)/-, Image Ratio/+, Menu, Power; OSD Languages: 16 Languages; Safety & Regulations: cTUVus, FCC, CE, EPA, Epeat Sliver, TUV/S, Win7; Wall Mount: 100mm x 100mm; Mechanical Function - Tilt: -5 - 20 Degree
+
+PHYSICIAL Dimensions:{W x H x D (w/base)mm
+
+W x H x D (package)mm
+
+Weight (Net /Gross)
+
+Warranty
+Period
+3 Years Onsite Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+ViewSonic VX2370SMH-LED 58.42 cm (23)...
+ -> 
+Highlights
+_____________________
+3 Years Manufacturer Warranty
+Warranty : 3 Years Manufacturer Warranty
+Monitor Size : 58.42 cm (23)
+Monitor Type : LED
+SUPC: SDL579856883
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, VGA Cable, HDMI Cable, Audio Cable, Power Cord and Adapter, Quick Start Guide, ViewSonic Wizard CD-ROM
+
+GENERAL
+Brand
+ViewSonic
+Model
+VX2370SMH
+Display
+58.42 cm (23) IPS LED
+HD
+Yes
+
+DISPLAY FEATURES
+Panel Type
+LED Backlit LCD Flat Panel Display
+Contrast Ratio
+30000000:1
+Brightness
+250 cd/m² (typ.)
+Screen Resolution
+1920 x 1080
+View Angle
+178 Degree
+Response Time
+7 ms (GTG)
+
+SPECIFICATION
+Connectivity
+Analog: 1 x VGA, Digital: 1 x DVI, 1 x HDMI, Audio Input/output, Internal Interface: Analog/Digital
+System Requirements
+Computer with HDMI, DVI, or VGA input
+Mounting Features
+Tilt: -5 to 15 Degree
+Audio Features
+2 x Built-In Speakers
+
+ADDITIONAL FEATURES
+Other Features
+Compliant Standards: Energy Star
+
+Dimensions & Weight
+W x H x D (With Stand)
+533 x 409 x 180 mm
+Weight with Stand
+4 Kg
+
+WARRANTY
+Period
+3 Years Manufacturer Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Dell UltraSharp U2414H 60.96 cm (24) ...
+ -> 
+Highlights
+_____________________
+Colour : 16.77 Million Colours
+Features : Full HD
+Monitor Type : LCD
+Size : 60.96 cm (24)
+SUPC: SDL219157743
+Technical Specification
+_____________________
+
+General
+Display
+Widescreen Flat Panel Display
+Backlight
+LED
+Panel Type
+In-plane switching, anti glare with hard coat 3H
+Resolution
+1920 x 1080 at 60Hz
+Full HD
+Yes
+Part Number
+U2414M
+
+Display Features
+Number of Colors
+16.77 Million Colours
+Aspect Ratio
+Widescreen (16:9)
+Contrast Ratio
+1000: 1 (typical); 2 Million:1 (Max) (Dynamic Contrast Ratio)
+Horizontal Viewing Angle
+178 Degrees
+Vertical Viewing Angle
+178 Degrees
+Response Time
+5 ms - 10 ms
+Brightness
+250 cd/m2 (typical)
+Pixel Pitch
+0.274 mm
+Color Gamut
+85 Percent (Typical)
+
+Power Features
+Power Requirement
+100 to 240 VAC / 50 Hz
+Power Consumption
+16 (typical) / 74W (maximum)
+
+Mounting Features
+Stand
+Height-adjustable stand, tilt, pivot, swivel and built in cable-management
+
+Additional Features
+Other Features
+Flat Panel Mount Interface: VESA (100 mm); USB 3.0 Hi-Speed Hub (with 1 USB upstream port and 4 USB downstream ports); 2 HDMI(MHL) connectors; 1 Mini DisplayPort; 1 DisplayPort (version 1.2a); 1 DisplayPort out (MST); 1 Audio Line out (connect your speakers); 4 USB 3.0 ports - Downstream (4 at the back, 1 with battery charging); 1 USB 3.0 port - Upstream; ENERGY STAR 6; EPEAT Gold; TCO Certified Displays; RoHS Compliant
+
+Dimensions with Stand
+Width
+53.92 cm (without stand)
+Height
+32.10 (without stand)
+Depth
+4.6 (without stand)
+Weight
+3.61 kg (panel only - for VESA mount)
+Terms & Conditions
+_____________________
+ -------------------------------------------
+AOC e2060 swn 50.8 cm (20) LED Monitor
+ -> 
+Highlights
+_____________________
+3 Years Onsite Warranty
+Off timer feature
+LED
+Image ratio exchange
+DCR of 20 million
+Low power consumption
+Sleek and stylish
+SUPC: 1779104
+Technical Specification
+_____________________
+
+Warranty
+Period
+3 Years Onsite Warranty
+
+GENERAL
+Screen Size
+50.8cm (20) Wide(508 mm diagonal)
+Maximum Resolution
+1600 x 900
+Pixel Pitch (mm)
+0.3 mm
+Contrast Ratio (LCD Panel)
+600:1
+Dynamic Contrast Ratio
+20,000,000:1
+Viewing Angle Horizontal (CR >10)
+50 degree
+Viewing Angle Vertical (CR >10)
+90 degree
+Response Time
+5ms
+Luminance
+200 Cd/m2
+Interfaces
+Analog
+Colors Supported
+16.7 Million
+Frequency Range (Horizontal)
+30-80 KHz
+Frequency Range (Vertical)
+56-75Hz
+Aspect Ratio
+16:9
+
+ADDITIONAL FEATURES
+Wall Mount
+VESA 100 x 100
+Approvals and Certifications
+CE,cTUVus,FCC,Energy Star,RoHS,Windows 7,EPEAT Gold
+
+POWER
+Power Consumption
+18W (Typical)
+
+Dimensions:{W x D x H
+
+Gross Weight (kg)
+
+Net Weight (kg)
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+LG 50.8 cm (20) 20EN33TS LED Monitor
+ -> 
+Highlights
+_____________________
+3 Year Warranty
+Monitor Type : LED
+Monitor Size : 49.53 cm (19.5)
+Warranty : 3 Year Manufacturer Warranty
+Color : Black
+SUPC: SDL622023699
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Monitor, Power Cord, D-Sub
+
+GENERAL
+Model
+20EN33TS
+Screen Type
+LED Display
+Display Size
+49.53 cm (19.5)
+Display Feature
+Display Colours: 16.7 M, Brightness (nit): 220, Response Time (ms): 5, Pixel Pitch (mm): 0.271 x 0.262, LED Colour: Red, OSD Language: 17
+Screen Resolution
+1600 x 900 Pixels
+
+VIDEO
+Aspect Ratio
+-
+Dynamic Ratio
+5000000:1
+View Angle
+90/65 Degree
+Refresh Rate
+-
+Additional
+-
+
+AUDIO
+Speakers
+-
+Sound Output
+-
+Sound Technology
+-
+Additional
+-
+
+CONNECTIVITY
+HDMI
+-
+USB
+-
+Ethernet
+-
+Composite Video Input
+-
+Component Video Input
+-
+Audio Out
+-
+Headphone Out
+-
+Other Connections
+-
+
+PLAYBACK
+Video Playback Formats
+-
+Audio Playback Formats
+-
+Picture Playback Formats
+-
+Additional
+-
+
+FEATURES
+Internet
+-
+Applications
+-
+Additional Features
+Dual Smart Solution, Super Energy Saving, Wall Mount, Intelligent Auto (Auto Resolution), DDC/CI, D-Sub, H-Frequency (Analog): 30 - 53 kHz, V-Frequency (Analog): 56 - 63 Hz, Power Type: Adapter, DPM: 0.3 W, S/W Off: 0.3 W Under, Front Colour: Black (Hairline & Glossy), B/Cover Colour: Black (Texture), Stand Colour: Black (Glossy), Base detachable, Tilt
+
+POWER
+Power Supply
+-
+Power Consumption
+20 W
+
+Dimensions & Weight
+W x H x D (Without Stand)
+-
+W x H x D (With Stand)
+463 x 357 x 168 mm
+Weight with Stand
+2.2 Kg
+Weight without Stand
+-
+
+WARRANTY
+Period
+3 Year Manufacturer Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+AOC I2369VM 58.42 cm (23) IPS Monitor
+ -> 
+Highlights
+_____________________
+1 Year Warranty
+LED Panel: Hg Free
+MHL- Mobile High-Definition Link
+Ultra-high Dynamic Contrast Ratio of 20,000,000:1
+Supports Eco Mode
+DisplayPort
+AH-IPS Panel for Wide Viewing Angle and Good Image Performance
+Ultra-low power consumption
+Multimedia-Ready with HDMI Input
+Screen: 58.42 cm (23) IPS Monitor
+Off Timer
+Clear Vision image performance engine
+SUPC: SDL071961518
+Technical Specification
+_____________________
+
+SPECIFICATIONS
+Panel size
+58.42 cm (23)
+Response Time (Typical)
+5ms
+Recommonded Resolution
+1920x1080
+Contrast Ratio
+1K:1 (Typical), 20000000:1 (DCR)
+Brghtness (Typical)
+250 cd/m Square
+Display Color
+16.7M
+Viewing Angel (H/V)
+178/178
+Pixel Frequency
+170MHz
+Input Signal
+Analog, HDMI1 (MHL), HDMI2 & DP
+Input Power
+110-240VAC, 50/60Hz
+Cabinet Color
+Black
+User Control
+Menu/Enter,Clear Vision/, Source/Auto/Exit, Power
+OSD Languages
+16 Languages
+Safety Regulation
+CE, FCC, CCC, TUV-Bauart, cTUVus,CEL, CH RoHS, BSMI, KC, Ukraine Safety,ISO9241-307, WEEE, C-Tick, VCCI, PSE,J-MOSS, e-Standby, TCO 6.0
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+HP Compaq R191B/F191 46.99 cm (18.5) ...
+ -> 
+Highlights
+_____________________
+Warranty : 3 Years Limited Warranty
+Monitor Type : LED
+Monitor Size : 46.99 cm (18.5)
+SUPC: SDL504835628
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit
+
+GENERAL
+Brand
+HP
+Model
+Compaq R191B/F191
+Display
+46.99 cm (18.5) LED
+
+DISPLAY FEATURES
+Panel Type
+Twisted Nematic (TN) with LED backlight
+Aspect Ratio
+16:9
+Contrast Ratio
+(Static): Up To 600:1, (Dynamic): Up To 2000000:1
+Brightness
+200 nits
+Screen Resolution
+1366 x 768 @ 60 Hz
+View Angle
+Horizontal: 90 Degrees, Vertical: 65 Degrees
+Response Time
+5 ms
+Other Features
+Pixel pitch: 0.3 mm, ppi: 84.7, Color gamut: 72% of NTSC
+
+SPECIFICATION
+Connectivity
+VGA video input connector
+Temperature Range
+Operating Temperature: 5 Degree C to 35 Degree C (41 Degree F to 95 Degree F)
+Operating Humidity Range
+20 % through 80 % Relative Humidity (non-condensing)
+
+POWER
+Power Supply
+Internal Power Supply
+Power Consumption
+22 Watts max power consumption (20 Watts typical power consumption), 0.5 Watt energy saving mode
+
+ADDITIONAL FEATURES
+Other Features
+Anti-Glare, Plug and Play capability (if supported by your computer system), On-screen display (OSD) adjustments for ease of setup and screen optimization, Security lock
+
+Dimensions & Weight
+Dimensions (W x D x H)
+44.9 x 19 x 36.2 cm
+Weight with Stand
+2.7 Kg
+
+WARRANTY
+Period
+3 Years Limited Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+LG 46.99 cm (18.5) LED Monitor (19EN33S)
+ -> 
+Highlights
+_____________________
+3 Year Warranty
+46.99 cm (18.5) LED Monitor
+Resolution: 1366 x 768
+Dual Smart Solution
+Super Energy Saving
+Wall Mount
+Picture Mode
+Plug & Play
+Aspect Ratio - 16:9
+SUPC: SDL146645579
+Technical Specification
+_____________________
+
+SALES PACKAGE
+In The Box
+Main Unit, Power Cord, D-Sub
+
+BASIC SPECIFICATIONS
+Screen Size
+18.5
+Panel Type
+TN
+Color Gamut
+0.72
+Color Depth (Number of colors)
+16.7M
+Pixel pitch (mm)
+0.30 x 0.30
+Aspect Ratio
+16:9
+Resolution
+1366 x 768
+Brightness (cd/metre square)
+200 cd/m2
+Contrast Ratio
+700:1 (Typ)
+Contrast Ratio (DFC)
+5M:1
+Response Time Typ. (on/off)
+3.5ms/1.5ms
+Viewing Angle (CR=10)
+90/65
+Viewing Angle (CR=5)
+100/75
+Lamp Q'ty
+4 ch
+Surface Treatment
+Haze 25%, 3H
+Inputs/Outputs
+Jack Location - Signal Input: Back, D-Sub
+Standard
+UL(cUL); FCC-B, CE; TUV-GS; EPA; VESA Mount; Microsoft Logo - Windows 8
+
+POWER
+Power Type (Adapter or LIPS)
+Adaptor
+Input
+100-240V
+Power: Normal On (Typ.)
+18W
+Power Save/Sleep Mode(Max)
+0.3W
+DC Off(Max)
+0.3W
+
+CONTROL KEY
+Key Location
+Bottom
+Key Number (Power Key Included)
+6 keys
+Key Type
+Tact
+LED Color (On mode)
+Red
+LED Color (Power save mode)
+Blinking
+
+ADDITIONAL FEATURES
+Features
+H-Frequency (Analog): 30-61kHz; V-Frequency (Analog): 56-75kHz; Number of Languages: 17; Picture Mode; 4:3 in Wide (ARC: Auto Ratio Control): PC; 4:3 in Wide (ARC: Auto Ratio Control): DDC/CI; Intelligent Auto (Auto Resolution); Plug & Play; Super Energy Saving; Dual Smart Solution
+
+MECHANIC
+Front Color
+Black hair line(front) and high glossy(side)
+Back Cover Color
+Black pattern texture
+Stand Color
+Black (High Glossy)
+Base Color
+Black hair line
+Base Detchable
+Yes
+Tilt
+Yes / -5 degree (front) - 20 degree (rear)
+
+Dimensions & WEIGHT
+Set (with Stand)
+2.1 kg
+Set (Without Stand)
+44.1(W) x 3.5(D) x 27.5(H) cm
+Wall Mount
+7.5 x 7.5 cm
+Set (without Stand)
+1.9 kg
+
+Warranty
+Period
+3 Year Warranty
+Description
+_____________________
+Advance your TV viewing pleasure with the stylish LG 46.99 cm (18.5) LED Monitor E1942C. The stylish LED monitor ensures
+
+The LED monitor features
+The
+Terms & Conditions
+_____________________
+ -------------------------------------------
+BenQ 39.62 cm (15.6) LED - G615HDPL M...
+ -> 
+Highlights
+_____________________
+BenQ 3 Years On Site Warranty
+39.62 cm (15.6) W (LED backlight, Glare Panel)
+1,000,000:1 contrast ratio
+16:9 Aspect Ratio
+Senseye Human Vision Technology
+Energy Efficient and Money Saving
+Splendid Color Presentation in Every Little Detail
+Mercury-Free for Extended Use and Waste Reduction
+SUPC: 1725229
+Technical Specification
+_____________________
+
+Warranty
+Period
+BenQ 3 Years On Site Warranty
+
+Specifications
+Product Color
+Black
+
+Display
+Screen Size
+39.62 cm (15.6)W (LED backlight, Glare Panel)
+Aspect Ratio
+0.672916666666667
+Resolution (max.)
+1366x768
+Pixel Pitch (mm)
+0.252
+Native Contrast ( typ. )
+20.8340277777778
+DCR (Dynamic Contrast Ratio) (typ.)
+1M:1
+Panel Type
+TN
+Viewing Angle (L/R;U/D) (CR>=10)
+90/50
+Color Gamut
+0.6
+
+Audio/Video Inputs/Outputs
+Input Connector
+D-sub
+
+Power
+Power Supply (90~264 AC)
+Built-in
+Power Consumption (On mode)
+10W
+(Power saving mode)
+1W
+
+Dimensions & Weight
+CTN Dimensions (HxWxD mm)
+350x440x114
+Dimensions(HxWxD mm)
+300.45x377.8x146
+Dimensions with Wall Mount (HxWxD mm)
+240.12x377.8x55.35
+Net Weight (kg)
+1.9KG
+Gross Weight (kg)
+2.7KG
+
+Special Features
+Senseye
+Senseye Human Vision Technlogy and Senseye 3
+Vista Compatibility
+No
+Color Temperature
+Reddish / Normal/ Bluish /User mode
+OSD Language
+17 languages
+VESA Wall Mounting
+100x100mm
+Tilt (down/up)
+-0.25
+K Locker
+Yes
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Dell E2014H 49.53 cm (19.5) LED Backl...
+ -> 
+Highlights
+_____________________
+3 Year On Site Warranty
+49.53 cm (19.5) Flat Panel LCD Monitor
+TN anti glare with hard coat 3H
+Resolution: 1600 x 900 at 60 Hz
+LED Backlight Technology
+Dell Display Manager
+Fast 5ms response time
+83 Percent color gamut
+Plenty of room to work and play with a 16:9 widescreen format
+Easy-reach front panel controls
+Built to comply with the latest environmental and regulatory standards
+SUPC: SDL285128313
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Monitor, Stand, Power Cord, Drivers, Documentation Media, Quick Set Up Guide and Safety Information, VGA cable, DVI-D cable
+
+GENERAL
+Brand
+Dell
+Model
+E2014H
+Display
+49.40 cm (19.45) LED Backlight LCD Display
+HD
+Yes
+
+DISPLAY FEATURES
+Panel Type
+TN (Active Matrix - TFT LCD), Anti-glare
+Aspect Ratio
+16:09
+Contrast Ratio
+1000:1 (Typical)
+Brightness
+250 cd/m^2
+Screen Resolution
+1600 x 900 Pixels
+View Angle
+160 Degree Vertical / 170 Degree Horizontal
+Refresh Rate
+-
+Response Time
+5 ms
+Other Features
+Color Support: Gamut (Typical) 83 % 3; Depth: 16.7 million colors, Pixel Pitch: 0.27 (H) mm x 0.27 (V) mm
+
+SPECIFICATION
+Controls
+Function Buttons, Power On/Off Button (with LED Indicator)
+Connectivity
+DVI, VGA , 15 Pin D-sub, DVI-D, Solid Pins
+System Requirements
+Windows: XP/Vista/7/8
+Temperature Range
+Operating: 0 to 40 Degree Celsius
+Humidity Range
+Operating: 10% - 80% (non-condensing)
+Mounting Features
+VESA Mount , Stand: Tilt 5 Degree to 21 Degree
+Audio Features
+-
+
+POWER
+Power Supply
+100 to 240 V AC, 50/60 Hz (+/-3 Hz)/1.5 A (Typical)
+Power Consumption
+Operational: 12 W (Typical) /14 W, Stand by / Sleep: Less than 0.5 W
+
+ADDITIONAL FEATURES
+Other Features
+Security lock slot and Stand Lock (Security Lock not included), Environmental Compliance: ENERGY STAR , TCO Certified Displays, EPEAT Gold, China Energy Label, CEL, WEEE, ErP (EuP) Standards, Korea, E-Standby
+
+Dimensions & Weight
+W x H x D (Without Stand)
+-
+W x H x D (With Stand)
+473.9 x 358.8 x 165.5 mm
+Weight with Stand
+3.14 Kg
+Weight without Stand
+2.41 Kg
+
+WARRANTY
+Period
+3 Years Limited Hardware Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Dell S2240L 54.61 cm (21.5) LED Monitor
+ -> 
+Highlights
+_____________________
+3 Year Warranty
+54.6cm LED Monitor
+Full HD Resolution
+IPS Panel
+178 Degree Vertical & Horizontal Viewing Angle
+VGA & HDMI Connectivity
+Typical Contrast Ratio: 1000 : 1
+Dynamic Contrast Ratio: 8 million : 1
+Aspect Ratio: 16 : 9
+SUPC: 1731560
+Technical Specification
+_____________________
+
+SALES PACKAGE
+In The Box
+Monitor, VGA Cable, Power Cord and Manual
+
+GENERAL
+Display
+54.61 cm (21.5) LED Backlit LCD Display
+Backlight
+LED Backlight
+Panel Type
+IPS
+Resolution
+1920 x 1080 pixels
+HD
+Yes
+Full HD
+Yes
+Part Number
+S2240L
+
+DISPLAY FEATURES
+HD Standard
+1080p
+Number of Colors
+16.7 M Colors
+Aspect Ratio
+16:9
+Contrast Ratio
+1000: 1 (typical)
+Horizontal Viewing Angle
+178 Degree (2D)
+Vertical Viewing Angle
+178 Degree (2D)
+Response Time
+7 ms
+Brightness
+250 nits (2D)
+Pixel Pitch
+0.265 mm
+Color Gamut
+82 % (CIE1976), 72 % (CIE1931)
+Other Display Features
+Wide Screen TFT Active Matrix LED, Horizontal Viewable Image Size of 50.92 cm (20.05) and Vertical Viewable Image Size of 28.65 cm (11.28), Diagonal Viewable Image Size of 58.42 cm (23)
+
+POWER FEATURES
+Power Requirement
+AC 100 - 240 V, 50/60 Hz
+Power Consumption
+18 W (Operational), 0.5 W (Standby)
+
+CONNECTIVITY
+HDMI
+Yes
+VGA
+Yes
+
+MOUNTING FEATURES
+Stand
+Tilt
+Security Lock Slot
+Yes
+
+ADDITIONAL FEATURES
+Other Features
+Virtually Borderless, Ultrawide Viewing Angle, Stunning Clarity, Customizable Color, Stay Versatile, Save Resources, Environment Responsible - Energy Star
+
+Dimensions WITH STAND
+Width
+499.1 mm
+Height
+380.2 mm
+Depth
+175.8 mm
+Weight
+3.69 kg
+
+Dimensions WITHOUT STAND
+Weight
+2.6 kg
+
+Warranty
+Period
+3 Year Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________

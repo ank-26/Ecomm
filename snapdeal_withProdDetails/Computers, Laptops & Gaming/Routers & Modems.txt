@@ -1,0 +1,1441 @@
+
+ -------------------------------------------
+TP-Link 150 Mbps Wireless N Router (T...
+ -> 
+Highlights
+_____________________
+3 Year Warranty
+Wireless speed up to 150Mbps
+Wireless speed up to 150Mbps
+WDS wireless bridge
+Setup wireless security encryption easily at a push of QSS button
+Priority of service
+Supports SPI firewall and access control management
+Supports WPA/WPA2 encryptions
+Seamlessly compatible with 802.11b/g/n devices
+SUPC: 1807184
+Technical Specification
+_____________________
+
+Warranty
+Period
+3 Year Warranty
+
+HARDWARE FEATURES
+Interface
+4 10/100Mbps LAN Ports, 1 10/100Mbps WAN Port
+Button
+Quick Setup Security Button (WPS Compatible), Reset Button, Power On/Off Button
+External Power Supply
+9VDC / 0.6A
+Wireless Standards
+IEEE 802.11n, IEEE 802.11g, IEEE 802.11b
+Antenna
+5dBi Fixed Omni Directional
+Dimensions ( W x D x H )
+6.9 x 4.6 x 1.3 in. (174 x 118 x 33 mm)
+
+WIRELESS FEATURES
+Frequency
+2.4-2.4835GHz
+Signal Rate
+11n: Up to 150Mbps(dynamic), 11g: Up to 54Mbps(dynamic), 11b: Up to 11Mbps(dynamic)
+EIRP
+
+
+Reception Sensitivity
+130M: -68dBm@10% PER
+Yes
+108M: -68dBm@10% PER
+Yes
+54M: -68dBm@10% PER
+Yes
+11M: -85dBm@8% PER
+Yes
+6M: -88dBm@10% PER
+Yes
+1M: -90dBm@8% PER
+Yes
+
+General
+Wireless Functions
+Enable/Disable Wireless Radio, WDS Bridge, WMM, Wireless Statistics
+Wireless Security
+64/128/152-bit WEP / WPA / WPA2,WPA-PSK / WPA2-PSK
+
+SOFTWARE FEATURES
+WAN Type
+Dynamic IP/Static IP/PPPoE/PPTP(Dual Access)/L2TP(Dual Access)/BigPond
+DHCP
+Server, Client, DHCP Client List, Address Reservation
+Quality of Service
+WMM, Bandwidth Control
+Port Forwarding
+Virtual Server,Port Triggering, UPnP, DMZ
+Dynamic DNS
+DynDns, Comexe, NO-IP
+VPN Pass-Through
+PPTP, L2TP, IPSec (ESP Head)
+Access Control
+Parental Control, Local Management Control, Host List, Access Schedule, Rule Management
+Firewall Security
+DoS, SPI Firewall, IP Address Filter/MAC Address Filter/Domain Filter, IP and MAC Address Binding
+Management
+Access Control, Local Management, Remote Management
+
+OTHERS
+Certification
+CE, FCC, RoHS
+Package Contents
+TL-WR740N, 1 fixed omni directional antennas, Power supply unit, Resource CD, Quick Installation Guide
+System Requirements
+Microsoft Windows 98SE, NT, 2000, XP, Vista or Windows 7, MAC OS, NetWare, UNIX or Linux
+
+Environment
+Operating Temperature
+0 Degree C - 40 Degree C (32 Degree F - 104 Degree F)
+Storage Temperature
+Minus 40 Degree C - 70 Degree C (-40 Degree F - 158 Degree F)
+Operating Humidity
+10% - 90% non-condensing
+Storage Humidity
+5% - 90% non-condensing
+Description
+_____________________
+The TL-WR740N router is a
+This TL-WR740N router is a high speed solution which is
+It is compatible with
+Useful Links
+_____________________
+
+Meet Chromecast - Mirror Your Mobile/Laptop Screen Wirelessly to the TV
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Tenda G1005D 5-Port 10/100/1000 Gigab...
+ -> 
+Highlights
+_____________________
+3 Year Warranty
+5 Autosensing 10/100/1000Mbps switched ports with auto MDI/MDI-X crossover detection
+Up to 2000Mbps full duplex bandwidth and wire speed forwarding on each port
+Compact size fits into any environment
+Address Learning and Aging, and Data Flow Control for enhanced transmission
+SUPC: SDL941915393
+Technical Specification
+_____________________
+
+Technical Specifications
+Protocol and Standards
+IEEE802.3, IEEE802.3u and IEEE802.3ab,IEEE 802.3x
+Interface
+5 RJ-45 ports and 10/100/1000Mbps per port
+Power Supply
+AC9V 1200mA 220V
+MAC Address Table Size
+8K
+Backplane Bandwidth
+10 Gbps
+Transmission Method
+Store-and-Forward
+Transmission Media
+10Base-T: Cat.3 or 3e UTP; 100Base-TX: Cat.5 UTP; 1000Base-T: Cat.5e UTP
+Operating Temperature
+32 to 104 Degree Fahrenheit (0 to 40 Degree Celsius)
+Operating Humidity
+10 to 90 Percent Noncondensing
+Storage Temperature
+Minus 40 to 158 Degree Fahrenheit (-40 to 70 Degree Celsius)
+Dimensions (LxWxH)
+172x110x30 mm
+Housing Material
+Plastic
+Gross Weight
+0.85Kg
+Certificate
+CE, RoHS
+
+Warranty
+Period
+3 Year Warranty
+Description
+_____________________
+Useful Links
+_____________________
+
+Meet Chromecast - Mirror Your Mobile/Laptop Screen Wirelessly to the TV
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Tenda TEH1600M 16-Port 10/100 Switch
+ -> 
+Highlights
+_____________________
+3 Year Warranty
+16 Autosensing 10/100Mbps Switched Ports with Auto MDI/MDI-X Crossover Detection
+Up to 200Mbps Full Duplex Bandwidth on Each Port
+Sturdy Metal Case Ideal for Years of Dependable Use
+Address Learning and Aging, and Data Flow Control for Enhanced Transmission
+SUPC: SDL948559018
+Technical Specification
+_____________________
+
+Warranty
+Period
+3 Year Warranty
+
+TECHNICAL SPECIFICATIONS
+Protocols and Standards
+IEEE 802.3, IEEE 802.3u, IEEE 802.3x
+Interface
+16 ports and 10/100Mbps per port
+Power Supply
+AC160-264V,50HZ/60HZ , 5V 3A
+MAC Address Table Size
+4K
+Switching Fabric
+Non-blocking
+Transmission Method
+Store-and-Forward
+Transmission Media
+10Base-T:Cat.3 or 3e UTP;100Base-Tx:Cat.5 UTP;
+Packet Buffer
+1.5M
+Operating Temperature
+0 to 40 Degree C
+Operating Humidity
+10 to 90 percent Noncondensing
+Dimension (WxDxH)
+123mmx440mmx44mm (4.8 inchx17.3inchx1.7 inch)
+Housing Material
+Metal
+Gross Weight
+1.82 Kg
+Certificate
+CE, RoHS
+Description
+_____________________
+Useful Links
+_____________________
+
+Meet Chromecast - Mirror Your Mobile/Laptop Screen Wirelessly to the TV
+Terms & Conditions
+_____________________
+ -------------------------------------------
+HP 08 Port Switch
+ -> 
+Highlights
+_____________________
+Life Time
+Type : Ethernet Routers & Switches
+Speed : 1600 Mbps
+Number Of Usb Ports : 0
+Warranty : Life Time
+SUPC: SDL534089572
+Technical Specification
+_____________________
+
+GENERALType
+Installation Features
+Plug and Play
+Model
+1410-8G
+Part Number
+J9559A
+In The Box
+Switch, Cable, Mount Kit(Optional), Product Manual
+LED Indicator
+Yes
+Brand
+HP
+
+SPEED
+LAN/WAN
+LAN
+
+CONNECTIVITY
+Number of LAN ports
+8
+Number of WAN ports
+0
+Number of USB Ports
+0
+LAN
+08 Port Gigabit
+
+OPERATING CONDITIONS
+Operating Humidity
+15% to 95%
+Temperature
+0 to 40
+
+POWER
+Power Supply
+Inbuilt
+
+SYSTEM REQUIREMENTS
+Operating System
+Any OS
+
+ADDITIONAL FEATURES
+Certification
+FCC 15
+
+WARRANTYService Type
+Warranty Type
+Onsite
+Covered in Warranty
+All SVC Covered
+Not Covered in Warranty
+Physical Damages, Temp Warranty Seal
+Warranty Summary
+Life Time Replacement Warranty against original invoice
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Zyxel Ethernet Router (P-660R-Tx SERIES)
+ -> 
+Highlights
+_____________________
+Product Type : Wired with Modem
+Product Antennae : Internal
+Warranty : 3 Years Manufacturer Warranty
+SUPC: SDL481144009
+Technical Specification
+_____________________
+
+In the Box
+Box Contents
+Main Unit, User Manual, Warranty Card
+
+Hardware
+Interface
+ADSL port: RJ-11 port for Annex A or RJ-45 port for Annex B LAN port: RJ-45 port
+Button
+Power
+External Power Supply
+9 v
+Wireless Standards
+802.1d Transparent Bridging
+No. of Antenna
+1
+
+General
+Brand
+Zyxel
+Model
+P-660R-Tx v3s Series
+Colour
+Black
+Standard IEEE
+802.1d Transparent Bridging
+Operating Range
+30 meters
+SSID Support
+Configurable
+Other Features
+ADSL Compliance: Support Multi-Mode Standard [ANSI T1.413, Issue 2; G.dmt (G.992.1); G.lite (G992.2)], EOC Specified in ITU-T G.992.1, ADSL2 G.dmt.bis (G.992.3), ADSL2 G.lite.bis (G.992.4), ADSL2+ (G.992.5), Reach Extended ADSL (RE ADSL); ATM Protocol: ADSL Physical Connection ATM AAL5 (ATM Adaptation Layer Type 5), Support Multi-protocol over AAL5 (RFC1483/2684), Support VC-based and LLC-based Multiplexing, Support up to 8 PVCs, Support PPP over ATM AAL5 (RFC2364), PPP over Ethernet Support for DSL connection (RFC 2516), I.610 F4/F5 OAM Loop-back; Network Protocols: IP Routing, 802.1d Transparent Bridging, IGMP v1&v2, RIP-1/RIP-2, ICMP, TCP/UDP; IP Management: DHCP Client/Server/Relay, DNS Proxy, Dynamic DNS, UPnP support, SUA/Multi-NAT Internet Sharing; Network Management: FTP for Firmware and Configuration Upgrade/Backup, Remote Management Control: Telnet, FTP, and Web, SNMP support, Built-in Diagnostic tools, TR-069 compliance, TR-064 compliance; Certification: CE, FCC
+Frequency
+2.4 ghz
+WAN Type
+AP
+DHCP
+Client/Server/Relay
+VPN-Pass Through
+PPTP
+Supported Software
+Microsoft Internet Explorer 5.0, Firefox 2.0 or Safari 1.4 or higher
+
+Ports
+No. of LAN Ports
+1
+
+Wireless Features
+Signal Rate
+24 mbps
+EIRP
+2 dbm
+
+Certifications
+Certifications
+CE, FCC
+
+Software Features
+Operating System
+Windows Vista, Windows XP, Windows 2000, Mac OS, UNIX, Linux
+Access Control
+Mac Filter
+
+Warranty
+Period
+36 months
+
+Security
+Firewell Security
+SOHO firewall security with DoS prevention, NAT firewall
+
+Product Dimension
+Length
+107 mm
+Height
+36 mm
+Width
+110 mm
+Weight
+165 g
+
+Environment
+Operating Temperature
+40 c
+Storage Temperature
+60 c
+Operating Humidity
+85 %
+Storage Humidity
+90 %
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Netgear 150 Mbps N150 Wireless Router...
+ -> 
+Highlights
+_____________________
+2 Year Warranty
+External antenna for improved WiFi coverage
+External antenna for improved WiFi coverage
+Power and WiFi on/off buttons for more energy savings
+NETGEAR genie: Connect iPad and more
+FastLane: Internet speed optimization at a push of a button
+SUPC: 1818622
+Technical Specification
+_____________________
+
+In The Box
+Sales Package
+N150 Classic Wireless Router (JNR1010), Ethernet cable, Installation guide, Power adapter
+
+Specifications
+Advanced Features
+Live Parental Controls with flexible and customizable filter settings, Power and WiFi on / off buttons, NETGEAR genie- Easy dashboard control to manage, monitor, and repair home networks, Broadband usage meter measures Internet usage, Multiple SSID guest networks (separate security and access restrictions), FastLane provides Internet speed optimization at a push of a button for mission critical tasks
+System Requirements
+Broadband (cable, DSL) modem and service with Ethernet connection, 802.11 b/g/n 2.4 GHz wireless adapter or Ethernet adapter and cable for each computer, MicrosoftWindows7, Vista, XP, 2000, Mac OS, UNIX, or Linux, MicrosoftInternet Explorer5.0, Firefox2.0 or Safari1.4 or higher, Use with an N150 Adapter (WNA1100) for maximum performance
+Standards
+IEEE 802.11 b/g/n 2.4 GHz with some n features, Five (5) 10/100 (1 WAN and 4 LAN) Ethernet ports with auto-sensing technology
+Performance
+Five (5) (1 WAN, 4 LAN) Fast Ethernet ports
+Security
+Wi-Fi Protected Access (WPA/WPA2PSK) and WEP, Double firewall protection (SPI and NAT firewall), Denial-of-service (DoS) attack prevention
+Ease of Use
+NETGEAR genie -CD-less installation, Push N Connect using Wi-Fi Protected Setup (WPS)1
+
+Physical Specifications
+Dimensions
+197 x 137 x 30 mm (7.8 x 5.4 x 1.2 in)
+Weight
+240 g (0.53 lb)
+
+Warranty
+Period
+2 Year Warranty
+
+Warranty
+Period
+2 Year Warranty
+Description
+_____________________
+Useful Links
+_____________________
+
+Meet Chromecast - Mirror Your Mobile/Laptop Screen Wirelessly to the TV
+Terms & Conditions
+_____________________
+ -------------------------------------------
+(TE-W311M) Tenda N150 Wireless Adapte...
+ -> 
+Highlights
+_____________________
+3 Year Warranty
+Easy And Advanced Security
+Enhanced Wireless Reception
+Wireless Sharing by Multiple Users
+Lag Free Gaming Experience
+Compatibility Assured
+Wireless N Standards, Speeds Up to 150Mbps
+6x Greater Wireless Range Than Wireless G Products
+Supports Soft AP to Extend a Wireless Network
+SUPC: 1773494
+Technical Specification
+_____________________
+
+Warranty
+Period
+3Years Warranty
+
+PACKAGE CONTENTS
+Contents
+W311 M, Installation CD
+
+GENERAL
+Brand
+Tenda
+Model
+TE-W311M
+Type
+USB Adaptor
+Colour
+Gray
+
+HARDWARE FEATURES
+Standards
+IEEE 802.11 b/g/n
+Interface
+USB 2.0
+Antenna
+2dBI Fixed Antennax1 (Internal PCB) Frequency: 2.4GHz
+Button
+WPS
+
+WIRELESS FEATURES
+Wireless Speed
+Up to 150Mbps Over 11n
+Frequency
+2.4GHz
+Channel
+1-13
+Transmit Power
+18dBm (Max)
+Operating Mode
+Infrastructure, Ad Hoc
+
+SOFTWARE FEATURES
+Security
+64-/128 bit WEP WPA-PSK, WPA2-PSK, WPA-PSK/ WPA2-PSK, WPS
+Compatible OS
+Windows 2000, Windows 2003, Windows XP 32-/64 bit, Windows 7 32-/64 bit, Linux 2.2X/2.4X/2.6X, Vista 32-/64-bit, MAC
+Others
+Connects PSP, WII and NDS to Internet and Xlink KAI
+
+OTHER FEATURES
+Related Products
+W311R, W316R, W311MI
+Certification
+CE, FCC, RoHS
+
+DIMENSIONS
+Product Dimensions (WxDxH)
+38.4x17.2x7.9 mm
+Description
+_____________________
+Useful Links
+_____________________
+
+Meet Chromecast - Mirror Your Mobile/Laptop Screen Wirelessly to the TV
+Terms & Conditions
+_____________________
+ -------------------------------------------
+CiscoSG 300-10P 10-Port Gigabit PoE M...
+ -> 
+Highlights
+_____________________
+Lifetime Warranty
+Type : Ethernet Routers & Switches
+Speed : 10/100/1000 Mbps
+Warranty : Lifetime Warranty
+SUPC: SDL095961069
+Technical Specification
+_____________________
+
+GENERALType
+Model
+SRW2008P-K9-NA
+In The Box
+Main Unit
+Brand
+Cisco
+
+DIMENSIONS
+Height
+36.83 mm
+Width
+279.4 mm
+Depth
+170.18 mm
+Terms & Conditions
+_____________________
+ -------------------------------------------
+TP-Link 10/100 Mbps 24 Ports Switch (...
+ -> 
+Highlights
+_____________________
+3 Year Warranty
+Innovative energy-efficient technology saves power up to 75%
+Supports IEEE 802.3x flow control for Full Duplex mode and backpressure for Half Duplex mode
+Non-blocking switching architecture
+4.8 GBPS Switching Capacity
+Store and forward Switching scheme
+Auto-MDI/MDIX eliminates the need for crossover cables
+Supports MAC address auto-learning and auto-aging
+Auto-negotiation ports provide smart integration between 10Mbps, 100Mbps hardware
+Plug and Play design
+Fan-less design
+SUPC: 1807182
+Technical Specification
+_____________________
+
+Warranty
+Period
+3 Year Warranty
+
+HARDWARE FEATURES
+Standards and Protocols
+IEEE802.3, 802.3u, 802.3x, CSMA/CD, TCP/IP
+Interface
+24 10/100Mbps Auto-Negotiation RJ45 ports (Auto MDI/MDIX)
+Network Media
+10Base-T: UTP category 3, 4, 5 cable (maximum 100m), EIA/TIA-568 100U STP (maximum 100m), 100Base-Tx: UTP category 5, 5e cable (maximum 100m), EIA/TIA-568 100U STP (maximum 100m)
+Backup Bandwidth
+4.8Gbps
+External Power Supply
+100-240VAC, 50/60Hz
+Fan Quantity
+Fanless
+LED Indicator
+Power, Link/Act, 100Mbps
+Dimensions ( W x D x H )
+11.67.11.7 in. (29418044 mm)
+
+SOFTWARE FEATURES
+Basic Function
+Wire-speed Performance, MAC Address Auto-Learning and Auto-aging, IEEE802.3x flow control for Full-Duplex Mode and backpressure for Half-Duplex Mode
+Port Forwarding
+10BASE-T: 14880pps/port, 100BASE-TX: 148800pps/port
+Transfer Method
+Store-and-Forward
+MAC Address Table
+8k
+
+OTHERS
+Certification
+FCC, CE
+System Requirements
+Microsoft Windows 98SE, NT, 2000, XP, Vista or Windows 7, MAC OS, NetWare, UNIX or Linux
+
+Environment
+Operating Temperature
+0 Degree C - 40 Degree C (32 Degree F - 104 Degree F)
+Storage Temperature
+Minus 40 Degree C - 70 Degree C (-40 Degree F - 158 Degree F)
+Operating Humidity
+10% - 90% non-condensing
+Storage Humidity
+5% - 90% non-condensing
+Description
+_____________________
+The TL-SF1024D Fast Ethernet Switch offers you with a
+The metal case design combined with a
+This new generation The TL-SF1024D Fast Ethernet Switch
+features the latest advanced energy-efficient technologies that can greatly enlarge
+your network capacity with much less power. It
+The auto features of this fast Ethernet switch make installation
+plug and play and trouble-free. No configuring is required. Auto MDI/MDIX removes
+the need for crossover cables.
+Useful Links
+_____________________
+
+Meet Chromecast - Mirror Your Mobile/Laptop Screen Wirelessly to the TV
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Digisol 300 Mbps Wireless Router (DG-...
+ -> 
+Highlights
+_____________________
+5 Years Warranty
+Type : Wireless Routers Without Modem
+Speed : 300 Mbps
+Warranty : 5 Years
+Number of LAN Ports: 4
+SUPC: SDL691291518
+Technical Specification
+_____________________
+
+GENERALType
+Brand
+Digisol
+Color
+Black
+Model
+DG-HR3400
+
+CONNECTIVITY
+Antennae
+2
+Antennae Capacity
+5 dbi
+
+WARRANTYService Type
+Warranty Type
+Manufacturer Warranty
+Warranty
+5 Years
+Description
+_____________________
+Useful Links
+_____________________
+
+Meet Chromecast - Mirror Your Mobile/Laptop Screen Wirelessly to the TV
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Zyxel Gs-1100-8Hp-8 Port 10/100/1000 ...
+ -> 
+Highlights
+_____________________
+3 Years
+Type : Ethernet Routers & Switches
+Speed : 108 Mbps
+Number Of Usb Ports : 0
+Number Of Antennae : 0
+Warranty : 3 Years
+SUPC: SDL923980629
+Technical Specification
+_____________________
+
+GENERALType
+Installation Features
+Freedom of installation via PoE (ES1100-8P/16P)
+Model
+GS - 1100-8HP
+Part Number
+-
+Variant
+-
+Controls
+-
+In The Box
+Package Contents: Gigabit switch, Power adapter, User's guide,Warranty card
+LED Indicator
+No
+Brand
+ZyXel
+
+SPEED
+Wireless Speed
+-
+LAN/WAN
+-
+
+CONNECTIVITY
+Antennae
+Inbuilt
+Number of LAN ports
+0
+Number of WAN ports
+0
+Number of USB Ports
+0
+WAN
+-
+LAN
+-
+Number of Antennae
+0
+Antennae Capacity
+-
+
+OPERATING CONDITIONS
+Operating Humidity
+-
+Temperature
+-
+
+POWER
+Power Supply
+-
+
+SYSTEM REQUIREMENTS
+Operating System
+-
+
+SUPPORTED PROTOCOLS
+Standard IEEE
+-
+
+NETWORK FEATURES
+Frequency
+-
+
+SECURITY
+Encryption
+-
+Other Security Features
+-
+Firewall
+-
+
+ADDITIONAL FEATURES
+Other Features
+-
+SSID Support
+-
+Certification
+-
+VPN
+-
+
+DIMENSIONS
+Height
+-
+Width
+-
+Depth
+-
+
+WARRANTYService Type
+Warranty Type
+3 year Manufacturer Warranty
+Covered in Warranty
+Manufactring Defact
+Domestic Term
+-
+Not Covered in Warranty
+-
+Warranty Summary
+-
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+EnGenius Technologies Long Range 11n ...
+ -> 
+Highlights
+_____________________
+1 Year
+Type : Access Points & Hot Spots
+Speed : 300 Mbps
+Number Of Usb Ports : -
+Number Of Antennae : -
+Warranty : 1 Year
+SUPC: SDL200661829
+Technical Specification
+_____________________
+
+GENERALType
+Installation Features
+-
+Model
+ENH500
+Part Number
+ENH500
+Variant
+-
+Controls
+-
+In The Box
+-
+LED Indicator
+Yes
+Brand
+EnGenius
+
+SPEED
+Wireless Speed
+300 Mbps
+LAN/WAN
+LAN
+
+CONNECTIVITY
+Antennae
+Inbuilt
+Number of LAN ports
+-
+Number of WAN ports
+-
+Number of USB Ports
+-
+WAN
+-
+LAN
+VLAN
+Number of Antennae
+-
+Antennae Capacity
+-
+
+OPERATING CONDITIONS
+Operating Humidity
+-
+Temperature
+-
+
+POWER
+Power Supply
+Yes
+
+SYSTEM REQUIREMENTS
+Operating System
+Mac PC Windows 7 etc
+
+SUPPORTED PROTOCOLS
+Standard IEEE
+802.1x
+
+NETWORK FEATURES
+Frequency
+2.4GHz
+
+SECURITY
+Encryption
+Standard wireless encryption
+Other Security Features
+-
+Firewall
+-
+
+ADDITIONAL FEATURES
+Other Features
+-
+SSID Support
+Yes
+Certification
+-
+VPN
+-
+
+DIMENSIONS
+Height
+3.8
+Width
+12
+Depth
+-
+
+WARRANTYService Type
+Warranty Type
+1 year Manufacturer Warranty
+Covered in Warranty
+Yes
+Domestic Term
+-
+Not Covered in Warranty
+-
+Warranty Summary
+1 year Manufacturer Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+WI-BRIDGE 150 Mbps Wireless Routers W...
+ -> 
+Highlights
+_____________________
+1year
+Type : Wireless Routers With Modem
+Speed : 150 Mbps
+Number Of Usb Ports : 0
+Number Of Antennae : 1
+Warranty : 1year
+SUPC: SDL113741251
+Technical Specification
+_____________________
+
+GENERALType
+Installation Features
+Easy setup wizard
+Model
+ADW40-03
+Part Number
+ADW40-03
+Variant
+-
+Controls
+-
+In The Box
+Router,1 Ethernet cable,2 Telephone cable, CD, 1Splitter, 1 User Guide, Power Adapter
+LED Indicator
+Power, WLAN, Ethernet,Link, Internet
+Brand
+WI-BRIDGE
+
+SPEED
+Wireless Speed
+-
+LAN/WAN
+1 port
+
+CONNECTIVITY
+Antennae
+1
+Number of LAN ports
+4
+Number of WAN ports
+1
+Number of USB Ports
+0
+WAN
+-
+LAN
+4 port
+Number of Antennae
+1
+Antennae Capacity
+5dbi
+
+OPERATING CONDITIONS
+Operating Humidity
+10%-90%, non-condensing
+Temperature
+0oC-40oC
+
+POWER
+Power Supply
+Adapter
+
+SYSTEM REQUIREMENTS
+Operating System
+Windows, Linux,MAC
+
+SUPPORTED PROTOCOLS
+Standard IEEE
+802.11N
+
+NETWORK FEATURES
+Frequency
+2.4GHz
+
+SECURITY
+Encryption
+WEP, WPA,WPA2
+Other Security Features
+-
+Firewall
+IP,MAC Filtering, DMZ
+
+ADDITIONAL FEATURES
+Other Features
+-
+SSID Support
+Yes
+Certification
+CE
+VPN
+-
+
+DIMENSIONS
+Height
+-
+Width
+-
+Depth
+-
+
+WARRANTYService Type
+Warranty Type
+replacement
+Covered in Warranty
+1 year
+Domestic Term
+-
+Not Covered in Warranty
+damage due to miuse, lightning, broken, liquid spillage
+Warranty Summary
+-
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+TP-Link 10/100/1000 Mbps 8 Ports Swit...
+ -> 
+Highlights
+_____________________
+3 Year Warranty
+Innovative energy-efficient technology saves power up to 80%
+Supports IEEE 802.3x flow control for Full Duplex mode and backpressure for Half Duplex mode
+Non-blocking switching architecture
+16Gbps Switching Capacity
+9K Jumbo frame
+Auto-MDI/MDIX eliminates the need for crossover cables
+Supports MAC address auto-learning and auto-aging
+Auto-negotiation ports provide smart integration between 10Mbps, 100Mbps and 1000Mbps hardware
+Fan-less design ensures quiet operation
+Desktop or wall-mounting design
+Plug and Play design
+SUPC: 1807169
+Technical Specification
+_____________________
+
+Warranty
+Period
+3 Year Warranty
+
+HARDWARE FEATURES
+Interface
+8 10/100/1000Mbps RJ45 Ports, AUTO Negotiation/AUTO MDI/MDIX
+External Power Supply
+100-240VAC, 50/60Hz
+Fan Quantity
+Fanless
+Dimensions ( W x D x H )
+6.5 x 4.3 x 1.1 in. (165mm x 108mm x 28mm)
+
+SOFTWARE FEATURES
+Transfer Method
+Store and Forward
+MAC Address Table
+8K
+Advanced Functions
+Green Technology, saving power up to 80%, 802.3X Flow Control, Back Pressure, Auto-Uplink Every Port
+
+OTHERS
+Certification
+FCC, CE, RoHs
+Package Contents
+8-Port Gigabit Desktop Switch, Power Adapter, User Guide
+System Requirements
+Microsoft Windows 98SE, NT, 2000, XP, Vista or Windows 7, MAC OS, NetWare, UNIX or Linux
+
+Environment
+Operating Temperature
+0 Degree C - 40 Degree C (32 Degree F - 104 Degree F)
+Storage Temperature
+Minus 40 Degree C - 70 Degree C (-40 Degree F - 158 Degree F)
+Operating Humidity
+10%~90% non-condensing
+Storage Humidity
+5%~90% non-condensing
+Description
+_____________________
+The TP-Link 8-Port Gigabit desktop switch TL-SG1008D offers you an
+Featured with 8 10/100/1000Mbps ports, TL-SG1008D greatly
+.
+Go Green
+You now have the option to go green when upgrading to a gigabit network! This new generation TL-SG1008D 8-Port Gigabit Desktop Switch features the
+When a computer or network equipment is off, the corresponding port of a traditional switch will continue to consume significant amounts of power. The TL-SG1008D can
+most devices as they will use the same amount of power across the cable irrespective of whether it is 10 or 50 meters in length.
+Effortless Use
+The auto features of this gigabit switch make installation plug and play and trouble-free. No configuring is required. Auto MDI/MDIX eradicates the need for crossover cables.
+Useful Links
+_____________________
+
+Meet Chromecast - Mirror Your Mobile/Laptop Screen Wirelessly to the TV
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Zyxel Pla4201 - 500 Mbps Mini Powerli...
+ -> 
+Highlights
+_____________________
+2 years
+Type : Ethernet Routers & Switches
+Speed : 450 Mbps
+Number Of Usb Ports : -
+Number Of Antennae : Inbuilt
+Warranty : 2 Years
+SUPC: SDL621231685
+Technical Specification
+_____________________
+
+GENERALType
+Installation Features
+-
+Model
+PLA4201
+Part Number
+-
+Variant
+-
+Controls
+-
+In The Box
+Package Contents: Powerline Ethernet Adapter, Ethernet cableQuick start guideSupport CDWarranty card
+LED Indicator
+-
+Brand
+ZyXEL
+
+SPEED
+Wireless Speed
+-
+LAN/WAN
+-
+
+CONNECTIVITY
+Antennae
+Inbuilt
+Number of LAN ports
+-
+Number of WAN ports
+-
+Number of USB Ports
+-
+WAN
+-
+LAN
+-
+Number of Antennae
+Inbuilt
+Antennae Capacity
+-
+
+OPERATING CONDITIONS
+Operating Humidity
+-
+Temperature
+0DegC to 40DegC
+
+POWER
+Power Supply
+-
+
+SYSTEM REQUIREMENTS
+Operating System
+-
+
+SUPPORTED PROTOCOLS
+Standard IEEE
+-
+
+NETWORK FEATURES
+Frequency
+-
+
+SECURITY
+Encryption
+-
+Other Security Features
+-
+Firewall
+-
+
+ADDITIONAL FEATURES
+Other Features
+The advanced Quality of Service (QoS) features improve the quality of multimedia streaming applications such as Triple Play services by prioritizing HD video streaming, high-speed Internet access and VoIP traffics.
+SSID Support
+-
+Certification
+Safety: CE-LVD, EMC: CE, FCC
+VPN
+-
+
+DIMENSIONS
+Width
+-
+Depth
+-
+
+WARRANTYService Type
+Warranty Type
+2 year Manufacturer Warranty
+Covered in Warranty
+Manufactring Defect
+Domestic Term
+-
+Not Covered in Warranty
+-
+Warranty Summary
+-
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Ps Feye Pocket Size Unlocked 150Mbps ...
+ -> 
+Highlights
+_____________________
+6 months warranty
+Type : Wireless Routers Without Modem
+Speed : 150 Mbps
+Number Of Antennae : Inbuilt
+Warranty : 6 Months
+SUPC: SDL801537646
+Technical Specification
+_____________________
+
+GENERALType
+Installation Features
+
+Model
+FEYE-15WRE
+Variant
+Micro SD Card Support : Up to 32GB
+Controls
+Power button/ Connect button
+In The Box
+Router, Micro USB Charging Cable
+LED Indicator
+Yes
+Brand
+PS
+
+SPEED
+Wireless Speed
+150Mbps
+LAN/WAN
+Wireless
+
+CONNECTIVITY
+Antennae
+Inbuilt
+WAN
+
+Number of Antennae
+Inbuilt
+Antennae Capacity
+Built-in WCDMA and WLAN high gain antenna
+
+OPERATING CONDITIONS
+Temperature
+Work temperature: 0DegC 45DegC
+
+SYSTEM REQUIREMENTS
+Operating System
+Windows 8/7/vista/XP,Mac OS, Android, iOs, Windows Phone etc.
+
+NETWORK FEATURES
+Frequency
+EDGE/GPRS/GSM: 850/900/1800/1900/2100MHz
+
+ADDITIONAL FEATURES
+Other Features
+Battery: Lithium lon 1500mA 3.7 Volt
+SSID Support
+Wi-Fi channel:1-13
+
+DIMENSIONS
+Height
+
+Width
+
+
+WARRANTYService Type
+Covered in Warranty
+3G Router
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Linksys 270 Mbps Wireless N Range Ext...
+ -> 
+Highlights
+_____________________
+Linksys 1 year Warranty
+MIMO support
+Ethernet Bridge
+Extended Range
+Wireless-N
+Quality of Service
+Flexible Placement
+Broad Compatibility
+Fast Ethernet Bridge Port
+SUPC: 1184716
+Technical Specification
+_____________________
+
+Warranty
+Period
+CISCO Linksys 1 year Warranty
+
+In the Box
+Box Contents
+Main Unit, User Manual, Warranty Card
+
+Hardware
+Interface
+Fast Ethernet, C7 connector for localized AC cable or clip
+Button
+Reset, Wi-Fi Protected Setup
+External Power Supply
+9 v
+Wireless Standards
+IEEE 802.11a/b/g/n, 802.3u
+No. of Antenna
+2
+
+General
+Brand
+CISCO Linksys
+Model
+RE1000
+Colour
+Black
+Standard IEEE
+IEEE 802.11n, 802.11g, 802.11b, 802.3u
+Operating Range
+45 meters
+SSID Support
+Not Configurable
+Frequency
+2.4 ghz
+WAN Type
+Wireless bridge mode, DHCP support, WPS
+DHCP
+DHCP support
+VPN-Pass Through
+PPTP, L2TP
+Supported Software
+Internet Explorer 7, Safari 4, Firefox 3 or higher
+
+Ports
+No. of LAN Ports
+1
+
+Wireless Features
+Signal Rate
+270 mbps
+EIRP
+3.5 dbm
+
+Certifications
+Certifications
+CE, FCC
+
+Software Features
+Operating System
+Windows 7, Windows XP SP3, Windows Vista SP1 or later, Mac OS X 10.5 - 10.6
+Access Control
+Wi-Fi Protected Setup
+
+Warranty
+Period
+12 months
+
+Security
+Firewell Security
+Wi-Fi Protected Access 2 (WPA2), WEP
+Other Security Features
+Up to 128-bit encryption
+
+Product Dimension
+Length
+125 mm
+Height
+92 mm
+Width
+33 mm
+Weight
+280 g
+
+Environment
+Operating Temperature
+104 c
+Storage Temperature
+140 c
+Operating Humidity
+80 %
+Storage Humidity
+90 %
+Description
+_____________________
+Useful Links
+_____________________
+
+Meet Chromecast - Mirror Your Mobile/Laptop Screen Wirelessly to the TV
+Terms & Conditions
+_____________________

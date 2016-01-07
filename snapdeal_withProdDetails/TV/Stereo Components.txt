@@ -1,0 +1,1145 @@
+
+ -------------------------------------------
+Yamaha RX-V677 7.2-channel AV Receiver
+ -> 
+Highlights
+_____________________
+Type : AV Receivers
+SUPC: SDL407212994
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit
+
+GENERAL
+Brand
+Yamaha
+Model
+RX-V677
+Type
+AV Receiver
+Colour
+Black
+
+SPECIFICATIONS
+Configuration
+7.2 Channel
+Compatible
+iPod, iPhone and iPad, Wi-Fi Built-in and Wi-Fi Direct Compatible, Smartphones
+Decoder
+HD Audio format decoding: Dolby TrueHD and DTS-HD Master Audio
+D/A Converter
+Burr-Brown 192 kHz/24-bit DACs for all channels
+Audio Feature
+YPAO R.S.C. Sound Optimization, Multi-zone audio support; Full discrete amp configuration, Pure Direct for pure HiFi sound quality enjoyment, Low jitter PLL circuitry helps optimize sound imaging, Assignable amplifiers for front speaker bi-amp connection, Intelligent assignable amplifiers for Surround Back, FLAC or WAV 192kHz/24-bit audio playback, Apple Lossless audio playback
+Video Feature
+Latest HDMI version support for 4K 50/60p input, 4K/Full HD 1080p video upscaling from analog and HDMI input; HDMI: 1 on front and 1 output with 3D and Audio Return Channel; Supports Deep Color (30/36 bit), x.v.Color, 24 Hz Refresh Rate and Auto Lip-Sync compensation; High quality video processing with precise deinterlacing; Motion adaptive and edge adaptive deinterlacing; Multi-cadence (incl. 3-2 pull-down) detection
+
+POWER AMPLIFIER SECTION
+Rated Output Power
+8 ohms, 1 kHz, 0.9% THD, 2 ch driven
+Dynamic Power/Ch
+Front L/R, 8/6/4/2 ohms: 125/165/190/235 W
+Front L/R
+105 W + 105 W; 90 W + 90 W
+Centre
+105 W
+Surround L/R
+105 W + 105 W
+Surround Back L/R
+105 W + 105 W
+
+FM SECTION
+FM/AM Tuner
+Yes
+
+CONNECTIVITY
+IN
+Network (Ethernet/Wi-Fi): 1/1, Radio Antenna (FM/AM): 1/1, Analog Audio: 4
+Out
+Analog AV: 1, Composite AV: 1, Speaker: 3/ x 4 7 ch/9 ter, Subwoofer: 2 x mono, DC Out: 5 1
+Other Connectors
+INPUT - HDMI: 1, Component Video: 2, Digital Optical Audio: 2, Digital Coaxial Audio: 2; OUTPUT - HDMI: 1, Component Video: 1, Headphone Jack: 1, USB Port: 1; AirPlay, Wi-Fi, MHL Support, Remote, Pandora, Spotify streaming
+
+POWER
+Power Consumption
+HDMI Control off, Standby Through off: 0.15 W, HDMI Standby Through on: 2.0 W, Network Standby on (Wired): 3.5 W
+
+PHYSICAL DIMENSIONS
+Dimension
+(W x H x D) - 17.125 x 6.75 x 14.375 inches, With Antenna: 17.125 x 9.25 x 14.875 inches
+Weight
+10.02 Kg
+
+ADDITIONAL FEATURES
+Other Features
+AirPlay, Pandora, Rhapsody, Spotify, SiriusXM Internet Radio music streaming service and AV Controller App; Multi-zone audio support (Zone 2); Dialogue Lift and Dialogue Level Adjustment for natural dialogue and vocals; Advanced GUI on-screen display with (English, German, French, Spanish, Russian, Italian, Japanese and Chinese); ECO mode operation for about 20 percent less power consumption; Stream Millions of Songs with Spotify Connect; AV Controller App for Easy, Convenient Operation; Mobile High-Definition Link; Extra Bass Provides Rich Bass Reproduction, Even with Small Speakers; HD Audio with CINEMA DSP 3D and Virtual Presence Speakers; DSP Parameter Adjustment for Easy and Detailed Setting; Gapless Playback Compatibility Allows Play Without Interruption; Compressed Music Enhancer; Intelligent Amp Assign; Subwoofer Trim Contol for Improved Sound Imaging; SCENE for One-Touch Start; Selectable Auto Power Down; DSP Programs: 17; SILENT CINEMA; Virtual CINEMA FRONT; Adaptive DRC (Dynamic Range Control); Web Browser Control; Zone Control - Zone 2 Audio Output: Line output, Powered Zone: Zone 2, +12V Trigger Output: 1,
+
+WARRANTY
+Period
+2 Years Manufacturer Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Yamaha RX-V477 5.1 Channel AV Receiver
+ -> 
+Highlights
+_____________________
+Brand:Yamaha
+Type:AV Receivers
+Channel:5.1
+Max Video:4K Ultra HD
+HDMI,Six
+Features:Networking,AirPlay,DLNA,Dolby Digital,Pandora,Spotify,DTS-HD,4K Resolution,Eco Mode,SCENE
+Power Output:115W x 5
+SUPC: SDL479790155
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Remote Control, YBA-11 Bluetooth Wireless Adapter (Optional), YWA-10 (Optional)
+
+GENERAL
+Brand
+Yamaha
+Model
+RX-V477
+Type
+AV Receiver
+Colour
+Black
+
+USER INTERFACE
+On-screen display
+Yes (color OSD)
+SCENE
+SCENE (4 sets)
+
+AMPLIFIER
+Channel
+5.1
+Rated Output Power (1kHz, 1ch driven)
+115 W (8 ohms, 0.9% THD)
+Rated Output Power (1kHz, 2ch driven)
+95 W (8 ohms, 0.9% THD)
+Rated Output Power (20Hz-20kHz, 2ch driven)
+80 W (8 ohms, 0.09% THD)
+Dynamic Power per Channel (8/6/4/2 ohms)
+110/130/160/180 W
+
+SOUND
+CINEMA DSP
+Yes (3D)
+DSP Programs
+17
+Virtual Presence Speaker
+Yes
+SILENT CINEMA
+Yes
+Virtual CINEMA FRONT
+Yes
+Extra Bass
+Yes
+Dolby TrueHD
+Yes
+Dolby Digital Plus
+Yes
+DTS-HD Master Audio
+Yes
+
+AUDIO
+Compressed Music Enhancer
+Yes
+YPAO sound optimization
+Yes
+Adaptive DRC (Dynamic Range Control)
+Yes
+Initial Volume & Maximum Volume Setting
+Yes
+Audio Delay
+Yes (0-500 ms)
+192kHz/24-bit DACs for all channels
+Yes (Burr-Brown)
+
+VIDEO
+4K Ultra HD pass-through
+Yes
+HDMI 3D pass-through
+Yes
+HDMI Audio Return Channel
+Yes
+Deep Color/x.v.Color/24Hz Refresh Rate /Auto Lip-Sync
+Yes
+
+INPUT/OUTPUT
+HDMI
+Input: 6, Output: 1
+HDMI CEC
+Yes
+USB Input
+iPod/iPhone, USB memory, portable audio player
+Front AV Input
+USB/Mini-jack
+Network Port
+Yes
+Optical Digital Audio Input
+1
+Coaxial Digital Audio Input/Output: Coaxial
+2
+Analog Audio
+Input: 4 (1 front), Output: 1
+Component Video
+Input: 2, Output: 1
+Composite Video
+Input: 3, Output: 1
+Other Connectivity
+Preout: Subwoofer; 1 x Headphone Output, DC Out, AirPlay, FM/AM Tuner
+
+POWER
+Power Consumption
+Less than equal to 0.1 W Standby (IR Only)
+Other
+Auto Power Standby, ECO mode
+
+ADDITIONAL FEATURES
+Feature
+AirPlay, Pandora, Spotify music streaming service and AV Controller App; HTC Connect for music streaming from HTC Connect compatible smartphones; Virtual CINEMA FRONT provides virtual surround sound with 5 speakers in front; Extra Bass enriches powerful bass sound even with small speakers; Gapless playback compatibility allows play without interruption; YPAO sound optimization for automatic speaker setup; OSD Languages: English, German, French, Spanish, Russian, Italian, Japanese and Chinese; ECO mode operation for about 20 percent less power consumption
+
+PHYSICAL SPECIFICATION
+Dimensions (W x H x D)
+435 x 161.93 x 314.33 mm
+Weight
+7.98 kg
+
+Warranty
+Period
+2 Years Manufacturer Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Pioneer VSX329 AV Receiver
+ -> 
+Highlights
+_____________________
+Type : AV Receivers
+SUPC: SDL564755490
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Remote Control
+
+GENERAL
+Brand
+Pioneer
+Model
+VSX-329-K
+Type
+AV Receiver
+Colour
+Black
+
+SPECIFICATIONS
+Configuration
+5.1 Channel
+Compatible
+Works with iPod; Works with iPhone; Compatible Generations - Via USB: iPhone 5/5S/5C, iPhone 4/4S, iPhone 3G/3GS, iPod touch 5G/4G/3G/2G/1G, iPod classic, iPod nano 7G/6G/5G/4G/3G; Supported Functions: Audio playback, Battery charging
+Impedance
+6 Ohms (at Output Level)
+Remote
+Yes
+S/N Ratio
+98 dB
+
+SURROUND SOUND FORMATS
+Sound Technology
+Dolby TrueHD, DTS-HD High Resolution Audio
+Surround Modes (plus)
+10 plus 1 (Action, Drama, Advanced Game, Sports, Classical, Rock/Pop, Extended Stereo, Front Stage Surround, ECO MODE 1, ECO MODE 2 plus Phones Surround)
+
+AUDIO FEATURES
+AM/FM Tuner with RDS
+Yes
+Tuner Pre-set Stations
+30
+Auto Level Control (plus)
+2 Channel
+Other Audio Features
+Auto Surround, Bass/Treble Tone Controls, Dynamic Range Control, Headphone Surround, Front Stage Surround Advance (plus), Loudness (plus), Midnight Listening Mode (plus), Phase Control (plus), Sound Delay (LipSync), Stream Direct
+
+VIDEO FEATURES
+Video Features
+Deep Colour (plus), 3D Ready, x.v.Colour, 4K Pass Through, 4K (MAIN ZONE): Up to 4K60p, 4:2:0, 24-bit
+
+AMPLIFIER SECTION
+Amplifier Type
+Direct Energy Amplifier
+Digital Signal Processor
+Texas Instruments Aureus (TMS320DA808)
+D/A Converter
+192 kHz/24-bit
+A/D Converter
+96 kHz/24-bit
+
+CONNECTIVITY
+Input
+Front: 1 x USB 2.0 (iPod/iPhone Digital Audio, USB drive); Rear: 4 x HDMI, 2 x AV Composite, 1 x Audio (Assignable), 1 x Digital Coaxial (Assignable), 1 x Digital Optical (Assignable)
+Output
+Front: 1 x Phones out; Rear: 1 x HDMI, 1 x Monitor Composite, 1 x Preout Subwoofer, 5 x Speaker out
+Other Connectors
+Large speaker terminals, Pre-amp Output (SW)
+
+POWER
+Power output per channel
+105 Watts
+Rated Power Output
+6 Ohms: 100 Watts per channel
+Input (Sensitivity/Imp.): Line
+200 mV/47 kOhms
+Frequency Response: Line
+10 Hz - 70 kHz, +0/-3 dB
+Power Requirements
+AC 220 - 230 V, 50/60 Hz
+Power Consumption
+Active: 155 Watts, Standby: 0.45 Watts (ARC off)
+Other Power Features
+Condition: 1 kHz, 1% THD, 6 Ohms; Auto Power Down
+
+PHYSICAL DIMENSIONS
+Dimension
+(W x H x D): 435 x 168 x 331.5 mm
+Weight
+7.2 Kg
+
+ADDITIONAL FEATURES
+Other Features
+Plays - AM/FM Tuner (30 presets) - Via USB: iPod Digital Transmission, Via HDMI: SACD; Audio Return Channel; On-Screen Display (GUI): Graphic User Interface with Album Artwork (English); Sleep Timer; Windows 8.1 Compatible; Eco Mode; Energy efficient settings; Eliminate phase lag
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Waaz VA3100P Amplifier
+ -> 
+Highlights
+_____________________
+1 Year Manufacturer Warranty
+VA3100P with 4 Zone
+Single Zone
+100V Output
+SUPC: SDL014831407
+Technical Specification
+_____________________
+
+Specifications
+Brand
+Waaz
+Model No.
+VA3100P
+Type
+Amplifier
+100V output
+Yes
+Single zone
+Yes
+
+Warranty
+Period
+1 Year
+Description
+_____________________
+Waaz presents to you
+100V
+output
+
+Bring it home
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Bittner Amplifier
+ -> 
+Highlights
+_____________________
+Type : Amplifiers
+HDMI Ports : One
+SUPC: SDL114776628
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Yamaha R-S201 Stereo Receiver
+ -> 
+Highlights
+_____________________
+Brand:Yamaha
+Type:AV Receivers
+Channel:2
+Power Output:140W x 2
+SUPC: SDL479975039
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Remote Control
+
+GENERAL
+Brand
+Yamaha
+Model
+R-S201
+Type
+AV Receiver
+Colour
+Black
+
+SPECIFICATION
+Power Output
+Maximum Power (4 Ohms, 1 KHz, 0.7% THD): 140 Watts + 140 Watts; Maximum Power (8 Ohms, 1 KHz, 10% THD): 100 Watts + 100 Watts; High Dynamic Power/Channel (8/6/4/2 ohms): 125 Watts/150 Watts/165 Watts/180 Watts
+Frequency Response
+10 Hz - 100 KHz (0 +/- 0.5 dB/0 +/- 3.0 dB)
+Harmonic Distortion
+0.2% (CD to Sp Out, 20 Hz - 20 KHz)
+Signal-to-Noise Ratio
+CD: 100 dB (S: 500 mV)
+FM Signal-to-Noise Ratio
+Mono/Stereo: 72 dB/70 dB
+Sensitivity
+Input Sensitivity (CD): 500 mV/47 kOhms; FM 50 dB Quieting Sensitivity (IHF, 1 KHz, 100% Mod, Mono): 3 μV (20.8 dBf)
+
+CONNECTIVITY
+Connectivity
+Headphone terminal
+
+POWER
+Power Consumption
+Standby: 0.5 Watts
+
+PHYSICAL DIMENSIONS
+Dimensions (W x H x D)
+434.97 x 139.7 x 320.67 mm
+Weight
+6.7 Kg
+
+ADDITIONAL FEATURES
+Other Features
+40 Station AM/FM Preset Tuning; Simple and Sophisticated Design; Speaker Selector and Speaker Terminals for Two Systems; Power Saving; Simple design remote control
+
+Warranty
+Period
+2 Years Manufacturer Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Marantz M-CR603 2 Channel Network CD ...
+ -> 
+Highlights
+_____________________
+1 year manufacturer warranty
+Brand:Marantz
+Type:AV Receivers
+Channel:2
+Max Video:1080p
+HDMI,
+Features:AirPlay,DLNA,vTuner,Streaming Media
+Power Output:60W x 2
+SUPC: SDL162068078
+Technical Specification
+_____________________
+
+Features
+High quality power output
+2 x 60 W
+DLNA certified
+v1.5
+Bluetooth Audio A2DP (RX101)
+optional
+Presets
+99
+
+Inputs/Outputs
+Analogue In/out
+3/1
+AUX-input(Front)
+1
+
+Specifications
+Power Output (6 ohm, 1kHz)
+60 W
+Number of channels
+2
+Freq. Response (Analogue In)
+5 Hz - 22 kHz
+Signal to Noise Ratio (audio)
+86 dB
+Total Harmonic Distortion (audio)
+0.0005
+Signal to Noise Ratio DAB (Mono/Stereo)
+90 dB
+Total Harmonic Distortion DAB
+0.0002
+Stereo Separation DAB
+75 dB
+Frequency Range FM
+87.5 - 108 MHz
+Signal to Noise Ratio (Mono/Stereo) FM
+65 / 60 dB
+Total Harmonic Distortion (Mono/Stereo) FM
+0.8 / 1.0%
+
+General
+Remote Control
+RC009CR
+Power Consumption
+50W
+Standby Consumption
+0.4W
+Maximum Dimensions (W x D x H)
+280 x 302 x 111 mm
+Weight
+4.3 kg
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Pioneer Vsx924 Av Receiver
+ -> 
+Highlights
+_____________________
+Type : AV Receivers
+SUPC: SDL658233010
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Remote Control
+
+GENERAL
+Brand
+Pioneer
+Model
+VSX-924-K
+Type
+AV Receiver
+Colour
+Black
+
+SPECIFICATIONS
+Configuration
+7.2 Channel
+Compatible
+Works with iPod; Works with iPhone; AirPlay; Compatible Generations - Via USB: iPhone 5/5S/5C, iPhone 4/4S, iPhone 3G/3GS, iPhone, iPod touch 5G/4G/3G/2G/1G, iPod nano 7G/6G/5G/4G/3G; Supported Functions: Audio playback, On-screen album art, Battery charging
+Impedance
+6 Ohms (at Output Level)
+Remote
+Glow-key, learning remote control
+Display
+On-Screen Display: Graphic User Interface with Album Artwork (HDMI only), (7 languages) Dutch, English, French, German, Italian, Russian, Spanish
+S/N Ratio
+100 dB
+
+SURROUND SOUND FORMATS
+Sound Technology
+Dolby TrueHD, DTS-HD Master Audio, Dolby Pro Logic IIz (Plus), DTS Neo X
+Surround Modes (plus)
+11 plus 1 (Action, Drama, Advanced Game, Sports, Classical, Rock/Pop, Extended Stereo, Front Stage Surround, Sound Retriever AIR, ECO MODE 1, ECO MODE 2 plus Phones Surround)
+
+AUDIO FEATURES
+AM/FM Tuner with RDS
+Yes
+Tuner Pre-set Stations
+63
+Auto Level Control (plus)
+Multi-channel
+Other Audio Features
+Auto Surround, Bass/Treble Tone Controls, Dialogue Enhancement, Digital Noise Reduction (plus), DSD-to-PCM Convertor (2 channel/Multi-channel), Dynamic Range Control, Wide Surround, Headphone Surround, Front Stage Surround Advance (plus), 2 x Multizone Function, Mute Level Setup, Volume Limit Setup, Power ON Level Setup, Phase Control (plus), Phase Control Plus, Auto Phase Control Plus, Automatic Crossover Detection, MCACC (plus) (Advanced), Manual MCACC, PQLS (plus): Bit-stream/Multi-surround/2-channel, Sound Delay (LipSync), Auto Sound Retriever, Auto Sound Retriever for ARC, Sound Retriever AIR (plus), Sound Retriever link, Standing Wave Control (plus), Stream Direct, Symmetric EQ, Subwoofer EQ, Virtual Speakers, Virtual Depth, Virtual Surround Back (plus), Virtual Height, Virtual Wide, X-Curve (plus), Polarity Check
+
+VIDEO FEATURES
+Video Features
+Frame Rate Conversion; Deep Colour (plus); 3D Ready; 3D Noise Reduction; Triple HD Noise Reduction; x.v.Colour; Video Scaler; 4K Pass Through; 4K Upscaling; 4K (MAIN ZONE): Up to 4K60p, 4:4:4, 24-bit, 4K Dual (MAIN/HD ZONE): Up to 4K60p, 4:2:0, 24-bit; Resolution Parameter: AUTO/PURE, 480p, 720p, 1080i/1080p/1080-24p, 4K/4K-24p; Aspect; I/P Conversion; Advanced Video Adjust; PureCinema; Stream Smoother; Stream Smoother Link; HDMI Standby Through; HDMI Standby Input Switching
+
+AMPLIFIER SECTION
+Amplifier Type
+Direct Energy amplifier
+Digital Signal Processor
+Texas Instruments Aureus (TMS320DA808)
+D/A Converter
+192 kHz/24-bit
+A/D Converter
+96 kHz/24-bit
+
+CONNECTIVITY
+Input
+Front: 1 x HDMI, 1 x USB 2.0 (iPod/iPhone Digital Audio, USB drive), 1 x MCACC Setup MIC; Rear: 6 x HDMI (1 for HDMI/MHL), 1 x Ethernet, 2 x AV Composite, 1 x Audio (Assignable), 1 x Digital Coaxial (Assignable), 1 x Digital Optical (Assignable), 1 x Component Video(Assignable), 1 x IR, 1 x USB charge port for Wireless LAN Converter
+Output
+Front: 1 x Phones out; Rear: 2 x HDMI, 1 x Monitor Composite, 1 x IR, 2 x ZONE Audio Preout, 2 x Preout Subwoofer, 9 x Speaker out
+Other Connectors
+Bluetooth: Built-in, with aptX support; Internet Radio: vTuner; Spotify Connect; Large speaker terminals; Pre-amp Output (2.1 ch); Speaker A/B: Versatile speaker configuration; USB Host (Front); Wireless LAN (AXF-7031 WLAN converter included); Network Standby
+
+POWER
+Power output per channel
+150 Watts
+Rated Power Output
+8 Ohms, 2-channel: 105 Watts per channel, 6 Ohms: 150 Watts per channel
+Input (Sensitivity/Imp.): Line
+315 mV/47 kOhms
+Frequency Response: Line
+5 Hz - 100 kHz, +0/-3 dB
+Power Requirements
+AC 220 - 230 V, 50/60 Hz
+Power Consumption
+Active: 550 Watts, Standby: 0.1 Watts
+Other Power Features
+Condition: 1 kHz, 1% THD, 6 Ohms; Auto Power Down
+
+PHYSICAL DIMENSIONS
+Dimension
+(W x H x D): 435 x 168 x 362.5 mm
+Weight
+9.8 Kg
+
+ADDITIONAL FEATURES
+Other Features
+Plays - AM/FM Tuner (63 presets), Internet Radio with vTuner, Spotify Ready, Apple AirPlay; Via LAN/USB: MP3, WAV, AAC, WMA, FLAC, AIFF, DSD, and Apple Lossless, iPod Digital Transmission (Via USB); 192 kHz/24-bit audio playback: WAV, FLAC, and AIFF; Multi-channel audio file playback (Up to 96 kHz/24-bit, 5.0/5.1 channel): WAV, FLAC; Gapless playback: MP3, WAV, AAC, FLAC, AIFF, and Apple Lossless (Except multi-channel audio streaming); Via HDMI: SACD; MHL Terminal for Android Smartphones; Audio Return Channel; Stand-by Pass Through; Control with HDMI (plus); Sleep Timer; Firmware updates (via Internet or USB); AVNavigator; DLNA Certified (v1.5); Windows 8.1 Compatible; Eco Mode; Apps: iControlAV5 (Plus), AVNavigator (Built-in); Hi-bit/Hi-sampling: Hi-bit 24 processing
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Marantz PM7005 Amplifier
+ -> 
+Highlights
+_____________________
+Type : Amplifiers
+SUPC: SDL337561108
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Remote Control
+
+GENERAL
+Brand
+Marantz
+Model
+PM7005
+Type
+Amplifier
+Colour
+Black
+Remote Control
+RC0032PMSA
+
+SPECIFICATIONS
+Channels
+2
+Digital In
+USB-B/optical/coaxial
+Phono EQ
+Standard
+HDAM version
+SA3, SA2
+Power Transformer
+El
+Sound
+Balance/Bass/Treble
+Input buffer amp
+CD only
+System block shielding
+Metal
+Power Output (8/4 Ohm RMS)
+60 Watts/80 Watts
+Frequency Response
+5 Hz-100 kHz
+Total Harmonic Distortion
+0.0002
+Damping Factor
+100
+Input Sensitivity: MM
+2 mV/47 kOhm
+Signal to Noise Ratio: MM/MC
+85 dB
+Input Sensitivity: High level
+200 mV/20 Kilo Ohm
+Signal to Noise Ratio: High level
+104 dB (2 V input)
+Front Panel
+Metal
+
+INPUTS/OUTPUTS
+Audio Inputs
+5
+Digital in
+USB-B/optical/coaxial
+Phono Input
+MM
+Audio Outputs
+1
+Cinch
+Gold Plated
+Speaker Terminal
+Marantz: SPKT-1
+Number of terminals
+2
+D-Bus
+Yes
+Headphone Out
+Yes
+
+POWER
+Input Power
+-
+Power Consumption
+170 Watts, Standby: 0.2 Watts
+
+PHYSICAL DIMENSIONS
+Dimension
+W x H x D: 440 x 125 x 379 mm
+Weight
+10 Kg
+
+ADDITIONAL FEATURES
+Other Features
+Current Feedback Topology; High Grade Audio Components; Customised Components; Symmetric PCB Layout; Aluminium extrusion heat sink; Linear Drive Power Supply; Shottky diodes; Separate Solid Heat Sinks; Auto power off; Detachable Power Cable
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Audioengine W2 Wireless Adapter for Ipod
+ -> 
+Highlights
+_____________________
+Type : DAC/Soundcards
+SUPC: SDL281178196
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit
+
+General
+Brand
+Audioengine
+Model
+W2
+Type
+Wireless Adapter
+
+SPECIFICATIONS
+Compatible
+iPod Classic (80 GB), iPod Classic (160 GB)(2007),iPod Classic (160 GB)(2009), iPod nano 2nd Generation (Aluminium)(2 GB, 4 GB, 8GB), iPod nano 3rd Generation (Video)(4 GB, 8GB), iPod nano 4th Generation (Video)(8 GB, 16 GB), iPod nano 5th Generation (Video Camera)(8 GB, 16 GB), iPod nano 6th Generation (8 GB, 16 GB), iPod touch 1st Generation (8 GB, 16 GB, 32 GB), iPod touch 2nd Generation (8 GB, 16 GB, 32 GB), iPod touch 3rd Generation (32 GB, 64 GB), iPod touch 4th Generation (8 GB, 32 GB, 64 GB), iPhone (4 Gab, 8 GB, 16 GB), iPhone 3G (8 GB, 16GB), iPhone 3GS (8 GB, 16 GB, 32 GB), iPhone 4 (8 GB, 16 GB, 32 Gab), iPhone 4s (8 GB, 16 GB, 32 Gab), iPad (16 GB, 32 GB, 64 GB), iPad 2 (16 GB, 32 Gab, 64 GB)
+D/A Converter
+-
+Optical Receiver
+-
+Impedance
+-
+Full Scale Output
+-
+SNR
+-
+THD+N
+Less than 0.03% (A + Weighted)
+Crosstalk
+-
+Frequency Response
+Wi-Fi Frequency Band: 2.4 - 2.4835 GHz, Audio Frequency Response: 20 Hz to 22 KHz (+/- 1.5 dB)
+Wireless Range
+30 Feet (9 Meters) Typical
+Latency
+Less than 20 ms
+Input Bit Depth
+-
+
+Connectivity
+USB
+-
+Inputs
+-
+Outputs
+-
+Other Connectivity Feature
+-
+
+POWER FEATURES
+Power Requirements
+-
+Power Consumption
+-
+Other Power Features
+Output Voltage: 830 mV
+
+ADDITIONAL FEATURES
+Other Features
+CD - Quality Transmission Technology with No Network Setup; 2.4 GHz ISM Band is Split into 40 Narrow Subchannels; 6 Quality Protection Innovations to Achieve the Most Robust Audio Link; Error - Tolerant Coding that Incorporates Forward Error Correction (FEC) Coding; FEC Also Enables Error Detection; Packet Error Concealment (PEC); Dynamic Transmit Power Control; WLAN Systems Divide the Spectrum into Three Channels, Operate on a Fixed Channel and Occupy 1/3 of the Bandwidth
+
+PHYSICAL SPECIFICATIONS
+Dimensions
+3.94 x 1.18 x 0.393 inches
+Weight
+-
+
+WARRANTY
+Period
+-
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Audioengine D2 Premium 24-bit Wireles...
+ -> 
+Highlights
+_____________________
+Type : DAC/Soundcards
+SUPC: SDL279796582
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, USB Cable (2 Feet), Power Adapter with Detachable AC Cord, Microfiber Bag
+
+General
+Brand
+Audioengine
+Model
+D2-DAC
+Type
+Wireless DAC
+
+SPECIFICATIONS
+Compatible
+Any Computer (Mac or PC), USB - to - SPDIF Convertor (Use with Your Favourite DAC), Any TV or Product With Optical Outputs
+D/A Converter
+PCM1792A
+Optical Receiver
+AK4117
+Impedance
+Output: 100 Ohms
+Full Scale Output
+2.0 V RMS
+SNR
+Less than 115 dB (DC to 20 KHz)
+THD+N
+Less than 0.0015% (1 kHz FS 96 kS/s)
+Crosstalk
+Less than -85 db
+Frequency Response
+10 Hz - 30 kHz (+/- 0.5 dB)
+Wireless Range
+Greater than 100 Feet (typical)
+Latency
+Less than 20 ms
+Input Bit Depth
+24 bit (Upsampled)
+
+Connectivity
+USB
+Controller: TI1020B, Device Class: Type 1.1 or Above
+Inputs
+USB/Optical (SPDIF)
+Outputs
+RCA Stereo/Optical (SPDIF)
+Other Connectivity Feature
+-
+
+POWER FEATURES
+Power Requirements
+Power Source - Sender: USB 5 V or Included External Supply, Receiver: Included External Supply; Sender: 270 mA, 5 V, Receiver: 300 mA, 5V
+Power Consumption
+-
+Other Power Features
+USB Power Filtering: 3 Stage Redundant Regulation
+
+ADDITIONAL FEATURES
+Other Features
+DAC Type - Dual Mode USB and Optical (SPDIF) Wireless DAC; Input Data Rate - 96 kHz - Native Playback, 44.1 kHz, 48 kHz, 188.2 kHz, 192 kHz - Re - Sampled to 96 KHz for Playback; Receivers Supported: Up to 3; Stream Wireless HD Audio from Computer to any Music System; Versatile - High Quality USB Wireless Computer DAC, Wireless USB - to - SPDIF Converter, Wireless Optical PCM to Stereo Link; Game Changing Computer Audio; Wireless Bit-Perfect 24/96 Digital to Analog Converter; Mac or PC Plug and Play; No Drivers or Network Setup; Precision Receiver Re-Clocking for Low Jitter; Operating Temperature: 32 to 95 Degrees F, Non-Operating Temperature: -4 to 113 Degrees F, Relative Humidity: 5% to 95% Non-Condensing
+
+PHYSICAL SPECIFICATIONS
+Dimensions
+4.75 x 5.5 x 1 inches
+Weight
+-
+
+WARRANTY
+Period
+3 Years Manufacturer Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Marantz MM8077 7 Channel Power Amplifier
+ -> 
+Highlights
+_____________________
+1 year manufacturer warranty
+.
+SUPC: SDL162707688
+Technical Specification
+_____________________
+
+Features
+Channels
+7
+
+Inputs/Outputs
+Balanced In
+7
+Main-in
+7
+Number of terminals
+7
+
+Specifications
+Power Output (8 / 4 Ohm RMS)
+150 W / 180 W (6)
+Frequency Response
+10Hz - 100kHz (+-3 dB)
+Total Harmonic Distortion
+0.03% (20 Hz - 20 kHz)
+Damping Factor
+100
+Input Sensitivity: High level
+1.2 V / 22 kohms
+Input Sensitivity: Balanced High level
+2.4 V / 30 kohms
+Signal to Noise Ratio: High level
+105 dB
+
+General
+Power Consumption
+880W
+Standby Consumption
+0.4W
+Maximum Dimensions (W x D x H)
+440 x 384 x 185 mm
+Weight
+18 kg
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Marantz CD5005 Compact Disc Player
+ -> 
+Highlights
+_____________________
+Type : CD Players
+SUPC: SDL334114800
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Remote Control
+
+GENERAL
+Brand
+Marantz
+Model
+CD5005
+Type
+Compact Disc Player
+Colour
+Black
+
+SPECIFICATIONS
+Marantz HDAM
+HDAM-SA2
+D/A Converter
+CS4392
+Power Transformer
+EI Core
+High performance audio grade capacitors
+(Multi-bit, Delta-Sigma)
+Quick Replay
+5 - 60 sec variable
+Repeat Play
+All/1/A-B
+Front Panel
+Metal
+
+INPUTS/OUTPUTS
+Analog L&R Out
+2 channel
+Digital Optical Out
+1
+Digital Coaxial Out
+1
+Headphone Out
+1
+Marantz D-Bus Remote (RC-5) In/Out
+41640
+External control
+Flasher In: 1
+
+AUDIO SECTION
+Disc Capacity
+1
+Number of Channels
+2
+Playback Disc
+CD, CD-R, CD-RW
+Playback Formats
+CD-DA(16-Bit Linear PCM), MP3, WMA
+Sampling Frequency
+CD:44.1kHz, MP3/WMA:32, 44.1, 48kHz
+Frequency Response
+2 Hz - 20 kHz
+Dynamic Range
+100 dB
+S/N Ratio
+110 dB
+Channel separation
+98 dB
+Total Harmonic Distortion
+0.002% (1 kHz)
+Analog Audio Output Level
+2.25V rms, Stereo
+Headphone Output Level
+18 mW/32 ohms (variable maximum)
+Digital Coaxial Out
+0.5 Vp-p, 75 ohms
+
+POWER
+Input Power
+AC 120 V, 60 Hz
+Power Consumption
+14 Watts, Standby: 0.3 Watts
+
+PHYSICAL DIMENSIONS
+Dimension
+W x H x D: 440 x 105 x 370 mm
+Weight
+4.98 Kg
+
+ADDITIONAL FEATURES
+Other Features
+Current-buffered headphone output; Audio EX mode; Display Off; CD Text/ID3 tags; Random Play; Recording Edit Mode; AMS (Auto Music Scan) Mode; Peak Search; Pitch Control; Headphone level Control; Reference Quality D/A Conversion; Fully Discrete Headphone Amplifier; Adjustable Pitch Control; Two line Fluorescent Display
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Pioneer VSX-523-K 5.1 Channel 3D Pass...
+ -> 
+Highlights
+_____________________
+1  Year Manufacturer Warranty
+Brand:Pioneer
+Type:AV Receivers
+Channel:5.1
+Max Video:4K Ultra HD
+HDMI,Four
+Features:ECO Mode,Apple Connectivity,Wifi,Upscaling,DTS-HD,Dolby Digital
+Power Output:80W x 5
+SUPC: SDL829478954
+Technical Specification
+_____________________
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Yamaha CD-C600 5 Disc CD Change Player
+ -> 
+Highlights
+_____________________
+1 Year Manufacture Warranty
+Brand:Yamaha
+Type:CD Player
+Features:5 Disc CD Player,Compact Disc Digital Audio,USB,PlayXchange,MP3,iPod Compatible
+Pure Direct Technology
+Frequency:10 Hz-20 kHz
+SUPC: SDL118912301
+Technical Specification
+_____________________
+
+Specifications
+Type
+5-Disc Carousel
+Disc Compatibility
+CD, CD-R/RW (MP3, WMA), USB, iPod
+Yamaha Patented PlayXchange
+Yes
+Frequency Response
+10 Hz-20 kHz +/-0.5 dB
+Harmonic Distortion
+0.00003
+Signal-to-Noise Ratio
+106 dB
+Dynamic Range
+96 dB
+Output
+Optical
+
+Physical Specifications
+Dimensions (W x H x D)
+435 x 116 x 405 mm
+Weight
+6.2 kg
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Yamaha HTR-2067 5.1 Channel AV Receiver
+ -> 
+Highlights
+_____________________
+Type : AV Receivers
+SUPC: SDL171643784
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Remote Control
+
+GENERAL
+Brand
+Yamaha
+Model
+HTR-2067
+Type
+AV Receiver
+Colour
+Black
+
+SPECIFICATION
+Configuration
+5.1 Channel
+Amplifier Power
+Rated Output Power (1 kHz, 1 Ch driven): 100 Watts (6 Ohm, 0.9% THD); Rated Output Power (20 Hz - 20 kHz, 2 Ch driven): 70 Watts (6 Ohm, 0.09% THD); Maximum Effective Output Power (1 kHz, 1 Ch driven) (JEITA): 135 Watts (6 Ohms, 10% THD); Dynamic Power per Channel (6/4/2 Ohms): 110/130/150 Watts
+Surround Sound Processing
+Cinema DSP, DSP Programs: 17, Silent Cinema/Virtual Cinema DSP: Virtual Cinema Front
+Sound Technology
+Dolby Digital Plus, Dolby Digital, DTS Digital Surround
+Audio Features
+Compressed Music Enhancer, Adaptive DRC (Dynamic Range Control), Initial Volume and Maximum Volume Setting, Audio Delay: 0 - 500 ms, 192 kHz/24-bit DACs for all channels: Burr-Brown
+Video Features
+4K Ultra HD Pass-through, HDMI 3D pass through, HDMI Audio Return Channel, Deep Color/x.v.Color/24 Hz Refresh Rate/Auto Lip-Sync
+Connectivity
+HDMI Input/Output: 4/1, HDMI CEC, Digital Audio Input (Optical): 1, Digital Audio Input (Coaxial): 2, Analog Audio Input: 2, Preout: SW, Headphone Output: 1
+Tuner Section
+FM
+User Interface
+On-screen display, Scene (4 sets), Remote Control
+
+POWER
+Power Supply
+-
+Power Consumption
+AV Receiver - Standby: Less than equal to 0.3 Watts (IR only)
+
+PHYSICAL DIMENSIONS
+Dimension
+(W x H x D) - AV Receiver: 435 x 151 x 315 mm
+Weight
+7.4 Kg
+
+ADDITIONAL FEATURES
+Other Features
+Auto Power Standby; ECO mode
+
+Warranty
+Period
+-
+Terms & Conditions
+_____________________

@@ -1,0 +1,105 @@
+1. The sum of ages of 5 children born at the intervals of 3 years each is 50 years. What is the age of the youngest child?
+
+A.	4 years
+B.	8 years
+C.	10 years
+D.	None of these
+
+ans : A
+
+2. In how many ways can the letters of the word "CORPORATION" be arranged so that vowels always come together.
+a. 5760
+b. 50400
+c. 2880
+d. None of above
+
+ans : b
+
+3.) If FRIEND is coded as HUMJTK, how can CANDLE be written in that code? 
+
+ A.    DEQJQM
+
+ B.    DCQHQK
+
+ C.    EDRIRL
+
+ D.    ESJFME
+ 
+ ans : C
+ 
+4. Blueberries cost more than strawberries.
+Blueberries cost less than raspberries.
+Raspberries cost more than strawberries and blueberries.
+If the first two statements are true, the third statement is
+
+A.	true
+B.	false
+C.	uncertain
+
+ans A
+
+5. 	A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue?
+
+A.	10/21
+
+B.	11/21
+
+C. 2/7
+	
+D.	5/7
+
+ans A
+
+
+
+6. 	39 persons can repair a road in 12 days, working 5 hours a day. In how many days will 30 persons, working 6 hours a day, complete the work?
+
+A.	10	
+B.	13
+C.	14	
+D.	15
+
+ans B
+
+
+7. The price of 2 sarees and 4 shirts is Rs. 1600. With the same money one can buy 1 saree and 6 shirts. If one wants to buy 12 shirts, how much shall he have to pay ?
+
+A.	Rs. 1200	
+B.	Rs. 2400
+C.	Rs. 4800	
+D.	Cannot be determined
+E.	None of these
+
+ans B
+
+
+8. A family consists of two grandparents, two parents and three grandchildren. The average age of the grandparents is 67 years, that of the parents is 35 years and that of the grandchildren is 6 years. What is the average age of the family?
+
+A.	28 	4/7	years
+
+B.	31 	5/7	years
+
+C.	32 	1/7	years
+
+D.	None of these
+
+
+9. 	
+A clock is started at noon. By 10 minutes past 5, the hour hand has turned through:
+
+A.	145º	
+B.	150º
+C.	155º	
+D.	160º
+
+Answer:  C
+
+10. 8, 27, 64, 100, 125, 216, 343
+
+A.	27	
+B.	100
+C.	125	
+D.	343
+
+ans: B
+

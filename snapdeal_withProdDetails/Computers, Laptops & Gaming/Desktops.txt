@@ -1,0 +1,1288 @@
+
+ -------------------------------------------
+HP Pavilion 23-p010in All-in-One Desktop (Intel Quad Core i5-4570T/4GB/1TB/Win 8.1/58.42 cm (23)) -> 
+Highlights
+_____________________
+Material: -
+Hard Disk Capacity: 1 TB
+Memory (RAM): 4 GB
+No. Of Panels: -
+Other Features: -
+Warranty: 3 Years Manufacturer Warranty
+Battery Backup: -
+Screen Size: 58.42 cm (23)
+Processor: Intel Core i5
+Colour: Black and silver
+Usage: Indoor
+SUPC: SDL945869817
+Technical Specification
+_____________________
+
+In the box
+Box Contents
+Monitor and CPU in a single unit, User Manuals, Wireless Mouse, Wireless Keyboard, Power Cord, Warranty Card
+
+General
+Brand
+HP
+Model
+23-p010in
+Model Series
+Pavilion
+Type
+All-in-One
+Utility
+Everyday Use
+Color
+Black and Silver
+
+Processor
+Processor Name
+Core i5 (4th Generation)
+Processor Variant
+4590T
+Processor Brand
+Intel
+Chipset
+Intel Lynx Point H87
+Clock Speed
+3 Ghz
+Cache
+6 MB
+
+Memory
+Memory Slots
+2
+RAM
+4 GB
+Expandable Memory (RAM)
+16 GB
+
+Storage
+Hard Disk Capacity
+1000 GB
+RPM
+7200 rpm
+Hardware Interface
+SATA
+
+Optical Disk Drive
+Optical Drive
+Yes
+Read/Write Speed
+8x
+
+Platform
+Operating System
+Windows 8.1
+Architecture
+64 bit
+
+Display
+Screen Size
+58.42 cm (23)
+Resolution
+1920 x 1080 pixels
+Screen Type
+IPS widescreen Full HD LED backlit display
+Touch Screen
+Yes
+
+Graphics
+Dedicated Graphics Memory Type
+DDR3
+Dedicated Graphics Memory Capacity
+2 GB
+Graphic Processor
+NVIDIA GeForce 810A
+
+Input Devices
+Webcam
+Built-in with array microphone
+Pointer Device
+Wireless optical mouse
+Keyboard
+Wireless keyboard with volume control
+
+Audio
+Internal Mic
+Yes
+Speakers
+Integrated 2W x 2 Channels
+Sound Effect
+Realtek ALC3228-CG
+
+Communication
+Ethernet
+RTL8151GH-CG with Data transfer speeds up to 10/100/1000 Mb/s
+Wireless LAN
+Wireless 802.11 a/g/n 2x2 Dual Band Mini Card
+Bluetooth
+version 4.0
+
+Power & Battery
+Power Supply
+120 watts
+
+Ports/Slots
+USB 3.0 Ports
+2
+USB 2.0 Ports
+4
+Mic In
+Yes
+RJ45 LAN
+Yes
+HDMI Ports
+No
+VGA Ports
+No
+Multi Card Slot
+Yes
+Other Ports
+Headphone jack, Audio port
+
+Software
+Included Software
+CyberLink Power2Go, CyberLink PowerDVD (for CD, DVD and Blu-ray playback), DTS Sound +, HP Games, 7 zip, Accuweather, Evernote, Microsoft Office Trial (online activation required), Pokki, CyberLink Photo Director, CyberLink YouCam Deluxe, HP Connected Music, HP Connected Photo, HP PC Hardware Diagnostics UEFI, HP Support Assistant, HP Recovery Manager, Microsoft Internet Explorer 11
+
+Security
+Antivirus
+HP SimplePass, McAfee LiveSafe 2013 (30-day subscription), McAfee Central
+
+Dimensions
+Weight
+8590 grams
+W x D x H
+56 x 8.2 x 40.4 cm
+
+Warranty
+Warranty Period
+3 year
+Warranty Type
+Onsite Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Dell Optiplex 3020SFF Traditional PC (Intel Pentium- 2GB RAM- 500GB HDD- 46.99 cm (18.5)- DOS) (Black) -> 
+Highlights
+_____________________
+3 Years Dell Onsite Warranty
+Screen Size: 46.99 cm (18.5)
+Memory (RAM): 2 GB
+Processor: Intel Pentium
+Hard Disk Capacity: 500 GB
+Operating System: DOS
+Warranty: 3 Years
+Colour: Black
+Usage: Everyday Use
+SUPC: SDL243649205
+Technical Specification
+_____________________
+
+SALES PACKAGE
+CPU/Tower
+Yes
+Monitor
+Yes
+Mouse
+Yes
+Keyboard
+Yes
+WebCam
+No
+
+OVERVIEW
+Brand
+Dell
+Model Name
+Optiplex
+Model No
+3020SFF
+Utility
+Indoor
+
+PROCESSOR
+Processor Brand
+Intel
+Processor Name
+Intel Pentium
+Frequency
+3 GHz
+Chipset
+Intel H81
+
+MEMORY
+RAM Size
+2 GB
+RAM Type
+SDRAM
+
+STORAGE
+Hard Disk Capacity
+500 GB
+Speed
+5400 rpm
+Hardware Interface
+SATA
+
+PLATFORM
+Operating System
+DOS
+Note
+If Operating system is DOS, write- Install Operating System like Windows or Linux to use the system
+
+SCREEN/MONITOR DETAILS
+Monitor Brand
+Dell
+Monitor Size
+46.99 cm (18.5)
+Monitor Type
+LCD
+
+MOUSE DETAILS
+Mouse Brand
+Dell
+Mouse Type
+Wired Optical Mouse
+
+KEYBOARD DETAILS
+Keyboard Brand
+Dell
+Keyboard Type
+Standard Wired
+
+PORTS
+USB 2.0
+2
+USB 3.0
+6
+Headphone Jack
+Yes
+Memory Card Reader
+Yes
+VGA
+Yes
+
+GRAPHICS
+Graphics Processor
+Intel HD
+
+OPTICAL DISK DRIVE
+Optical Drive Type
+No
+
+WARRANTY
+Period
+3 Years
+Type
+Onsite Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Lenovo C360 -57322343 Desktop (2 GB/Intel Pentium Dual Core/ 49.53 cm (19.5)/500 GB/DOS) -> 
+Highlights
+_____________________
+3 Years Warranty
+Screen Size: 49.53 cm (19.5)
+Hard Disk Capacity: 500 GB
+Memory (RAM): 2 GB
+Colour: Black
+Processor: Intel Pentium Dual Core
+Warranty: 3 Years Manufacturer Warranty
+Operating System: DOS
+SUPC: SDL678043440
+Technical Specification
+_____________________
+
+In the box
+Box Contents
+Monitor and CPU in a single unit, User Manuals, Power Cord, Warranty Card
+
+General
+Brand
+Lenovo
+Model
+57322343
+Model Series
+C360
+Type
+All-in-One
+Utility
+Everyday Use
+Color
+Black
+
+Processor
+Processor Name
+Pentium Dual Core (3rd Generation)
+Processor Variant
+3220T
+Processor Brand
+Intel
+Chipset
+Mobile Intel H81 Express
+Clock Speed
+2.6 Ghz
+Cache
+3 MB
+
+Memory
+RAM
+2 GB
+Expandable Memory (RAM)
+8 GB
+
+Storage
+Hard Disk Capacity
+500 GB
+RPM
+7200 rpm
+Hardware Interface
+SATA
+
+Optical Disk Drive
+Optical Drive
+Yes
+
+Platform
+Operating System
+DOS
+
+Display
+Screen Size
+49.53 cm (19.5)
+Resolution
+1600 x 900 pixels
+Screen Type
+HD+ LED
+Touch Screen
+No
+
+Graphics
+Dedicated Graphics Memory Type
+Not Available
+Graphic Processor
+Intel HD Graphics
+
+Input Devices
+Webcam
+720p HD Web Cam
+Pointer Device
+Wireless Mouse
+Keyboard
+AccuType Wireless Keyboard
+
+Audio
+Speakers
+Integrated Speakers
+Sound Effect
+Dolby Advanced Audio
+
+Communication
+Ethernet
+10/100/1000M
+Wireless LAN
+IEEE 802.11b/g/n
+Bluetooth
+version 4.0
+
+Ports/Slots
+USB 3.0 Ports
+2
+USB 2.0 Ports
+4
+Mic In
+Yes
+RJ45 LAN
+Yes
+HDMI Ports
+Yes
+Multi Card Slot
+Yes
+Other Ports
+Headphone port
+
+Dimensions
+Weight
+5700 grams
+W x D x H
+48.5 x 5.08 x 39.9 cm
+
+Warranty
+Warranty Period
+3 year
+Warranty Type
+Onsite Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Lenovo AIO A740 (F0AM004MIN) Touchscreen Desktop (4th Gen i7/8GB/1TB+8GB SSD/Win 8.1/68.5 cm (27)) -> 
+Highlights
+_____________________
+3 Years Warranty
+Screen Size: 68.5 cm (27)
+Memory (RAM): 8 GB
+Hard Disk Capacity: 1 TB
+Colour: Silver Grey
+Other Features: Perfect Viewing Angles
+Super-Slim And Premium-Styled
+Multimedia Powerhouse
+Touchscreen
+4th Gen Intel Core i7-4558U
+8 GB RAM
+1 TB+8 GB SSD
+Windows 8.1
+SUPC: SDL712802193
+Technical Specification
+_____________________
+
+In the box
+Box Contents
+Monitor and CPU in a single unit, User Manuals, Wireless Mouse, Wireless Keyboard, Power Cord, Warranty Card
+
+General
+Brand
+Lenovo
+Model
+F0AM004MIN
+Model Series
+A740
+Type
+All-in-One
+Utility
+Everyday Use
+Color
+Silver Grey
+
+Processor
+Processor Name
+Core i7 (4th Generation)
+Processor Variant
+4558U
+Processor Brand
+Intel
+Chipset
+Intel H81
+Clock Speed
+2.8 Ghz
+Cache
+4 MB
+
+Memory
+Memory Slots
+1
+RAM
+8 GB
+Expandable Memory (RAM)
+8 GB
+
+Storage
+Hard Disk Capacity
+1000 GB
+RPM
+5400 rpm
+Hardware Interface
+SATA
+
+Optical Disk Drive
+Optical Drive
+Yes
+
+Platform
+Operating System
+Windows 8.1
+Architecture
+64 bit
+
+Display
+Screen Size
+68.58 cm (27)
+Resolution
+1920 x 1080 pixels
+Screen Type
+Full HD
+Touch Screen
+Yes
+
+Graphics
+Dedicated Graphics Memory Type
+DDR3
+Dedicated Graphics Memory Capacity
+2 GB
+Graphic Processor
+NVIDIA GeForce GT 840A
+
+Input Devices
+Webcam
+2 megapixels (1080p)
+Pointer Device
+N70 Mouse
+Keyboard
+Wireless Keyboard
+
+Audio
+Internal Mic
+Yes
+Speakers
+JBL stereo speakers (5Wx2) with Dolby Home Theater
+Sound Effect
+Dolby audio
+
+Communication
+Wireless LAN
+WiFi 802.11ac or WiFi 802.11 b/g/n
+Bluetooth
+version 4.0
+
+Ports/Slots
+USB 3.0 Ports
+2
+USB 2.0 Ports
+2
+Mic In
+Yes
+HDMI Ports
+Yes
+Multi Card Slot
+Yes
+Other Ports
+Headphone port, TV Tuner Card
+
+Software
+Included Software
+Dolby Home Theater, Angry Birds, Fish Hunting, Lenovo Education Games, Skype, Lenovo Motion Control, NFC Connector, Lenovo Dynamic Brightness, Lenovo Eye Distancing
+
+Security
+Antivirus
+Lenovo Rescue System
+
+Dimensions
+Weight
+8900 grams
+W x D x H
+81 x 55.8 x 21.6 cm
+
+Warranty
+Warranty Period
+3 year
+Warranty Type
+Onsite Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Shlr Pylon S6 Desktop Pc (3rd Gen I7/4gb Ddr3 Ram/500gb Hdd/46.99 cm (18.5) Monitor) -> 
+Highlights
+_____________________
+Screen Size: 18.5
+Memory (RAM): 4 GB
+Processor: Intel Core i7
+Hard Disk Capacity: 500 GB
+Operating System: Ubuntu
+Warranty: (Monitor , keyboard & mouse , Hard disk) 1 year , RAM 2 years , (Processor , MotherBoard , SMPS) 3 years
+Battery Backup: NA
+Colour: Maroon
+Usage: Indoor
+SUPC: SDL197162305
+Technical Specification
+_____________________
+
+In The Box
+Sales Package
+
+
+General
+Type(Mandatory)
+
+Series
+
+Part Number
+
+Colour
+Maroon
+Brand
+Shlr Pylon Desktop Computer
+
+System Features
+Cache Memory
+6 MB L3
+Processor Name
+Intel 3rd Generation i7
+Chipset
+Intel® H61 Express Chipset
+Processor Brand
+Intel
+Processor Frequency
+3.4 GHz
+Operating System
+Ubuntu
+Processor Model
+i7
+
+Memory
+Memory Speed
+
+Expandable Memory
+Upto 16 GB DDR3
+Memory Slots
+
+System Memory
+
+Memory Detail
+
+
+Display
+Display Size
+18.5 inch
+HD
+
+Display Resolution
+1366 x 768 Pixels at 60Hz
+Display Type
+LED Backlit LCD Monitor
+Other Display features
+Anti-glare Language selection Plug and Play User programmable On-screen controls
+
+Graphics
+Integrated Graphic Processor
+Intel HD Graphics 4000
+
+Webcam
+Sensor resolution
+
+Video Size
+
+Built-in Webcam
+NA
+
+Storage
+Storage Interface
+SATA
+Reading speed
+
+Hard Drive
+500GB
+
+Audio
+Built-in Microphone
+NA
+Other Audio features
+
+
+Optical Drive
+Maximum Read speed
+
+Maximum Write speed
+
+Drive Type
+DVD
+
+Connectivity
+Memory Stick Slot
+
+USB
+Front two (2.0), Back two (2.0) , two(3.0)
+Headphone Jack
+Front and Back
+Memory Card Reader
+NA
+Microphone Jack
+Front and Back
+Other Ports
+VGA port, COM port, Parallel port
+
+Network
+Wireless
+
+Ethernet
+10/100/1000 Ethernet
+
+Input Devices
+Mouse
+Wired
+Keyboard
+Wired
+
+Dimensions
+Height
+
+Width
+
+Depth
+
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+HP 110-216ix Desktop (i3 3240T/2 GB/500 GB/Ubuntu) -> 
+Highlights
+_____________________
+1 Year Warranty
+Operating System: Ubuntu Linux (64-bit)
+Warranty: 1 Year Manufacturer Warranty
+Hard Disk Capacity: 500 GB
+Memory (RAM): 2 GB
+Colour: Black
+Processor: Intel Core i3
+Usage: Indoor
+SUPC: SDL941376805
+Technical Specification
+_____________________
+
+In the box
+Box Contents
+CPU, User Manuals, Power Cord, Warranty Card
+
+General
+Brand
+HP
+Model
+110-216ix
+Model Series
+110
+Type
+Traditional PC
+Utility
+Everyday Use
+Color
+Black
+
+Processor
+Processor Name
+Core i3 (3rd Generation)
+Processor Variant
+3240T
+Processor Brand
+Intel
+Chipset
+Intel H61
+Clock Speed
+2.9 Ghz
+Cache
+3 MB
+
+Memory
+Memory Slots
+2
+RAM
+2 GB
+Expandable Memory (RAM)
+16 GB
+
+Storage
+Hard Disk Capacity
+500 GB
+RPM
+7200 rpm
+Hardware Interface
+SATA
+
+Optical Disk Drive
+Optical Drive
+Yes
+
+Platform
+Operating System
+Linux/Ubuntu
+Architecture
+64 bit
+
+Graphics
+Dedicated Graphics Memory Type
+Not Available
+Graphic Processor
+Intel Graphics Media Accelerator HD (DX11)
+
+Input Devices
+Pointer Device
+HP USB optical mouse
+Keyboard
+HP USB keyboard
+
+Audio
+Internal Mic
+No
+Sound Effect
+Realtek ALC662
+
+Communication
+Ethernet
+Realtek 8106E-CG with Data transfer speeds up to 10/100 Mb/s
+
+Power & Battery
+Power Supply
+90 watts
+
+Ports/Slots
+USB 2.0 Ports
+6
+Mic In
+Yes
+RJ45 LAN
+Yes
+HDMI Ports
+No
+VGA Ports
+Yes
+Multi Card Slot
+Yes
+Other Ports
+Headphone: 1, DVI-D: 1, Audio line-in (blue), Audio line-out (green), Microphone (pink)
+
+Dimensions
+Weight
+6000 grams
+W x D x H
+16.5 x 38.5 x 36.4 cm
+
+Warranty
+Warranty Period
+1 year
+Warranty Type
+Carry-In Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+HP 18-1310ix All in One Desktop PC (AMD E1-1200/2 GB RAM/500 GB/Windows 8.1) -> 
+Highlights
+_____________________
+Material: -
+Usage: Indoor
+Hard Disk Capacity: 500 GB
+Warranty: 1 Year Manufacturer Warranty
+Screen Size: 46.99 cm (18.5)
+Colour: -
+Memory (RAM): 2 GB
+No. Of Panels: -
+Other Features: -
+Battery Backup: -
+SUPC: SDL944853440
+Technical Specification
+_____________________
+
+OVERVIEW
+Brand
+HP
+Model Number
+18-1310ix
+
+PROCESSOR
+Processor Name
+E1-1200 APU
+
+Display
+Display Type
+HD LED
+Size
+46.99 cm (18.5)
+
+MOTHERBOARD
+Form Factor
+All In One
+
+STORAGE
+Hard Disk Capacity
+500 GB
+
+MEMORY
+RAM
+2 GB DDR 3
+
+PLATFORM
+Operating System
+Windows 8.1
+
+OPTICAL DISK DRIVE
+Optical Drive
+DVD R/W
+
+GRAPHICS
+Graphic Processor
+Integrated
+
+KEYBOARD/INPUT DEVICE
+Pointer Device
+Wired
+Keyboard
+Wired
+
+COMMUNICATION
+Transmission standards
+Wireless LAN
+
+Warranty
+Period
+1 Year Manufacturer Warranty
+
+IN THE BOX
+Sales Package
+Main Unit
+Terms & Conditions
+_____________________
+ -------------------------------------------
+HP AIO 20-2212in (4th Gen Intel Core i5-4460T/4GB/1TB/Win8.1/49.53 cm (19.5)) -> 
+Highlights
+_____________________
+Memory (RAM): 4 GB
+Usage: Indoor
+Screen Size: 49.53 cm (19.5)
+Operating System: Windows 8
+Colour: Black and Silver
+Processor: Intel Core i5
+Warranty: 3 Years Manufacturer Warranty
+Hard Disk Capacity: 1 TB
+SUPC: SDL544262799
+Technical Specification
+_____________________
+
+In the box
+Box Contents
+Monitor and CPU in a single unit, User Manuals, Wireless Mouse, Wireless Keyboard, Power Cord, Warranty Card
+
+General
+Brand
+HP
+Model
+20-2212in
+Model Series
+20
+Type
+All-in-One
+Utility
+Everyday Use
+Color
+Black and Silver
+
+Processor
+Processor Name
+Core i5 (4th Generation)
+Processor Variant
+4460T
+Processor Brand
+Intel
+Clock Speed
+1.9 Ghz
+Cache
+6 MB
+
+Memory
+Memory Slots
+2
+RAM
+4 GB
+Expandable Memory (RAM)
+16 GB
+
+Storage
+Hard Disk Capacity
+1000 GB
+RPM
+7200 rpm
+Hardware Interface
+SATA
+
+Optical Disk Drive
+Optical Drive
+Yes
+Read/Write Speed
+8x
+
+Platform
+Operating System
+Windows 8.1
+Architecture
+64 bit
+
+Display
+Screen Size
+49.53 cm (19.5)
+Resolution
+1600 x 900 pixels
+Screen Type
+LCD High-Definition LED backlit display
+Touch Screen
+No
+
+Graphics
+Dedicated Graphics Memory Type
+Not Available
+Graphic Processor
+Intel HD 4600 graphics (GT2)
+
+Input Devices
+Webcam
+Built-in Webcam with array microphone
+Pointer Device
+Wireless optical mouse
+Keyboard
+Wireless keyboard with volume control
+
+Audio
+Internal Mic
+Yes
+Speakers
+Integrated 2W x 2 Speakers
+Sound Effect
+Realtek ALC3228 with Audio jack presence detection
+
+Communication
+Ethernet
+Realtek RTL-8151GH with Data transfer speeds up to 10/100/1000 Mb/s
+Wireless LAN
+Wireless LAN 802.11b/g/n featuring Single-band (2.4Ghz) 1 x 1 technology
+Bluetooth
+version 4.0
+
+Power & Battery
+Power Supply
+90 watts
+
+Ports/Slots
+USB 3.0 Ports
+1
+USB 2.0 Ports
+4
+Mic In
+Yes
+RJ45 LAN
+Yes
+HDMI Ports
+No
+VGA Ports
+No
+Multi Card Slot
+Yes
+Other Ports
+Headphone jack, Audio port
+
+Software
+Included Software
+CyberLink Power2Go, CyberLink PowerDVD (for CD, DVD and Blu-ray playback), HP Games, Trip Advisor, MySMS, 7 zip, Accuweather, AMD Quick Access to Miracast, Bing Translator, Evernote, Foxit PhantomPDF, Microsoft Office Trial (online activation required), The Weather Channel, CyberLink Photo Director, CyberLink YouCam Deluxe, HP Connected Music, HP Connected Photo, HP PC Hardware Diagnostics UEFI, HP Support Assistant, HP Recovery Manager, Microsoft Internet Explorer 11
+
+Security
+Antivirus
+HP SimplePass, McAfee LiveSafe 2013 (30-day subscription), McAfee Central
+
+Dimensions
+Weight
+7000 grams
+W x D x H
+49.5 x 7.2 x 34 cm
+
+Warranty
+Warranty Period
+3 year
+Warranty Type
+Onsite Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Dell Optiplex 3020 Desktop PC(4th gen I3-4GB-500GB-Win8.1SL) -> 
+Highlights
+_____________________
+Memory (RAM): 4 GB
+Warranty: 3 Years Manufacturer Warranty
+Processor: Intel Core i3
+Operating System: Windows 8
+Hard Disk Capacity: 500 GB
+Usage: Indoor
+Screen Size: 18.5
+Colour: Black
+SUPC: SDL906151110
+Technical Specification
+_____________________
+
+General
+Series
+Optiplex
+Colour
+Black
+Brand
+Dell
+
+System Features
+Processor Name
+4th Gen i3
+Processor Brand
+Intel
+Processor Frequency
+3.4Ghz
+Operating System
+Windows 8
+
+Memory
+Memory Detail
+4GB
+
+Display
+Display Size
+18.5
+Display Type
+LED
+
+Graphics
+Integrated Graphic Processor
+Yes
+
+Storage
+Storage Interface
+Sata
+Hard Drive
+500
+
+Optical Drive
+Drive Type
+DVD RW
+
+Input Devices
+Mouse
+Yes
+Keyboard
+Yes
+
+Dimensions
+Height
+36
+Width
+17.5
+Depth
+41.7
+
+Warranty
+Warranty
+3 Years Manufacturer Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Dell All in One 3048(Dual Core-2GB-500GB-19.5 Display-DOS) -> 
+Highlights
+_____________________
+Screen Size: 19.5
+Processor: Intel Pentium Dual Core
+No. Of Panels: -
+Colour: Black
+Hard Disk Capacity: 500 GB
+Warranty: 3 Years Manufacturer Warranty
+Operating System: DOS
+Memory (RAM): 2 GB
+Usage: Indoor
+Other Features: -
+Material: -
+SUPC: SDL119901240
+Technical Specification
+_____________________
+
+In the box
+Box Contents
+Monitor and CPU in a single unit, User Manuals, Wireless Mouse, Wireless Keyboard, Power Cord, Warranty Card
+
+General
+Brand
+Dell
+Model
+3048
+Model Series
+Inspiron One 20 3000
+Type
+All-in-One
+Utility
+Everyday Use
+Color
+Black
+
+Processor
+Processor Name
+Pentium Dual Core (4th Generation)
+Processor Brand
+Intel
+Chipset
+Intel H81
+
+Memory
+RAM
+2 GB
+
+Storage
+Hard Disk Capacity
+500 GB
+RPM
+5400 rpm
+Hardware Interface
+SATA
+
+Optical Disk Drive
+Optical Drive
+Yes
+
+Platform
+Operating System
+DOS
+
+Display
+Screen Size
+49.53 cm (19.5)
+Resolution
+1600 x 900 pixels
+Screen Type
+LED
+Touch Screen
+No
+
+Graphics
+Dedicated Graphics Memory Type
+Not Available
+Graphic Processor
+Intel HD Graphics
+
+Input Devices
+Webcam
+1.0MP 1280x720 HD
+Pointer Device
+Wireless Dell Mouse
+Keyboard
+Wireless Dell Keyboard
+
+Audio
+Internal Mic
+Yes
+
+Communication
+Ethernet
+10/100/1000 Gigabit
+Bluetooth
+version 4.0
+
+Ports/Slots
+USB 3.0 Ports
+2
+USB 2.0 Ports
+4
+RJ45 LAN
+Yes
+HDMI Ports
+Yes
+Multi Card Slot
+Yes
+Other Ports
+Headphone Jack
+
+Dimensions
+Weight
+4600 grams
+W x D x H
+48.7 x 6.8 x 32.9 cm
+
+Warranty
+Warranty Period
+1 year
+Warranty Type
+Onsite Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________

@@ -1,0 +1,93 @@
+import scrapy
+import os
+from ecomm.items import TabItem
+from ecomm.items import CatItem
+from ecomm.items import SubCatItem
+from scrapy.http.request import Request
+class SDSpider(scrapy.Spider):
+    name = "snapdeal"
+    allowed_domains = ["snapdeal.com"]
+    start_urls = [
+        "http://www.snapdeal.com/page/sitemap"
+        ]
+    if not os.path.exists(name):
+        os.makedirs(name)
+    def parse(self, response):
+        
+        tabs= []
+        tab_selector = response.xpath('//div[contains(@id, "SMWrapr")]')
+        ### loop for all tabs
+        for tab in tab_selector.xpath('.//div[contains(@id, "Tab")]'):
+           # tabItem = TabItem()
+           
+            tabNameSel = tab.xpath('.//div/span[2]/text()').extract()
+                       
+            if tabNameSel:
+                tabName = tabNameSel[0]
+                print tabName
+                fobj = open(tabName+".txt", 'w+')   
+            #print tabName 
+           # categories = []
+            cat_selector = tab.xpath('.//div[2]/div[contains(@class, "SMSubCat")]')
+            ### loop for all categories
+            for category in cat_selector.xpath('div'): #'.//div[contains(@class, "ht180")]
+             #   catItem = CatItem()
+                catNameSel = category.xpath('div/a/@title').extract()
+                if catNameSel:
+                    catName = catNameSel[0]
+                    
+                subcat_selector = category.xpath('.//ul')
+                ### loop for all subcategories
+                for subcat in subcat_selector.xpath('.//li'):
+                    subcatNameSel = subcat.xpath('.//a/@title').extract()
+                    if subcatNameSel:
+                        subcatName = subcatNameSel[0]
+                    subcatLinkSel = subcat.xpath('.//a/@href').extract()
+                    if subcatLinkSel:
+                        subcatLink = subcatLinkSel[0]+"?sort=plrty"
+                        
+                    request = Request(subcatLink,callback=self.parse_subcatpage)
+                    request.meta['fobj'] = fobj
+                    request.meta['tabName'] = tabName
+                    request.meta['catName'] = catName
+                    request.meta['subcatName'] = subcatName
+                    yield request
+                        #(response,tabName,catName,subcatName)
+                    
+                    #print subcatLink
+                    #print tabName, ":", catName, ":", subcatName
+              #  categories.append(catItem)
+            #return categories
+            #categories = [dict(categories)]
+            #tabs.append(tabItem)
+        #return tabs
+        fobj.close()   
+    def parse_subcatpage(self, response):
+        fobj = response.meta['fobj']
+        tabName = response.meta['tabName']
+        catName = response.meta['catName']
+        subcatName = response.meta['subcatName']
+        filter_selector = response.xpath('//div[contains(@class, "filters-outer")]')
+        
+        for filtr in filter_selector.xpath('.//div'):
+            filterNameSel = filtr.xpath('.//span[contains(@class, "filtersHeading")]/text()').extract()
+            if filterNameSel:
+                filterName = filterNameSel[0]
+                result = str("\n"+tabName+" -> "+catName+" -> "+subcatName+" -> "+filterName+" -> ")
+                print result.encode('utf-8')
+                print fobj.name +"filename"
+                if fobj.closed:
+                    fobj = open(fobj.name, "a+")
+                    fobj.write(result.encode('utf-8'))
+            valueSelector = filtr.xpath('.//div[contains(@class, "visible-filter")]') ##fliters = filters(error in SD site)
+            #print valueSelector.extract()
+            for value in valueSelector.xpath('.//div[contains(@class, "fliters-list")]'):
+                valueNameSel = value.xpath('label/a/text()').extract()
+                if valueNameSel:
+                    valueName = valueNameSel[0].strip()+" | "                    
+                    print valueName.encode('utf-8')
+                    fobj.write(valueName.encode('utf-8'))
+                    
+                    
+                
+            

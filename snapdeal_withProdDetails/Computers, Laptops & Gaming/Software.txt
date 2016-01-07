@@ -1,0 +1,435 @@
+
+ -------------------------------------------
+Trend Micro Internet Security 2012 1Y 1PC -> 
+Highlights
+_____________________
+Edition : 2012
+SUPC: SDL101115526
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Kaspersky Total Security Pure 3.05 User 1 Year -> 
+Highlights
+_____________________
+Software Type : Antivirus & Security
+Number Of Users Allowed : 5
+Number Of Years Validity : 1
+System Requirements-Os Required : Microsoft Windows XP Home Edition (Service Pack 3 or higher)
+Microsoft Windows XP Professional (Service Pack 3 or higher)
+Microsoft Windows XP Professional x64 Edition (Service Pack 2 or higher)
+Microsoft Windows Vista Home Basic (32 / 64 Bit) (Service Pack 2 or higher)
+Microsoft Windows Vista Home Premium (32 / 64 Bit) (Service Pack 2 or higher)
+Microsoft Windows Vista Business (32 / 64 Bit) (Service Pack 2 or higher)
+Microsoft Windows Vista Enterprise (32 / 64 Bit) (Service Pack 2 or higher)
+Microsoft Windows Vista Ultimate (32 / 64 Bit) (Service Pack 2 or higher)
+Microsoft Windows 7 Starter (Service Pack 1 or higher)
+Microsoft Windows 7 Home Basic (32 / 64 Bit) (Service Pack 1 or higher)
+Microsoft Windows 7 Home Premium (32 / 64 Bit) (Service Pack 1 or higher)
+Microsoft Windows 7 Professional (32 / 64 Bit) (Service Pack 1 or higher), Microsoft Windows 7 Ultimate (32 / 64 Bit) (Service Pack 1 or higher), Microsoft Windows 8
+Microsoft Windows 8 Pro, Microsoft Windows 8 Enterprise
+Hardware Requirements : Approximately 700 MB free space on the hard drive (depending on antivirus database size)
+SUPC: SDL329504252
+Technical Specification
+_____________________
+
+GENERAL
+Compatible Systems
+PC
+Media Format
+CD
+
+SYSTEM REQUIREMENTS
+Processor
+Microsoft Windows XP Editions: Intel Pentium 800 MHz or higher (or equivalent); Microsoft Windows Vista Editions: Intel Pentium 1 GHz 32 bit (x86) / 64 bit (x64) or higher (or equivalent); Microsoft Windows 7 Editions: Intel Pentium 1 GHz 32-bit (x86) / 64-bit (x64) or higher (or equivalent); Microsoft Windows 8 Editions: Intel Pentium 1 GHz 32-bit (x86) / 64-bit (x64) or higher (or equivalent)
+Operating Systems
+Microsoft Windows XP Home Edition, Microsoft Windows XP Professional, Microsoft Windows XP Professional x64 Edition, Microsoft Windows Vista Home Basic, Microsoft Windows Vista Home Premium, Microsoft Windows Vista Business, Microsoft Windows Vista Enterprise, Microsoft Windows Vista Ultimate, Microsoft Windows 7 Starter, Microsoft Windows 7 Home Basic, Microsoft Windows 7 Home Premium, Microsoft Windows 7 Professional, Microsoft Windows 7 Ultimate, Microsoft Windows 8/Microsoft Windows 8 Pro/Microsoft Windows 8 Enterprise; Microsoft Windows 8, Microsoft Windows 8 Pro, Microsoft Windows 8 Enterprise
+RAM
+Microsoft Windows XP Editions: 512 MB; Microsoft Windows Vista Editions: 1 GB; Microsoft Windows 7 Editions: 1 GB (32 bit) or 2 GB (64 bit); Microsoft Windows 8 Edition: 1 GB (32 bit) or 2 GB (64 bit)
+Hard Disk Space
+Approximately 700 MB free space on the hard drive (depending on antivirus database size)
+Other System Requirements
+CD-ROM or DVD-ROM drive: for installing Kaspersky PURE 3.0 from CD; Computer mouse or other suitable pointing device Internet connection for activating Kaspersky PURE 3.0; Microsoft Internet Explorer 8.0 or higher; Microsoft Windows Installer 3.0; Hardware requirements for netbooks: Intel Atom 1.6 GHz (Z520) or compatible 1 GB DDR2 available RAM; Video adapter: Intel GMA950 with at least 64 MB of memory or compatible; Screen size: 10.1 inch, with 1024 x 600 resolution or above
+
+ADDITIONAL FEATURES
+Features
+Kaspersky’s new Safe Money technology: adds more protection for financial transactions; Secure Keyboard technology helps protect your identity; PURE 3.0 Total Security defends against the exploitation of vulnerabilities; Password Manager not only enhances your security by generating secure, random passwords – it also automatically logs you onto your website accounts and applications, including Skype and Instant Messenger; Kaspersky’s flexible backup lets you access your documents, photos, music and other files even if your PC fails; Secure vaults protect your most precious data; PC Cleanup tools to add security and help you preserve PC performance; Home Network Control simplifies management tasks across multiple PCs; Parental Control
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Kaspersky Anti-virus 2015 1pc 1year -> 
+Highlights
+_____________________
+Software Type : Anti-Virus
+Number of Users allowed : 1
+Number of Years validity : 1
+Edition : Anti-Virus 2015
+Weight : 100
+SUPC: SDL744155928
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Kaspersky Small Office Security 25 PCs + 3 File Server + 25 Mobile Security 1 Year -> 
+Highlights
+_____________________
+Type : Antivirus & Security
+Warranty : 1 Year Manufacturer Warranty
+SUPC: SDL650163028
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Kaspersky Internet Security 2015 1 PC 1 Year -> 
+Highlights
+_____________________
+1 Year Subscription
+Type : Internet Security,Version: 2015,Number of Users: 1,Number of Years Valid: 1
+SUPC: SDL010226291
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Stellar Phoenix Password Recovery -> 
+Highlights
+_____________________
+Software Type : Utilities
+Number of Users allowed : 1
+Number of Years validity : Lifetime
+Warranty : No
+Edition : 2
+System Requirements-Os Required : Processor:Pentium class , Memory:1GB RAM , Hard Disk:40MB of freespace Operating System: Windows8,7,Vista,XP
+Hardware Requirements : Windows 8/ Window 7/ Windows Vista/ Windows XP
+Weight : 500 grams
+SUPC: SDL737611238
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Trend Micro Maximum Security 2011 1Y 3PC -> 
+Highlights
+_____________________
+Edition : 2011
+SUPC: SDL103081873
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Mcafee Antivirus Plus Latest Version 1 Pc - 1 Year Warranty -> 
+Highlights
+_____________________
+Number of Users allowed : 1
+Edition : Latest
+SUPC: SDL511775665
+Technical Specification
+_____________________
+
+General Information
+Brand Name
+Mcafee
+Product Name
+Mcafee Antivirus Plus Latest Version 1 Pc - 1 Year Warranty
+Number of Users
+1
+Number of Years
+1
+Format
+Activation Card (NO CD)
+
+System Requirements
+Operating System
+Windows: XP SP3 (32-bit), Vista SP1, 7, 8, 8.1
+Hard Disk Space
+500 MB Free Space
+RAM Size
+512 MB RAM (Windows XP), 2 GB RAM (Windows: Vista, 7, 8, 8.1)
+Description
+_____________________
+Protects Against Hackers, Spyware, Phishing, Malware, and other Online Threats, McAfee ActiveProtection and NetGuard Technology, Enhance PC Performance by Deleting Unnecessary Files, Web Browsing Protection, Two-way Firewall, Network Intrusion Security, Scanning Engine Checks for Threats Quickly without Compromising Battery Performance, Thieves, Find and Patch Holes in Windows and Applications with McAfee Vulnerability Scanner
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Busy 14 Standard Single User -> 
+Highlights
+_____________________
+Software Type : Accounting
+Number of Users allowed : 1
+Number of Years validity : Lifetime
+Warranty : One Year
+Edition : Standard Single User
+System Requirements-Os Required : Windows XP or Above
+Hardware Requirements : Inte Pentium 4 or Above
+Weight : 500g
+SUPC: SDL313596294
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+eScan Anti-Virus with Cloud Security 1 User 3 Years -> 
+Highlights
+_____________________
+Number Of Users Allowed : 1
+Number Of Years Validity : 3
+SUPC: SDL852631665
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Busy Accounting SoftwareStandardEdition Client - Server Mode Ms Sql Database Version 14.0 With 5000 Bulk Sms Free Woth Rs. 1500/- -> 
+Highlights
+_____________________
+Software Type : Business Accounting Software
+Number of Users allowed : UNLIMITED
+Number of Years validity : Lifetime
+Edition : 14
+Hardware Requirements : For Server: Windows Server 2000, Server 2003, XP Server and so on which can run MSSQL Server 2000; For Clients: Windows 98 or any higher version
+SUPC: SDL930752633
+Description
+_____________________
+The company created with this version is accessible by unlimited users, so this model is working as multi-user client mode in general. but there is only one user is allowed to enter data.
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Kaspersky Antivirus 2015 1 PC 1 Year -> 
+Highlights
+_____________________
+Software Type : AntiVirus
+Number of Users allowed : 1
+Number of Years validity : 1
+Edition : 2015
+System Requirements-Os Required : Windows Xp Sp3,Windows 7 Sp 1 And Above, Win 8 / 8.1
+Hardware Requirements : Processor: 1 Ghz Or Higher, 1 Gb Available Ram (32 Bit) Or 2 Gb Available Ram (64 Bit)
+Weight : 100
+SUPC: SDL004516578
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+K7 Ultimate Security Gold for Life Time | Limited Edition -> 
+Highlights
+_____________________
+Lifetime Validity
+Lifetime Validity
+Data Backup and Restore
+Anti-virus
+Anti-malware
+Anti-Root kit
+Zero day threat blocking
+Host intrusion prevention
+Comprehensive Device control
+Two way Firewall &
+Anti-spam
+Web Protection
+Privacy & Parental Control
+Bonus tools
+SUPC: 1718283
+Technical Specification
+_____________________
+
+Warranty
+Period
+Lifetime Validity
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Kaspersky Internet Security 2015 1 PC 3 Years -> 
+Highlights
+_____________________
+1 PC 3 Years
+Software Type : Internet Security
+Number Of Users Allowed : 1
+Number Of Years Validity : 3 Years
+Edition : 2015
+System Requirements-Os Required : Microsoft Windows XP Home Edition SP3 or higher, Microsoft Windows XP Professional SP3 or higher, Microsoft Windows XP Professional x64 Edition SP2 or higher
+Microsoft Windows Vista Home Basic/Home Premium/Business/Enterprise/Ultimate (x32 and x64) SP1 or higher, Microsoft Windows 7 Starter (x32) SP1 or higher
+Microsoft Windows 7 Home Basic/Home Premium/Professional/Ultimate (x32 and x64) SP1 or higher, Microsoft Windows 8/Windows 8 Pro/Windows 8 Enterprise (x32 and x64)
+Microsoft Windows 8.1/Windows 8.1 Pro/Windows 8.1 Enterprise (x32 and x64); Hard Disk Space: Approximately 480 MB
+Hardware Requirements : Processor -  Microsoft Windows XP: 800 MHz or higher, Microsoft Windows Vista/7/8/8.1: 1 GHz or higher, RAM -  Microsoft Windows XP: 512 MB, Microsoft Windows Vista/7/8/8.1: 1 GB (32 Bit) or 2 GB (64 Bit)
+SUPC: SDL852553615
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit
+
+GENERAL
+Brand
+Kaspersky
+Model Id
+Internet Security 1 PC 3 Year
+Genre
+Internet Security
+
+SPECIFICATION
+Number Of PC
+1
+Subscription Validity
+3 Years
+Version
+2015
+Media Format
+CD-ROM or DVD-ROM Drive (for installation of the program from CD)
+Contents Included
+Webcam Protection Technology, Protection Against Malware Attacks, Protection from Identity Thieves
+
+SYSTEM REQUIREMENTS
+Processor
+Microsoft Windows XP: 800 MHz or higher, Microsoft Windows Vista/7/8/8.1: 1 GHz or higher
+Operating Systems
+Microsoft Windows XP Home Edition SP3 or higher, Microsoft Windows XP Professional SP3 or higher, Microsoft Windows XP Professional x64 Edition SP2 or higher, Microsoft Windows Vista Home Basic/Home Premium/Business/Enterprise/Ultimate (x32 and x64) SP1 or higher, Microsoft Windows 7 Starter (x32) SP1 or higher, Microsoft Windows 7 Home Basic/Home Premium/Professional/Ultimate (x32 and x64) SP1 or higher, Microsoft Windows 8/Windows 8 Pro/Windows 8 Enterprise (x32 and x64), Microsoft Windows 8.1/Windows 8.1 Pro/Windows 8.1 Enterprise (x32 and x64)
+RAM
+Microsoft Windows XP: 512 MB, Microsoft Windows Vista/7/8/8.1: 1 GB (32 Bit) or 2 GB (64 Bit)
+Hard Disk Space
+Approximately 480 MB
+Other System Requirements
+Computer mouse; Internet connection for product activation; Microsoft Internet Explorer 8 or higher; Microsoft Windows Installer 3.0 or higher; Microsoft .NET Framework 4 or higher; Webcam Protection feature is available for the compatible web-cameras only
+
+ADDITIONAL FEATURES
+Other Features
+Protect your Privacy, Identity, Money and Children
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+E Scan Internet Security 4PC 1 Year -> 
+Highlights
+_____________________
+E Scan 4 PC 1 Year Subscription
+Anti-Virus
+Anti-Phishing
+Anti-Spyware
+Anti-Rootkit
+Anti-Spam
+USB Control
+Application Control
+Web Protection
+Virtual Keyboard
+Gaming Mode
+Laptop Mode
+Folder and File Security
+Network Traffic Monitor
+User-based Parental Control
+Firewall
+Privacy Protection
+Identity Theft Prevention
+Malware URL Filter
+SUPC: 1574044
+Technical Specification
+_____________________
+
+Warranty
+Period
+E Scan 4 PC 1 Year Subscription
+
+System Requirements
+Processor
+Pentium II 200 MHz or Higher
+RAM
+256 MB (512 MB Recommended)
+Hard Disk
+500 MB of Free Space
+Browser
+Internet Explorer 6.0 and Above
+Available Platforms
+Windows 7 / Vista / XP / 2000 (Workstation) [ All 32 & 64 bit Editions ]
+Description
+_____________________
+E Scan Internet Security
+is a complete anti-virus and content security solution. It provides proactive protection to your computers against malware and other threats including viruses, spyware, adware, keyloggers, rootkits, botnets, hackers and spam. It ensures
+It performs
+Other than these the software also features advanced classification of
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Kaspersky Internet Security 2015 3 PC 3 Years -> 
+Highlights
+_____________________
+3 PC 3 Years
+Software Type : Internet Security
+Number Of Users Allowed : 3
+Number Of Years Validity : 3 Years
+Edition : 2015
+System Requirements-Os Required : Microsoft Windows XP Home Edition SP3 or higher, Microsoft Windows XP Professional SP3 or higher, Microsoft Windows XP Professional x64 Edition SP2 or higher
+Microsoft Windows Vista Home Basic/Home Premium/Business/Enterprise/Ultimate (x32 and x64) SP1 or higher, Microsoft Windows 7 Starter (x32) SP1 or higher
+Microsoft Windows 7 Home Basic/Home Premium/Professional/Ultimate (x32 and x64) SP1 or higher
+Microsoft Windows 8/Windows 8 Pro/Windows 8 Enterprise (x32 and x64), Microsoft Windows 8.1/Windows 8.1 Pro/Windows 8.1 Enterprise (x32 and x64); Hard Disk Space: Approximately 480 MB
+Hardware Requirements : Processor -  Microsoft Windows XP: 800 MHz or higher, Microsoft Windows Vista/7/8/8.1: 1 GHz or higher, RAM -  Microsoft Windows XP: 512 MB, Microsoft Windows Vista/7/8/8.1: 1 GB (32 Bit) or 2 GB (64 Bit)
+SUPC: SDL136814748
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit
+
+GENERAL
+Brand
+Kaspersky
+Model Id
+Internet Security 3 PC 3 Year
+Genre
+Internet Security
+
+SPECIFICATION
+Number Of PC
+3
+Subscription Validity
+3 Years
+Version
+2015
+Media Format
+CD-ROM or DVD-ROM Drive (for installation of the program from CD)
+Contents Included
+Webcam Protection Technology, Protection Against Malware Attacks, Protection from Identity Thieves
+
+SYSTEM REQUIREMENTS
+Processor
+Microsoft Windows XP: 800 MHz or higher, Microsoft Windows Vista/7/8/8.1: 1 GHz or higher
+Operating Systems
+Microsoft Windows XP Home Edition SP3 or higher, Microsoft Windows XP Professional SP3 or higher, Microsoft Windows XP Professional x64 Edition SP2 or higher, Microsoft Windows Vista Home Basic/Home Premium/Business/Enterprise/Ultimate (x32 and x64) SP1 or higher, Microsoft Windows 7 Starter (x32) SP1 or higher, Microsoft Windows 7 Home Basic/Home Premium/Professional/Ultimate (x32 and x64) SP1 or higher, Microsoft Windows 8/Windows 8 Pro/Windows 8 Enterprise (x32 and x64), Microsoft Windows 8.1/Windows 8.1 Pro/Windows 8.1 Enterprise (x32 and x64)
+RAM
+Microsoft Windows XP: 512 MB, Microsoft Windows Vista/7/8/8.1: 1 GB (32 Bit) or 2 GB (64 Bit)
+Hard Disk Space
+Approximately 480 MB
+Other System Requirements
+Computer mouse; Internet connection for product activation; Microsoft Internet Explorer 8 or higher; Microsoft Windows Installer 3.0 or higher; Microsoft .NET Framework 4 or higher; Webcam Protection feature is available for the compatible web-cameras only
+
+ADDITIONAL FEATURES
+Other Features
+Protect your Privacy, Identity, Money and Children
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+McAfee Antivirus Plus No CD Version Activation Card -> 
+Highlights
+_____________________
+Software Type : Antivirus Plus
+Number of Users allowed : 1user
+Number of Years validity : 1year
+Warranty : NA
+Edition : 2014
+System Requirements-Os Required : Windows 8.1,8,7, Vista SP1 (32 and 64 bit for all)
+Hardware Requirements : 1GB RAM for Vista and Windows 7, 2GB RAM for Windows 8 and above,500MB free drive space, 1GHz processor
+Weight : 100
+SUPC: SDL676334226
+Description
+_____________________
+Terms & Conditions
+_____________________

@@ -1,0 +1,321 @@
+
+ -------------------------------------------
+Seasonic 850W Modular Power Supply -> 
+Highlights
+_____________________
+3 Years Warranty
+80PLUS Gold Certification
+Customizable Cable Arrangements
+Increases Heat Dissipation
+Sanyo Denki San Ace Silent Fan
+DC to DC Converter Design
+Conductive Polymer Aluminum Solid Capacitors
+Easy Swap Connector
+Dual Sided PCB Layout
+SUPC: SDL616724345
+Technical Specification
+_____________________
+
+SPECIFICATIONS
+Series
+X Series
+Power Output
+850 W
+Power Rail
+1 x 12V Power Rails
+
+POWER
+Power Factor Correction (PFC)
+Active PFC with Value of 0.99
+Input Voltage 1
+100 - 240 V
+Input Voltage 2
+90 - 264 V
+Input Frequency
+50 - 60 Hz
+Efficiency
+0.87
+
+MAXIMUM CURRENT
+Current at DC Output of +3.3 V
+25 A
+Current at DC Output of +5 V
+25 A
+Current at DC Output of +12 V
+70 A
+Current at DC Output of -12 V
+0.5 A
+Current at DC Output of +5 V sb
+3 A
+
+FEATURES
+DC to DC Conversion
+Yes
+Fan Type
+1 Ball Bearing, Hybrid Silent Fan Control
+Certification
+80 Plus Gold
+
+CONNECTIVITY
+Motherboard
+1 Motherboard Connector with 20 pin, 24 pin
+CPU
+2 CPU Connector with ATX 12V (4 pin) + EPS 12V (8 pin)
+PCI-e
+4 PCI-e 6 pin and 4 PCI-e 6+2 pin
+SATA
+8 SATA Cables
+Floppy
+2 Floppy Connector with 4 pins
+Peripheral
+8 Peripheral Connector with 4 pins
+
+OTHER FEATURES
+Additional Features
+Multi-GPU Technologies Supported
+
+DIMENSIONS
+Width x Height x Depth
+150 x 86 x 160 mm
+
+Warranty
+Period
+3 Years Warranty
+Description
+_____________________
+The Seasonic 850W Modular Power Supply is a very first
+It features a patent pending design of
+A clever Hybrid Silent Fan Control design is embedded, which provides three distinct operation modes,
+The very popular Sanyo Denki Ball bearing fans are made of the best quality components to guarantee maximum quality and performance. The use of spoon shaped high-density plastic fan blades with smoothed leading edges;
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Zebronics 450 Watt Value Plus Power Supply SMPS (ZEB-450W VALUE) -> 
+Highlights
+_____________________
+Warranty : 3 Year Manufacturer Warranty
+Weight : 500 Grams
+Features : AC 230V 50Hz 3.5A input; 80mm exhaust fan; 3 pin power cable included Connectors, 24 (20+4) pin connector x1, ATX 12v 4 Pin connector x1, Peripheral 4 pin connector x2, SATA 15 pin connector x2
+Product Type : Desktop PC Power Supply
+Features : AC 230V 50Hz 3.5A input; 80mm exhaust fan; 3 pin power cable included Connectors, 24 (20+4) pin connector x1, ATX 12v 4 Pin connector x1, Peripheral 4 pin connector x2, SATA 15 pin connector x2
+SUPC: SDL271474531
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Intex 600 Va Ups Green X725 For Computers -> 
+Highlights
+_____________________
+Warranty : 2 years on UPS, 1 Year on Battery
+Features : 15 mins back up
+Product Type : 600 va
+Features : 15 mins back up
+SUPC: SDL228621044
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Zebronics UPS U725 -> 
+Highlights
+_____________________
+Warranty : 1 year
+Weight : 2 kg
+SUPC: SDL508271474
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Zebronics 945 Chipset Motherboard -> 
+Highlights
+_____________________
+Brand : Zebronics
+Type : Motherboard
+Weight : 400
+Warranty : 1 Year Manufacturer
+Model : ZEB-945
+Chipset : Intel 945GC + ICH7
+USB Ports : 4 Ports (2 Back + 2 Front via ATX Cabinet)
+RAM : Maximum 2GB DDR2 SDRAM 667/533/400 MHz
+Parallel Ports : 1
+SATA Ports : 2
+IDE Ports : 1 (UATA33/66/100 IDE Port)
+PCI Slots : 2
+Sound : Onboard AC'97 5.1 Channel
+LAN : Onboard 10/100
+SUPC: SDL999538474
+Technical Specification
+_____________________
+
+General
+Brand
+Zebronics
+Model
+ZEB-945
+Socket Type
+LGA 775
+Chipset
+Intel 945G/GC + ICH7 Chipset
+Compatible Processors
+Pentium Dual core, Pentium 4, Celeron Dual core in 775 socket
+Colour
+Blue
+
+In the box
+Box Contents
+2 SATA Cables, 1 Drivers Installation CD, Installation Manual and ATX I/O Shield Panel
+
+General Features
+Operating System Support
+Windows XP, 200, Vista, 7, 8 & 8.1 Too
+Part No.
+-
+Form Factor
+-
+BIOS
+-
+
+Memory
+Max Capacity
+2 GB
+Memory Slots
+2 x DIMM slots
+Memory Configuration
+DDR2
+Memory Frequency
+667, 533 and 400 Mhz
+
+Connectivity
+Internal I/O Ports
+1 x front panel connector, 1 x speaker connector, 1 x front panel audio connector, 2 x USB 2.0 connector, 4 x SATA ports, 1 x CPU fan connector, 1 x SYS fan connector, 1 x 24-pin ATX power connector, 1 x 4 pin
+Rear I/O Ports
+PS/2 mouse/keyboard port, VGA connector, COM port, LPT port, 4 x USB 2.0 ports, RJ45 LAN port, 3 audio jacks
+LAN
+RJ45 LAN, Supports 10/100 Ethernet
+Expansion Slots
+1 x PCI Express x 16 slot, 1 x PCI slot, IDE port
+USB 3.0
+No
+USB 2.0
+4
+Wireless Network
+-
+
+On Board Graphics
+Graphics Processor
+No
+Resolution
+-
+Other Features
+-
+
+Audio
+Type
+6 Channel Audio, 3 Audio Jacks
+Drivers
+Pick from CD Support
+Technology
+Embedded AC'97 digital integrated audio control
+Other Features
+-
+
+Other Features
+CD Support
+Yes
+Warranty
+1 Year Manufacturer Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+SEASONIC SS-1250XM2 1250 W Power Supply -> 
+Highlights
+_____________________
+Warranty : 7 Years Manufacturer Warranty
+Features : Full Modular Cabling Design; Seasonic Patented DC Connector Panel with Integrated VRM (Voltage Regulator Module); Ultra Tight Voltage Regulation; Dual Copper Bars; Highly Reliable 105 Degree C Aluminium Electrolytic Capacitors
+Conductive Polymer Aluminium Solid Capacitors; DC to DC Converter Design; Seasonic Hybrid Silent Fan Control; Sanyo Denki San Ace Silent Fan; High +12V Output
+High Current Gold Plated Terminals; Dual Sided PCB Layout; Ultra Ventilation (Honeycomb Structure); Multi-GPU Technologies Supported; All-in-One DC Cabling Design; Easy Swap Connector; Universal AC Input (Full Range)
+Product Type : Power Supply
+Features : Full Modular Cabling Design; Seasonic Patented DC Connector Panel with Integrated VRM (Voltage Regulator Module); Ultra Tight Voltage Regulation; Dual Copper Bars; Highly Reliable 105 Degree C Aluminium Electrolytic Capacitors
+Conductive Polymer Aluminium Solid Capacitors; DC to DC Converter Design; Seasonic Hybrid Silent Fan Control; Sanyo Denki San Ace Silent Fan; High +12V Output
+High Current Gold Plated Terminals; Dual Sided PCB Layout; Ultra Ventilation (Honeycomb Structure); Multi-GPU Technologies Supported; All-in-One DC Cabling Design; Easy Swap Connector; Universal AC Input (Full Range)
+SUPC: SDL879338188
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit
+
+GENERAL
+Brand
+SeaSonic
+Series
+X-1250
+Model
+SS-1250XM2
+Type
+Power Supply
+
+POWER
+Power Factor Correction (PFC)
+Active (99% PF Typical)
+Input Voltage
+Full Range: 100 to 240 V (Max 90 to 264 V)
+Input Current
+15 to 7.5 Amps
+Input Frequency
+50 to 60 Hz
+Efficiency
+80 Plus Gold/Energy Star/ErP Lot 6 2013 Compliant
+Power Output
+Total Output: 1250 Watts
+Other Features
+Combined Load: 150 Watts, 1248 Watts, 6 Watts, 15 Watts
+
+MAXIMUM CURRENT
+Current at DC Output of +3.3 V
+25 Amps
+Current at DC Output of +5 V
+3 Amps
+Current at DC Output of +12 V
+104 Amps
+Current at DC Output of -12 V
+0.5 Amps
+
+CONNECTIVITY
+Motherboard
+1 x 24/20 Pin Connector (610 mm)
+CPU
+1 x 8/4 Pin (650 mm), 1 x 8 Pin (650 mm)
+PCI-e
+10 x 8/6 Pin
+SATA
+14 x SATA
+Floppy
+1 x Floppy
+Other Peripheral
+5 x 4 Pin
+
+FEATURES
+Protection
+OPP/OVP/UVP/OCP/SCP/OTP
+Certification
+WEEE, RoHS
+
+ADDITIONAL FEATURES
+Other Features
+Full Modular Cabling Design; Seasonic Patented DC Connector Panel with Integrated VRM (Voltage Regulator Module; Ultra Tight Voltage Regulation; Dual Copper Bars; Highly Reliable 105 Degree C Aluminium Electrolytic Capacitors; Conductive Polymer Aluminium Solid Capacitors; DC to DC Converter Design; Seasonic Hybrid Silent Fan Control; Sanyo Denki San Ace Silent Fan; High +12V Output; High Current Gold Plated Terminals; Dual Sided PCB Layout; Ultra Ventilation (Honeycomb Structure); Multi-GPU Technologies Supported; All-in-One DC Cabling Design; Easy Swap Connector; Universal AC Input (Full Range); Intel Specification: ATX 12 V/EPS 12 V
+
+PHYSICAL SPECIFICATIONS
+Dimensions
+(L x W x H): 190 x 150 x 86 mm
+
+WARRANTY
+Period
+7 Years Manufacturer Warranty
+Terms & Conditions
+_____________________

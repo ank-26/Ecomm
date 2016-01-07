@@ -1,0 +1,786 @@
+
+ -------------------------------------------
+Shure PG27-USB Multi-purpose Microphone
+ -> 
+Highlights
+_____________________
+Type : Microphones
+Frequency : 20 to 20000 Hz
+Wired Or Wireless : Wireless
+Power Supply : 48 V DC phantom, 10 mA
+SUPC: SDL193111911
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Stand Adapter and Zippered Pouch
+
+GENERAL FEATURES
+Brand
+Shure
+Model
+PG27-USB
+Type
+Condenser
+
+SPECIFICATIONS
+Frequency Response
+20 to 20000 Hz
+Polar Pattern
+Cardioid
+Applications
+Acoustic Guitar, Live Vocals, Studio Instrument
+Sensitivity (at 1000 Hz)
+Minus 41 dBV/Pa (1 Pa: 94 dB SPL)
+SPL
+Maximum SPL (20 Hz to 20 kHz, Less than 1% THD): PAD OFF: 124 dB SPL, PAD ON: 144 dB SPL
+Polarity
+Positive pressure on diaphragm produces positive voltage on pin 2 with respect to pin 3
+Power Requirement
+48 V DC phantom, 10 mA
+Connector
+USB
+Switch
+Attenuator: 20 dB
+
+ADDITIONAL FEATURES
+Features
+Large diaphragm capsule provides wider dynamic range for clear highs and strong lows; Flat, neutral frequency response for natural reproduction of sound sources; High SPL handling of acoustic, amplified and vocal sound sources
+
+WARRANTY
+Period
+1 Year Shure India Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Shure SM58S Microphone
+ -> 
+Highlights
+_____________________
+Type : Microphone
+Frequency : 50 Hz to 15 kHz
+Wired Or Wireless : Wired
+Power Supply : None Dynamic, Requires No Phantom or Battery Power
+SUPC: SDL877228221
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Swivel Adapter and Zippered Pouch
+
+GENERAL FEATURES
+Brand
+Shure
+Model
+SM58S
+Type
+Dynamic Handheld Microphone (Moving Coil)
+Case
+Dark gray, enamel-painted, die cast metal; matte-finished, silver colored, spherical steel mesh grille
+
+SPECIFICATIONS
+Frequency Response
+50 Hz to 15 kHz
+Polar Pattern
+Cardioid (Unidirectional)
+Output Impedance
+150 Ohms (300 Ohms Actual) for Connection to Low Impedance Microphone Inputs
+Signal-to-Noise Ratio
+-
+Sensitivity
+-54.5 dBV/Pa, 1.85 mV (1 Pa: 94 dB SPL) at 1000 Hz
+Polarity
+Positive pressure on diaphragm produces positive voltage on pin 2 with respect to pin 3
+Power Requirement
+None Dynamic, Requires No Phantom or Battery Power
+Connector
+Three-pin professional audio connector (male XLR type)
+Switch
+Built-in On/Off switch
+Filter
+Built-in spherical wind and pop filter
+
+ENVIRONMENTAL CONDITIONS
+Temperature
+-
+Humidity
+-
+
+ADDITIONAL FEATURES
+Features
+Frequency response tailored for vocals, with brightened midrange and bass roll-off; Uniform cardioid pickup pattern isolates the main sound source and minimizes background noise; Pneumatic shock-mount system cuts down handling noise; Break-resistant stand adapter rotates 180 degrees
+
+PHYSICAL SPECIFICATIONS
+Dimensions
+(L x Dia): 162 x 51 mm
+Weight
+298 g
+
+WARRANTY
+Period
+2 Years Manufacturer Warranty
+
+WARRANTY
+Period
+1 Year Shure India Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Shure PG58-LC Cardioid Dynamic Vocal ...
+ -> 
+Highlights
+_____________________
+Type : Microphones
+Frequency : 60 to 15000 Hz
+Wired Or Wireless : Wired
+SUPC: SDL196364667
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+1 Year Shure India Warranty
+
+IN THE BOX
+Sales Package
+Main Unit, Microphone Clip, 5/8 inches to 3/8 inches Threaded Adapter, Storage Bag
+
+GENERAL FEATURES
+Brand
+Shure
+Model
+PG58-LC
+Type
+Dynamic (Moving Coil)
+Case
+Die cast metal handle, Black matte finish, Hardened silver colored, Spherical steel mesh grille
+
+SPECIFICATIONS
+Frequency Response
+60 to 15000 Hz
+Polar Pattern
+Cardioid (unidirectional)
+Applications
+Karaoke, Live Vocals
+Sensitivity (at 1000 Hz)
+Minus 53 dBV/Pa, 2.2 mV (1 Pa: 94 dB SPL)
+Impedance
+Output Impedance: 300 Ohm at 1000 Hz
+Electromagnetic Hum Sensitivity
+26 dB equivalent SPL in a 1 millioersted field (60 Hz)
+Polarity
+Positive pressure on diaphragm produces positive voltage on pin 2 relative to pin 3 of microphone output connector
+Connector
+Three-pin professional audio connector (male XLR type)
+Switch
+Built-in On/Off switch
+
+ADDITIONAL FEATURES
+Features
+Tailored frequency response is smooth and extended; Tuned specifically for vocal applications; Cardioid polar pattern picks up the most sound from in front of the microphone and some sound from the sides; Less susceptible to feedback in high volume settings; Dynamic cartridge has a simple, rugged coil; Handles extreme volume levels without distortion; Cartridge includes a neodymium magnet for high output level; Internal shock mount for reduced handling noise; Durable metal construction; Integral (pop) filter reduces explosive breath sounds and wind noise; Environmental Conditions: This microphone operates over a temperature range of -29 to 57 degrees Celsius (-20 to 135 degrees Fahrenheit) and at a relative humidity of 0 to 95%
+
+PHYSICAL SPECIFICATIONS
+Weight
+321 g
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Shure SV200-Q Vocal Microphone
+ -> 
+Highlights
+_____________________
+Type : Microphones
+Frequency : 50 to 15000 Hz
+Wired Or Wireless : Wired
+SUPC: SDL796531321
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit
+
+GENERAL FEATURES
+Brand
+Shure
+Model
+SV200-Q
+Type
+Dynamic (moving coil)
+Case
+Dent-resistant grille
+
+SPECIFICATIONS
+Frequency Response
+50 to 15000 Hz
+Polar Pattern
+Unidirectional (cardioid)
+Applications
+Karaoke
+Sensitivity (at 1000 Hz)
+Sensitivity (at 1 kHz): -52 dBV/Pa, 1 Pascal Equals 94 dB SPL
+Impedance
+Impedance: 600 Ohm
+
+ADDITIONAL FEATURES
+Features
+SV200 Vocal Microphone delivers crisp, clear and vibrant sound optimized for lead and backup vocals, karaoke performance and high-quality presentations; The wide frequency response and high output deliver crisp, clear and vibrant sound; Ideal for lead and backup vocals, karaoke performances, and high-quality presentations, the SV200 also includes a dent-resistant grille for years of reliable performance and a durable cable with 1/4 inch (6.3mm) plug
+
+WARRANTY
+Period
+1 Year Shure India Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Shure PG58-LC Microphone
+ -> 
+Highlights
+_____________________
+Type : Microphone
+Frequency : 60 Hz to 15 kHz
+Wired Or Wireless : Wired
+SUPC: SDL870178546
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Microphone Clip, 5/8 inches to 3/8 inches Threaded Adapter, Storage Bag
+
+GENERAL FEATURES
+Brand
+Shure
+Model
+PG58-LC
+Type
+Dynamic Vocal Microphone (Moving Coil)
+Case
+Die cast metal handle, Black matte finish, Hardened silver colored, Spherical steel mesh grille
+
+SPECIFICATIONS
+Frequency Response
+60 Hz to 15 kHz
+Polar Pattern
+Cardioid (Unidirectional)
+Output Impedance
+300 Ohms at 1000 Hz
+Signal-to-Noise Ratio
+-
+Sensitivity
+-53 dBV/Pa, 2.2 mV (1 Pascal: 94 dB SPL) at 1000 Hz; Electromagnetic Hum Sensitivity: 26 dB equivalent SPL in a 1 millioersted field (60 Hz)
+Polarity
+Positive pressure on diaphragm produces positive voltage on pin 2 relative to pin 3 of microphone output connector
+Power Requirement
+-
+Connector
+Three pin professional audio connector (male XLR type)
+Switch
+Built-in On/Off switch
+Filter
+Integral pop filter
+
+ENVIRONMENTAL CONDITIONS
+Temperature
+-29 to 57 Degree Celsius (-20 to 135 Degree Fahrenheit)
+Humidity
+Relative Humidity: 0 to 95%
+
+ADDITIONAL FEATURES
+Features
+Tailored frequency response is smooth and extended; Tuned specifically for vocal applications; Less susceptible to feedback in high volume settings; Dynamic cartridge has a simple, rugged coil; Handles extreme volume levels without distortion; Cartridge includes a neodymium magnet for high output level; Internal shock mount for reduced handling noise; Durable metal construction; Hardened steel mesh ball grille resists wear and abuse; Filter reduces explosive breath sounds and wind noise
+
+PHYSICAL SPECIFICATIONS
+Dimensions
+-
+Weight
+321 g
+
+WARRANTY
+Period
+-
+
+WARRANTY
+Period
+1 Year Shure India Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Shure SM57-LC Cardioid Dynamic Instru...
+ -> 
+Highlights
+_____________________
+Type : Microphones
+Frequency : 40 to 15000 Hz
+Wired Or Wireless : Wireless
+SUPC: SDL303092026
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+1 Year Shure India Warranty
+
+IN THE BOX
+Sales Package
+Main Unit, Stand Adapter and Zippered Pouch
+
+GENERAL FEATURES
+Brand
+Shure
+Model
+SM57-LC
+Type
+Dynamic
+Case
+Dark gray, enamel painted, die-cast steel with a polycarbonate grille and a stainless steel screen
+
+SPECIFICATIONS
+Frequency Response
+40 to 15000 Hz
+Polar Pattern
+Cardioid (Uniform)
+Applications
+Acoustic Guitar, Bass Amp, Brass/Saxophone, Congas, Guitar Amp, Harmonica, Kick Drum, Percussion, Rack/Floor Toms, Snare Drum
+Compatible
+-
+Sensitivity (at 1000 Hz)
+Open Circuit Voltage: -56.0 dBV/Pa (1.6 mV) (1 Pa: 94 dB SPL)
+Impedance
+Rated at 150 Ohm; 310 Ohm for connection to microphone inputs rated low impedance
+SPL
+-
+Output Level
+-
+Polarity
+Positive pressure on diaphragm produces positive voltage on pin 2 with respect to pin 3
+Power Requirement
+-
+Connector
+Three-pin professional audio connector (male XLR type)
+Switch
+-
+Indicator
+-
+Signal-to-Noise Ratio
+-
+
+ADDITIONAL FEATURES
+Features
+Frequency response tailored for drums, guitars, and vocals; Uniform cardioid pickup pattern isolates the main sound source while reducing background noise; Pneumatic shock-mount system cuts down handling noise; Extremely durable under the heaviest use; Supplied break-resistant swivel adapter that rotates 180 Degree; Legendary Shure quality, ruggedness and reliability
+
+PHYSICAL SPECIFICATIONS
+Dimensions
+(L x W): 157 x 32 mm
+Weight
+284 g
+
+WARRANTY
+Period
+-
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Kortek Yk14 Karaoke Microphone
+ -> 
+Highlights
+_____________________
+Type : Microphones
+Wired or Wireless : Wired
+Power Supply : 100V - 240VAC Input
+Type : Microphones
+SUPC: SDL586880080
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+1 Year Kortek India Warranty
+
+PACKAGE CONTENTS
+Contents
+Main Unit
+
+GENERAL
+Brand
+Kortek
+Model
+YK-14
+Type
+Wired Karaoke Microphone
+Colour
+Black
+
+SPECIFICATIONS
+Internal Storage
+5400 in-built Songs (English-3200, Hindi-1500, Marathi-100, Punjabi-100, Tamil-100, Malyalam-100, Bengali-100, Telugu-100, Gujarati-100)
+Song Recording
+8 Songs
+Song Reservation
+8 Songs
+Additional Song Chip Slots
+4
+Audio Output
+2 CH
+Video Output
+SD
+Other Features
+Digital Echo, Key, Tempo Controls
+
+POWER
+Power
+100V-240VAC Input
+
+DIMENSIONS
+Product Dimension (WxHxD)
+46 x 250 x 48 mm
+Weight
+370 g
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Shure PGDMK4-XLR Drum Microphone Kit
+ -> 
+Highlights
+_____________________
+Type : Microphones
+Frequency : PG56: 50 Hz to 15 kHz, PG52: 30 Hz to 13 kHz
+Wired Or Wireless : Wired
+SUPC: SDL197561614
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+1 Year Shure India Warranty
+
+IN THE BOX
+Sales Package
+3 x PG56 Drum Microphones, 1 x PG52 Kick Drum Microphone, 3 x A50D drum mounts, 4 x 15ft. XLR-XLR cables, Durable carrying case
+
+GENERAL FEATURES
+Brand
+Shure
+Model
+PGDMK4-XLR
+Type
+Microphone Kit
+
+SPECIFICATIONS
+Frequency Response
+PG56: 50 Hz to 15 kHz, PG52: 30 Hz to 13 kHz
+Polar Pattern
+Cardioid
+Applications
+Cymbals, Kick Drum, Percussion, Rack/Floor Toms, Snare Drum, Stage Overhead
+Impedance
+PG56 - Output Impedance (at 1000 Hz): 200 ohms; PG52 - Output Impedance: 300 Ohm at 1000 Hz
+Electromagnetic Hum Sensitivity
+PG56: 26 dB equivalent SPL in a 1 millioersted field (60 Hz); PG52: 25 dB equivalent SPL in a 1 millioersted field (60 Hz)
+Sensitivity (at 1000 Hz)
+PG56: Minus 56 dBV/Pa, 1.6 mV (1 Pa: 94 dB SPL); PG52: Minus 55 dBV/Pa, 1.8 mV (1 Pa: 94 dB SPL)
+Polarity
+Positive pressure on diaphragm produces positive voltage on pin 2 relative to pin 3 of microphone output connector
+Connector
+Three-pin professional audio connector (male XLR type)
+
+ADDITIONAL FEATURES
+Features
+Dynamic Capsule & Neodymium Magnet, Integral Stand Mount, Designed for recording or live sound applications, Dynamic capsule able to withstand high sound pressure levels, resulting in a high tolerance for peaking audio signals without distortion, High output enables greater signal to noise ratio, Polar pattern is effective in minimizing off-axis noise and ambiance, Cartridge is fixed on an internal shock mount for added protection against handling and structure noise;  Environmental Conditions: This microphone operates over a temperature range of -29 to 57 degrees Celsius (-20 to 135 degrees Fahrenheit), and at a relative humidity of 0 to 95%
+
+PHYSICAL SPECIFICATIONS
+Weight
+PG56: 323 g; PG52: 470 g
+
+WARRANTY
+Period
+2 Years Manufacturer Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Persang Dzire Plus Karaoke Set
+ -> 
+Highlights
+_____________________
+Type : Karaoke Players
+Frequency : 2400-2483 mhz
+Wired or Wireless : Wired
+Power Supply : 100-240V AC 50Hz
+Public Address Systems : Portable Address Systems
+Type : Karaoke Players
+SUPC: SDL944857529
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+1 Year Persang India Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Shure SM58-LC Cardioid Dynamic Vocal ...
+ -> 
+Highlights
+_____________________
+Type : Microphones
+Frequency : 50 to 15000 Hz
+Wired Or Wireless : Wireless
+SUPC: SDL303566935
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+1 Year Shure India Warranty
+
+IN THE BOX
+Sales Package
+Main Unit, Stand Adapter and Zippered Pouch
+
+GENERAL FEATURES
+Brand
+Shure
+Model
+SM58-LC
+Type
+Dynamic
+Case
+Dark gray, enamel-painted, die cast metal; matte-finished, silver colored, spherical steel mesh grille
+
+SPECIFICATIONS
+Frequency Response
+50 to 15000 Hz
+Polar Pattern
+Cardioid (Uniform)
+Applications
+Harmonica, Karaoke, Live Vocals
+Compatible
+-
+Sensitivity (at 1000 Hz)
+-54.5 dBV/Pa 1.85 mV (1 Pa: 94 dB SPL)
+Impedance
+Rated at 150 Ohm; 300 Ohm for connection to microphone inputs rated low impedance
+SPL
+-
+Output Level
+-
+Polarity
+Positive pressure on diaphragm produces positive voltage on pin 2 with respect to pin 3
+Power Requirement
+-
+Connector
+Three-pin professional audio connector (male XLR type)
+Switch
+-
+Indicator
+-
+Signal-to-Noise Ratio
+-
+
+ADDITIONAL FEATURES
+Features
+Frequency response tailored for vocals, with brightened midrange and bass rolloff; Pickup pattern isolates the main sound source and minimizes background noise; Pneumatic shock mount system cuts down handling noise; Effective, built in spherical wind and pop filter; Supplied with break resistant stand adapter which rotates 180 degrees; Legendary Shure quality, ruggedness and reliability
+
+PHYSICAL SPECIFICATIONS
+Dimensions
+(L x W): 162 x 51 mm
+Weight
+298 g
+
+WARRANTY
+Period
+-
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Shure PG48-LC Microphone
+ -> 
+Highlights
+_____________________
+Type : Microphone
+Frequency : 70 Hz to 15 kHz
+Wired Or Wireless : Wired
+SUPC: SDL869739629
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Microphone Clip, 5/8 inches to 3/8 inches Threaded Adapter, Storage Bag
+
+GENERAL FEATURES
+Brand
+Shure
+Model
+PG48-LC
+Type
+Dynamic Vocal Microphone (Moving Coil)
+Case
+Die cast metal handle, Black matte finish, Hardened silver colored, Spherical steel mesh grille
+
+SPECIFICATIONS
+Frequency Response
+70 Hz to 15 kHz
+Polar Pattern
+Cardioid (Unidirectional)
+Output Impedance
+600 Ohms at 1000 Hz
+Signal-to-Noise Ratio
+-
+Sensitivity
+-52 dBV/Pa, 2.5 mV (1 Pascal: 94 dB SPL) at 1000 Hz; Electromagnetic Hum Sensitivity: 22 dB equivalent SPL in a 1 millioersted field (60 Hz)
+Polarity
+Positive pressure on diaphragm produces positive voltage on pin 2 relative to pin 3 of microphone output connector
+Power Requirement
+-
+Connector
+Three pin professional audio connector (male XLR type)
+Switch
+Built-in On/Off switch
+Filter
+Integral pop filter
+
+ENVIRONMENTAL CONDITIONS
+Temperature
+-29 to 57 Degree Celsius (-20 to 135 Degree Fahrenheit)
+Humidity
+Relative Humidity: 0 to 95%
+
+ADDITIONAL FEATURES
+Features
+Tailored frequency response is smooth and extended; Tuned specifically for vocal applications; Less susceptible to feedback in high volume settings; Dynamic cartridge has a simple, rugged coil; Handles extreme volume levels without distortion; Durable metal construction; Steel mesh ball grille reduces explosive breath sounds and wind noise
+
+PHYSICAL SPECIFICATIONS
+Dimensions
+-
+Weight
+314 g
+
+WARRANTY
+Period
+-
+
+WARRANTY
+Period
+1 Year Shure India Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Kortek Yk5000 Dual Wireless Karaoke M...
+ -> 
+Highlights
+_____________________
+Type : Microphones
+Frequency : 2.4 Ghz ISM Band
+Wired or Wireless : Wireless
+Power Supply : 100V - 240VAC Input
+Type : Microphones
+SUPC: SDL591013811
+Technical Specification
+_____________________
+
+PACKAGE CONTENTS
+Contents
+Main Unit
+
+GENERAL
+Brand
+Kortek
+Model
+YK-5000
+Type
+Dual Wireless Karaoke Microphone
+Colour
+White
+
+SPECIFICATIONS
+Internal Storage
+5400 in-built Songs (English-3200, Hindi-1500, Marathi-100, Punjabi-100, Tamil-100, Malyalam-100, Bengali-100, Telugu-100, Gujarati-100)
+Song Recording
+8 Songs
+Song Reservation
+8 Songs
+Additional Song Chip Slots
+4
+RCA Audio Output
+2 CH
+Video (SD) Output
+Y Pb Pr
+Other Features
+Digital Echo, Key, Tempo Controls
+
+WIRELESS SPECIFICATIONS
+Wireless Frequency
+2.4GHz ISM Band
+Wireless Range
+20 m
+
+POWER
+Power
+100V - 240VAC Input
+
+DIMENSIONS
+Product Dimensions
+Mike (HxW): 240 x 46 mm; Music Station (WxDxH): 240 x 110 x 48 mm
+Weight
+1100 g
+
+WARRANTY
+Period
+1 Year Kortek India Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Kortek Karaoke KHM-150
+ -> 
+Highlights
+_____________________
+1 Year Manufacturer Warranty
+Over 3000 Songs in English, Hindi and Other Regional Languages
+On-Screen Lyrics
+Image and Video Background Themes
+Melody Adjustment
+Favourite Song Selection
+Records up to 60 full length songs
+SUPC: 1521049
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+1 Year Kortek India Warranty
+
+Specification
+Model No.
+KHM - 150
+Dimensions
+46.3 x L250mm/Wire 4000mm
+Weight
+385g
+Internal storage
+2GB (With 3000+ inbuilt songs)
+TV format
+NTSC/PAL
+Video Output
+Composite
+Audio Output
+2-Channel Stereo
+Power supply
+AC 100V-240V (50-60Hz)/ Adaptor 5V 2A
+Description
+_____________________
+Terms & Conditions
+_____________________

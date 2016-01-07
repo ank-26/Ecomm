@@ -1,0 +1,623 @@
+
+ -------------------------------------------
+CP Plus CP-UAC-TC85L2A Heavy Plastic CCTV Camera -> 
+Highlights
+_____________________
+Brand : Cp Plus
+Model : CP-UAC-TC85L2A
+Lens Type : 3.6mm
+Mega Pixels : No
+SUPC: SDL504501936
+Technical Specification
+_____________________
+
+General
+Brand
+Cp Plus
+Model
+CP-UAC-TC85L2A
+Type
+CCTV Cameras
+Colour
+
+
+Specifications
+Image Sensor
+
+Pixels
+PAL:976(H)×582(V), NTSC: 976(H)×494(V)
+Resolution
+850
+Min. Illumination
+0.01 lux @F1.2
+S/N Ratio
+more than 50dB
+White Balance (AWB)
+Auto
+Focus Mode
+Auto
+Gamma Correction
+
+Gain Control (AGC)
+Auto
+IR
+IR Range of 20 Mtr with 12 IR Leds
+WDR
+
+Sync
+
+Video Output
+BNC 75 ohm
+Iris Control
+Auto
+Certifications
+CE, FCC
+Special Functions
+
+Back Light Compensation
+
+IP Rating
+
+Lens Type
+3.6mm
+
+Power
+Power Supply
+
+Power Consumption
+
+
+Operating Environment
+Operating temperature
+
+
+Physical Dimensions
+Dimension
+14 x 7 x 7 cm
+Weight
+300g
+Terms & Conditions
+_____________________
+ -------------------------------------------
+CP Plus CP-UVC-T1100L2 CCTV Camera -> 
+Highlights
+_____________________
+Frame Composition : Aluminium
+No. Of Attachement : 1
+Type : CCTV Camera
+Brand : CP Plus
+SUPC: SDL652618912
+Technical Specification
+_____________________
+
+In the Box
+Sales Package
+
+Brand
+CP Plus
+model
+
+Type
+CCTV Camera
+
+Power
+power Supply
+
+
+Other Feature
+Dimensions
+69.4mm x 79.3mm x 173.9mm
+Multiplex Operation
+
+Recording Time
+
+Operating System
+
+Weight
+380g
+No. of LED
+
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+CP Plus CP-UAR-0401P1-C DVR -> 
+Highlights
+_____________________
+Up to 4 cameras with 1080p Realtime Preview
+H.264 dual-stream video compression
+All channel D1 Realtime Recording
+HDMI / VGA simultaneous video output
+Support 1 SATA HDD up to 4TB, 2 USB2.0
+Mobile Software: iCMOB, gCMOB, wCMOB
+CMS Software:KVMS, KVMS Pro
+SUPC: SDL733206151
+Technical Specification
+_____________________
+
+TECHNICAL SPECIFICATIONS
+Processor
+High performance embedded microprocessor
+Operating System
+Embedded LINUX
+User Interface
+GUI
+Video Input
+4 channel, BNC
+Video Output
+1 HDMI,1 VGA,1TV
+Video Standard
+NTSC(525Line, 60f/s), PAL(625Line, 50f/s)
+Compression
+H.264 / G.711
+Video Resolution
+1920x1080, 1280x1024, 1280x720, 1024x768
+Video Compression
+H.264 960H Realtime DVR
+Video Recording
+960H(1-25/30fps)
+Extra Stream
+CIF/QCIF(1-25/30ps)
+Video Display Split
+1/4
+Privacy Masking
+4 rectangular zones (each camera)
+Audio Input
+1 channel, RCA
+Bi-directional Talk Input
+Reuse audio input/output channel 1
+Audio Output
+1 channel, RCA
+Motion Detection
+MD Zones: 396(22x18)
+Video Loss
+Supports
+Camera Blank
+Supports
+Hard Disk
+1 SATA port, up to 4TB
+Trigger Events
+Recording, Tour, Video Push, Email, FTP, Buzzer & Screen tips
+Recording Mode
+Manual, Schedule(Regular(Continuous), MD), Stop
+Search Mode
+Time/Date, MD & Exact search (accurate to second)
+Playback
+Play, Pause, Stop, Rewind, Fast play, Slow play, Next file, Previous file, Next camera, Previous camera, Full screen, Repeat, Shuffle, Backup selection, Digital zoom
+Backup Mode
+USB Device / Network
+Interface Ports
+2 USB 2.0,
+Max User Account
+128 users
+Record Interval
+1-120 min (default: 60 min), Pre-record: 1-30 sec, Post-record: 10-300 sec
+Smart Phone
+iPhone, iPad, Android, Windows Phone
+Protocols
+HTTP, IPv4/IPv6, TCP/IP, UPNP, RTSP, UDP, SMTP, NTP, DHCP, DNS, PPPOE, DDNS, FTP, IP Filter
+Ethernet
+RJ-45 port (10/100M)
+Power Supply
+DC12V/2A
+Power Consumption
+10W(without HDD)
+Working Temp
+-10 to +55 degree celsius / 10-90 percent RH / 86-106kpa
+Dimensions
+205mmx205mm
+Weight
+0.5KG
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Hikvision HV8ch8DC1H90W CCTV Camera -> 
+Highlights
+_____________________
+Type : CCTV Camera
+Brand : Hikvision
+SUPC: SDL220039997
+Technical Specification
+_____________________
+
+In the Box
+Brand
+Hikvision
+Type
+CCTV Camera
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Cp Plus Cp Uvr 0801g1 Dvr -> 
+Highlights
+_____________________
+Wall Mount : Yes
+Frame Composition : Not Applicable
+No. Of Attachement : 5
+Type : DVR
+Brand : CP PLUS
+SUPC: SDL508659303
+Technical Specification
+_____________________
+
+In the Box
+Sales Package
+
+Brand
+CP PLUS
+model
+
+Type
+DVR
+
+Power
+power Supply
+DC12V/2A
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Dahua Dh-hac-hfw1100sp Hdcvi Bullet Camera -> 
+Highlights
+_____________________
+Brand : Dahua
+Model : DH-HAC-HFW1100SP
+Sales Package : 1 HDCVI Bullet Camera
+Mega Pixels : 1 MP
+Others : Electronic Shutter 1/50S1/100,000S Video Frame Rate 720@25 Fps
+SUPC: SDL785113861
+Technical Specification
+_____________________
+
+General
+Brand
+Dahua
+Model
+DH-HAC-HFW1100SP
+Type
+CCTV Cameras
+Colour
+
+
+Specifications
+Image Sensor
+
+Pixels
+1280(H)×720(V)
+Resolution
+
+Min. Illumination
+0.01Lux@F1.2(0Lux IR LED on)
+S/N Ratio
+
+White Balance (AWB)
+No
+Focus Mode
+No
+Gamma Correction
+
+Gain Control (AGC)
+
+IR
+
+WDR
+
+Sync
+
+Video Output
+1-Channel Bnc, Hdcvi High Definition Video Output
+Iris Control
+
+Certifications
+
+Special Functions
+
+Back Light Compensation
+
+IP Rating
+
+Lens Type
+
+
+Power
+Power Supply
+
+Power Consumption
+
+
+Operating Environment
+Operating temperature
+
+
+Physical Dimensions
+Dimension
+17.5 x 9.5 x 9 cm
+Weight
+500
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Hikvision Ds-7108hwi-sh Dvr -> 
+Highlights
+_____________________
+Wall Mount : Yes
+Frame Composition : Aluminium
+Display Inch : 2 Inch
+No. Of Attachement : 2
+Type : DVR
+Brand : Hikvision
+SUPC: SDL639418074
+Technical Specification
+_____________________
+
+In the Box
+Sales Package
+
+Brand
+Hikvision
+model
+
+Type
+DVR
+
+Power
+power Supply
+yas
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+CP Plus HDCVI 12 IR Dome Camera CP-UVC-D1100L2A -> 
+Highlights
+_____________________
+1/2.9 1MP HQIS Pro
+25/30fps at 720P
+Day/Night(ICR), AWB, AGC, BLC, 3D-DNR
+3.6mm fixed lens (2.8 mm, 6mm, 8mm optional)
+IR Range of 20 M, Smart IR
+High speed, long distance real-time transmission
+IP66
+SUPC: SDL048622093
+Technical Specification
+_____________________
+
+TECHNICAL SPECIFICATIONS
+Image Sensor
+1/2.9 1Megapixel HQIS Pro
+Minimum Illumination
+1/2.9 1Megapixel HQIS Pro
+Shutter Speed
+1/50s to 1/100,000s
+Lens
+3.6mm (6mm optional)
+Video Streaming
+720P at 25 fps
+Video Output
+1-channel BNC HDCVI high definition video output
+ICR
+Auto(ICR)/B&W/Color
+IR
+IR Range of 20 M, Smart IR
+Operating Temperature
+-30 to +60 degree celsius/ Less than 95 percent RH (no condensation)
+Power Source
+DC12V+/-10 percent
+Power Consumption
+Max 2W
+Dimension
+Dia 85mm x 69mm
+Weight
+200g
+Description
+_____________________
+
+
+
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Hikvision 700 TVL DIS Dome IR Camera -> 
+Highlights
+_____________________
+Brand:Hikvision
+Model No:DS 2CE-55A2P-IRP
+Type:Dome Camera
+Color:White
+Specification:20 mtr IR Dome Camera
+Resolution:700 TVL
+IR Range:20 mtr
+Day/Night Vision:yes
+Warranty:1 year
+SUPC: SDL532732882
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit
+
+GENERAL
+Working Temperature/Humidity
+-40 Degree C - 60 Degree C (-40 Degree F - 140 Degree F), Humidity 90 Percent or less (non-condensing)
+Power Supply
+12 V DC
+Power Consumption
+Max. 1.8 Watts (Max. 4 Watts with IR cut filter on)
+IR Range
+20 meters
+
+CAMERA
+Image Sensor
+1/ 7.62 cm (3) DIS
+Signal System
+PAL/NTSC
+Effective Pixels
+976 (H) x 496 (V)
+Min. Illumination
+0.1 Lux at the (F1.2, AGC ON), 0 Lux with IR
+Shutter speed
+PAL: 1/50 s to 1/100000 s; NTSC: 1/60 s to 1/100000 s
+Lens
+3.6 mm (2.8 mm, 6 mm optional); Angle of view: 68.4 Degree (3.6 mm)
+Lens Mount
+M12
+Angle Adjustment
+Pan: 0 - 360 Degree, Tilt: 0 - 75 Degree, Rotation: 0 - 360 Degree
+Day and Night
+IR cut filter with auto switch
+Horizontal Resolution
+700 TVL
+Synchronization
+Internal synchronization
+Video Output
+1 V p-p composite output (75 ohms/BNC)
+S/N Ratio
+More than 62 dB
+
+ADDITIONAL FEATURES
+Features
+2.8/3.6/6 mm Fixed Lens, 0.1 lux /F1.2
+
+PHYSICAL SPECIFICATIONS
+Dimensions
+89.5 x 69.8 mm
+Weight
+200 g
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Hikvision 4 CH-DVR + 2 Bullet IR + 2 Dome IR-600 TVL Camera CCTV Surveillance System -> 
+Highlights
+_____________________
+1 Year Warranty
+Brand:Hikvision
+Model No:7104 DVR & 600 TVL Bullet and Dome Camera
+Type:CCTV KIT
+Color:White
+Specification:7104 DVR, 600 TVL Bullet camera, 600 TVL Dome Camera
+Resolution:600 TVL
+IR Range:20 mtr
+Day/Night Vision:yes
+Warranty:1 year
+SUPC: SDL335049359
+Technical Specification
+_____________________
+
+Warranty
+Period
+1 Year Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+HIKVISION DS-2CE5582P(N)-IRP CCTV Camera -> 
+Highlights
+_____________________
+Wall Mount : Yes
+No. Of Attachement : 1
+Type : CCTV Camera
+Brand : HIKVISION
+SUPC: SDL109584727
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Hikvision DS-7104HWI-SH DVR -> 
+Highlights
+_____________________
+Wall Mount : No
+No. Of Led : 0
+Type : DVR
+Brand : Hikvision
+SUPC: SDL388148841
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit
+
+GENERAL
+Power Supply
+DC 12 V
+Consumption
+Less than equal to 6 Watts (without hard disk or DVD-R/W)
+Working Temperature
+-10 Degree C - +55 Degree C
+Working Humidity
+10 to 90 Percent
+
+VIDEO/AUDIO INPUT
+Video Compression
+H.264
+Video Input
+4 - Channel
+Video Input Interface
+BNC (1.0 V p-p, 75 ohms), PAL/NTSC self-adaptive
+Audio Compression
+G.711u
+Audio Input
+1-Channel, RCA (2.0 Vp-p, 1 Killo ohms)
+Two-Way Audio Input
+1-Ch, RCA (2.0 Vp-p, 1 Killo ohms) (using the audio input)
+
+VIDEO/AUDIO OUTPUT
+HDMI/VGA Output
+1-Ch, resolution: 1080P: 1920 x 1080/60 Hz, SXGA: 1280 x 1024/60 Hz, 720P: 1280 x 720/60 Hz, XGA: 1024 x 768/60 Hz
+CVBS Output
+1-Ch, BNC (1.0 V p-p, 75 ohms); resolution: PAL: 704 x 576, NTSC: 704 x 480
+Encoding Resolution
+WD1/4CIF/2CIF/CIF/QCIF
+Frame rate
+25 fps (P)/30 fps (N)
+Video Bitrate
+32 Kbps - 3072 kbps, or user defined (Max 3072 Kbps)
+Audio Output
+1-Ch, RCA (Linear, 1 Killo ohm)
+Audio Bitrate
+64 Kbps
+Dual-Stream
+Support; Sub-stream: CIF/QCIF at the 25 fps (P)/30 fps (N)
+Stream Type
+Video, Video and Audio
+Synchronous Playback
+4 - Ch
+
+HARD DISK
+SATA
+1 SATA interface
+Capacity
+Up to 4TB capacity
+
+EXTERNAL INTERFACE
+Network Interface
+1, RJ45 10 M/100 M Ethernet interface
+USB interface
+2, USB 2.0
+
+ADDITIONAL FEATURES
+Features
+Main stream supports up to WD1 resolution in real time and sub stream supports CIF/QCIF resolution; Simultaneous HDMI/VGA and CVBS outputs; Channel-zero encoding; Support dual stream; HDD quota management; different capacity can be assigned to different channel; Smart searching for the event triggered record files; Digital zoom of video in live view or playback mode; IPv6 is supported; Network detection function; NTP, SMTP, UPnP protocols supported; GND; LAN Network Interface
+
+PHYSICAL SPECIFICATIONS
+Dimensions
+(W x D x H): 200 x 200 x 45 mm
+Weight
+Less than equal to 0.8 Kg (without hard disk or DVD-R/W)
+Description
+_____________________
+Terms & Conditions
+_____________________

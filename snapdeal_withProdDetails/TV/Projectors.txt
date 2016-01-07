@@ -1,0 +1,1569 @@
+
+ -------------------------------------------
+Sony VPL-EX242 Wifi LCD Business Proj...
+ -> 
+Highlights
+_____________________
+Brand:Sony
+Type:Projectors
+Connectivity:VGA,HDMI
+Resolution:1024 x 768
+Brightness:3200 Lumens
+Display:LCD
+Functionality:3D
+Aspect Ratio:4:3
+Purpose:Business
+SUPC: SDL056255116
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+2 Years
+
+IN THE BOX
+Sales Package
+Main Unit, Remote Commander (RM-PJ8)
+
+GENERAL
+Brand
+Sony
+Model
+VPL-EX242
+Usage
+-
+Lamp
+Lamp 210 Watts Type
+Lamp Life
+High Mode: 3000 Hours, Standard Mode: 5000 Hours, Low Mode: 7000 Hours
+Resolution
+XGA (1024 x 768)
+Display Mode
+3 LCD system
+Projection Distance
+0.76 m to 7.62 m
+
+SPECIFICATION
+Video Compatibility
+-
+Connectivity
+Composite Video Pin Jack: 1; S Video Mini DIN 4-Pin: 1; Computer Mini D-Sub 15-Pin: 2; HDMI (HDCP): 1; Monitor Mini D-sub 15-Pin: 1(From Input A and Input B); Control Others: RS-232C D-Sub 9-Pin: 1 (Male); LAN RJ-45, 10BASE-T/100BASE-TX: 1; USB Type: A - 1, B - 1; Wireless IFU-WLM3(Option)(Connect to USB Type-A terminal)
+Functional Modes
+-
+Remote Control
+Yes (RM-PJ8)
+Other Specification
+Projection Lens - Focus: Manual, Zoom: Manual, Zoom (Ratio): 1.3 x, Throw ratio: 1.37:1 to 1.80:1
+
+DISPLAY FEATURES
+Screen Size
+30 to 300 inches
+Brightness
+Light Output - High Mode: 3200 Lumens, Standard Mode: 2200 Lumens, Low Mode: 1700 Lumens; Color Light Output - High Mode: 3200 Lumens, Standard Mode: 2200 Lumens, Low Mode: 1700 Lumens
+Other Display Features
+Effective Display Area: 0.63 inches; Contrast ratio - 3000:1; Aspect ratio - 4:3
+
+POWER FEATURES
+Power Input
+AC 100 to 240 V, 2.8 to 1.2 Amps, 50/60 Hz
+Power Consumption(Active Mode)
+AC 100 to 120 V - High: 273 Watts, Standard: 224 Watts, Low: 194 Watts; AC 220 to 240 V - High: 265 Watts, Standard: 216 Watts, Low: 188 Watts
+Power Consumption(Standby Mode)
+AC 100 to 120 V - Standard Mode: 5.9 Watts, Low Mode: 0.5 Watt; AC 220 to 240 V - Standard Mode: 5.9 Watts, Low Mode: 0.5 Watt
+Other Power Features
+Heat Dissipation - AC 100 to 120 V: 932 BTU, AC 220 to 240 V: 904 BTU
+
+ADDITIONAL FEATURES
+Other Features
+Keystone Correction - Vertical: +/- 30 Degree; Mass: 3.8 Kg; Filter Cleaning/Replacement Cycle: 7000 Hours
+
+PHYSICAL SPECIFICATIONS
+Dimensions
+(W x H x D): 365 x 96.2 x 252 mm
+
+WARRANTY
+Period
+-
+
+INSTALLATION PROCESS
+1
+Installation is not provided by Brand
+2
+Customer has to approach local professional services for installation for a fee
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Benq MS504P DLP Business Projector 3,...
+ -> 
+Highlights
+_____________________
+Screen Resolution : SVGA (800: 600)
+Brightness : 3,000 Lumens
+Contrast Ratio : 13000:1
+Built-In Speakers : 1x2W
+Ports : 1 USB 2.0 Type Mini B Port; 1: Mini Jack (Audio In); 1: Mini Jack (Audio Out); RCA Composite Video In; 2: 15-pin D-sub, 1: 15-pin D-sub; RS232 (1: 9-pin D-sub); IR Receiver: 1 (Front)
+In The Box : Main Unit, Remote Control, Power Cord, User Manual CD, Quick Start Guide, Warranty Card (By Region), VGA Cable
+Remote : Yes
+SUPC: SDL346870209
+Technical Specification
+_____________________
+
+INSTALLATION PROCESS
+1
+Installation is not provided by Brand
+2
+Customer has to approach local professional services for installation for a fee
+
+WARRANTY
+Period
+2 Years
+
+IN THE BOX
+Sales Package
+Main Unit, Remote Control, Power Cord, User Manual CD, Quick Start Guide, Warranty Card (By Region), VGA Cable
+
+GENERAL
+Brand
+Benq
+Model
+MS504P
+Usage
+Home Cinema
+Lamp
+190 Watts
+Lamp Life
+10000 hrs
+Resolution
+800 x 600 pixels
+Display Mode
+VGA, PAL, SVGA, XGA, SXGA, SXGA+, UXGA
+Projection Ratio
+1.86:2.04
+3D Support
+Yes
+
+DISPLAY FEATURES
+Maximum Projection Size
+300 inch
+Brightness
+3000 lm (Standard)
+Aspect Ratio
+4:3 (Native)
+Zoom Ratio
+1.1:1
+Contrast Ratio
+13000:1 Hz
+Scanning Frequencies
+102 kHz (Horizontal), 120 Hz (Vertical)
+Color Support
+1.07 Billion Colors
+Other Display Features
+Minimum Screen Size (Diagonal): 30 inch, Lamp Life: 6000 hrs (Eco Mode), 6500 hrs (Smart Eco), 10000 hrs (Lamp Save Mode)
+
+LENS FEATURES
+Aperture
+F2.56 - F2.8
+Focal Length
+21 - 23.1 mm
+
+AUDIO FEATURES
+Number of Speakers
+1 Speaker
+Output Per Speaker
+2 W
+
+CONNECTIVITY
+Wireless Connectivity
+No
+USB
+1 USB 2.0 Type Mini B Port
+Audio In
+1 x Mini Jack
+Audio Out
+1 x Mini Jack
+AV In
+RCA Composite Video In
+VGA
+2 x 15-pin D-sub, 1 x 15-pin D-sub
+S Video
+No
+RS-232 Connectors
+RS232 (1 x 9-pin D-sub)
+Other Connectors
+IR Receiver x 1 (Front)
+
+POWER FEATURES
+Power Supply
+AC 100 - 240 V, 50-60 Hz
+Power Consumption
+270 W (110 V AC), 270 W (220 V AC)
+Power Consumption - Standby Mode
+0.5 W (110 V AC), 0.5 W (220 V AC)
+Other Power Features
+Power Consumption: 220 W (ECO Mode)
+
+OPERATING CONDITIONS
+Noise Level
+33 dB (Normal)
+Other Operating Conditions
+Audible Noise: 28 dBA (Economic Mode)
+
+ADDITIONAL FEATURES
+Keystone Adjustment
+1D, Vertical: +/- 40 Degree
+Remote Control
+Yes
+Functional Modes
+sRGB Mode, Dynamic Mode, User1 Mode, Presentation Mode, Cinema Mode, User2 Mode
+Number of OSD Languages
+28 Languages
+Security Slot
+No
+Other Features
+SmartEco Power Saving Technology, Projection Offset: 120% 5%, 5 Aspect Ratio Selectable, New 3D Format for Entertainment
+
+DIMENSIONS WITH STAND
+Width
+283 mm
+Height
+283 mm
+Depth
+222 mm
+Weight
+1.8 kg
+
+DIMENSIONS WITHOUT STAND
+Width
+283 mm
+Height
+88.7 mm
+Depth
+222 mm
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Epson EH-TW5200 LCD Home Cinema Proje...
+ -> 
+Highlights
+_____________________
+Brand:Epson
+Type:Projectors
+Connectivity:HDMI,USB,S-Video,D-SUB
+Resolution:1920 x 1080
+Brightness:2000 Lumens
+Display:LCD
+Functionality:3D
+Aspect Ratio:4:3
+Purpose:Home Cinema
+SUPC: SDL504438548
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+2 Years
+
+IN THE BOX
+Sales Package
+Main Unit, Remote Control, Power Cable, User Manual Set, Spare Lamp (optional), Air Filter Set (optional), 3D Glasses (optional), 3D Glasses Charger (optrional), Wireless LAN Unit (optional)
+
+GENERAL
+Brand
+Epson
+Model
+EH-TW5200
+Usage
+-
+Lamp
+200W UHE
+Lamp Life
+5,000 hours/6,000 hours (Normal/Eco)
+Resolution
+Native Resolution: 1080p (1920 x 1080)
+Display Mode
+-
+Projection Distance
+1.22 - 1.47 (Wide - Tele)
+
+SPECIFICATION
+Video Compatibility
+480i/576i/480p/576p/720p/1080i/1080p, NTSC/NTSC4.43/PAL/M-PAL/N-PAL/PAL60/SECAM
+Connectivity
+1 x D-sub 15pin, Composite Video Input: RCA x 1 (Yellow), HDMI: 2 (HDCP supported, MHL x 1), Audio Input: RCA (White/Red), 1 (Stereo mini jack) x Audio Output, 1 x USB Type A, USB Type B: 1 mini-USB (For service & firmware update only), RS-232C: D-Sub 9pin x 1
+Functional Modes
+-
+Remote Control
+Yes
+Other Specification
+Optical Zoom (Manual)/Focus (Manual) Projection Lens, F-Number: 1.58 - 1.72, Focal Length: 16.9 - 20.28 mm, Zoom Ratio: 1 - 1.2, Internal Speaker: 2W (Monaural), Keystone Correction: ± 30 degrees/± 30 degrees, Auto Keystone Correction, 3D Display: On/Off, 3D Format: Auto/Side By Side/Top and Bottom/2D, 3D Depth: ±10
+
+DISPLAY FEATURES
+Screen Size
+Zoom Wide: 34 inches - 328 inches [0.9 - 9.0 m], Zoom Tele: 34 inches - 328 inches [1.08 - 10.8 m]
+Brightness
+2,000 lm (White Light Output/Colour Light Output)
+Other Display Features
+Contrast Ratio: 15,000:1; Video Quality: Interlace-Progressive Conversion, 3D Y/C Separation, Noise Reduction; Dynamic, Living Room, Natural, Cinema, 3D Dynamic, 3D Cinema Colour Mode; Six Axis Colour Adjustment: Hue/Saturation/Brightness for Each of RGBCMY are adjustable; Aspect Mode: Auto/Normal/Full/Zoom
+
+POWER FEATURES
+Power Input
+100 - 240 V AC ±10%, 50/60 Hz
+Power Consumption(Active Mode)
+287W/217W Lamp On (Normal / Eco)
+Power Consumption(Standby Mode)
+0.31W
+Other Power Features
+-
+
+ADDITIONAL FEATURES
+Other Features
+RGB liquid crystal shutter projection system (3LCD), Operating Temperature: 5 - 35 degrees C (41 - 95 degrees F), Operating Altitude: 0 - 3,000 m (0 - 9,843 ft), Direct Power On, Start-Up Period: 20 seconds, Warm-up period: 30 seconds, Cool Down Period: Instant Off, Fan Noise (Normal/Eco): 37dB/29dB
+
+PHYSICAL SPECIFICATIONS
+Dimensions Excluding Feet (D x W x H)
+247 x 297 x 105 mm
+Weight
+2.8 kg
+
+WARRANTY
+Period
+-
+
+INSTALLATION PROCESS
+1
+Installation is provided by Epson for Free.
+2
+Call Epson at their customer care - 1800 425 0011
+3
+Provide following Details: Model Name, Serial Number on the back of projector, Address.
+4
+Epson Representative will visit your address with in 3 business days for installation.
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Benq W1070 DLP Home Cinema Projector ...
+ -> 
+Highlights
+_____________________
+Brand:Benq
+Type:Projectors
+Connectivity:USB,HDMI,RCA,S-Video,D-SUB
+Resolution:1920 x 1080
+Brightness:2000 Lumens
+Display:DLP
+Functionality:3D
+Aspect Ratio:16:09
+Purpose:Home Cinema
+SUPC: SDL678614768
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+2 Years
+
+IN THE BOX
+Sales Package
+Main Unit, Remote Control w/Battery, Power Cord (by region), User Manual CD, Quick Start Guide, Warranty Card (by region), VGA (D-sub 15pin) Cable, Spare Lamp Kit (optional), Ceilling Mount (optional), 3D Glasses (optional), Carry Bag (optional)
+
+GENERAL
+Brand
+BenQ
+Model
+W1070
+Usage
+-
+Lamp
+240W
+Lamp Life
+3500/5000/6000 hours (Normal/Economic Mode/SmartEco Mode)
+Resolution
+Native Resolution: 1080p (1920 x 1080)
+Display Mode
+-
+Projection Distance
+1.15-1.5 (79 inches at 2M)
+
+SPECIFICATION
+Video Compatibility
+NTSC, PAL, SECAM
+Connectivity
+-
+Functional Modes
+Dynamic/Standard/Cinema/3D/User 1/User 2/User 3
+Remote Control
+Yes
+Other Specification
+Keystone Adjustment: 1D, Vertical ± 20 degrees, Projection Offset: Vertical 110%-130%±5%, Horizontal Frequency: 15K-102KHz, Vertical Scan Rate: 23-120Hz, HDTV Compatibility: 480i, 480p, 576i, 567p, 720p, 1080i, 1080p, Audible Noise: 33/30 dBA (Normal/Economic mode), Lens: F=2.59-2.87, f=16.88-21.88mm
+
+DISPLAY FEATURES
+Screen Size
+40 inches-235 inches (Diagonal)
+Brightness
+2000 ANSI Lumen
+Other Display Features
+Contrast Ratio: 10000:1, Display Color: 1.07 Billion Colors, 16:9 Aspect Ratio- Native 16:9 (5 aspect ratio selectable), Zoom Ratio: 1.3:1, Resolution Support: up to WUXGA, On-Screen Display Languages: Arabic/Bulgarian/ Croatian/ Czech/ Danish/ Dutch/ English/ Finnish/ French/ German/ Greek/ Hindi/ Hungarian/ Italian/ Indonesian/ Japanese/ Korean/ Norwegian/ Polish/ Portuguese/ Romanian/ Russian/ Simplified Chinese/Spanish/ Swedish/ Turkish/ Thai/ Traditional Chinese (28 Languages)
+
+POWER FEATURES
+Power Input
+AC 100 to 240 V, 50 to 60 Hz
+Power Consumption(Active Mode)
+353W/110V
+Power Consumption(Standby Mode)
+Less than 0.5 W
+Other Power Features
+-
+
+ADDITIONAL FEATURES
+Other Features
+-
+
+PHYSICAL SPECIFICATIONS
+Dimensions (W x H x D)
+312 x 104 x 244 mm
+Weight
+2.75 Kg
+
+WARRANTY
+Period
+-
+
+INSTALLATION PROCESS
+1
+Installation is not provided by Brand
+2
+Customer has to approach local professional services for installation for a fee
+Description
+_____________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms & Conditions
+_____________________
+ -------------------------------------------
+HITACHI CP-DX300 DLP Business Project...
+ -> 
+Highlights
+_____________________
+Brand:Hitachi
+Type:Projectors
+Connectivity:USB,D-SUB,RCA
+Resolution:1024 x 768
+Brightness:3000 Lumens
+Display:DLP
+Functionality:3D
+Aspect Ratio:4:3
+Purpose:Business
+SUPC: SDL070984821
+Technical Specification
+_____________________
+
+INSTALLATION PROCESS
+1
+Installation is not provided by Brand
+2
+Customer has to approach local professional services for installation for a fee
+
+WARRANTY
+Period
+2 Years
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Lg Pa72G DLP Home Cinema Projector 70...
+ -> 
+Highlights
+_____________________
+Brand:LG
+Type:Projectors
+Connectivity:HDMI,USB
+Resolution:1280 x 800
+Brightness:700 Lumens
+Display:DLP
+Functionality:3D
+Aspect Ratio:4:3
+Purpose:Home Cinema
+SUPC: SDL150871562
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Remote Control, Pouch Carry Bag, Lens Cap, 3D Glasses, Ceiling Mount (Ready), Quick Set Up Guide and CD Manual
+
+GENERAL
+Brand
+LG
+Model
+PA72G
+Usage
+-
+Lamp
+RGB LED, PT54 (Luminus)
+Lamp Life
+30000 hours
+Resolution
+Native Resolution: WXGA(1280x800)
+Display Mode
+-
+Projection Distance
+1.4 (Wide/Tele)
+
+SPECIFICATION
+Video Compatibility
+-
+Connectivity
+1 x RGB in, 1 x RGB(PC) Audio in, Composite(AV) in: Phone to AV in, Component (YPbPr): RGB to Component in, 1 x HDMI, USB(SVC,Interactive) x 1 (Type A)
+Functional Modes
+-
+Remote Control
+Yes
+Other Specification
+Projection Offset: 100%, Uniformorty(JBMMA 9point): 85%, Projection Lens Focus/Zoom: Manual/fixed, Digital HDMI: 1080p/1080i/720p/480p, RGB: up to WSXGA+(1680x1050@60Hz), Component Video: 1080p/1080i/720p/480p/480i, Composite Video: secam support
+
+DISPLAY FEATURES
+Screen Size
+20 inches-100 inches
+Brightness
+700 ANSI Lumens
+Other Display Features
+Projection System Technology: DLP (0.45 inches); Contrast Ratio(FOFO): 15,000:1; DLP 3D Ready (DLP Link), PC XGA 120Hz; Vertical Picture
+
+POWER FEATURES
+Power Input
+Adapter
+Power Consumption(Active Mode)
+130 W
+Power Consumption(Standby Mode)
+Less than 0.5 Watts
+Other Power Features
+-
+
+ADDITIONAL FEATURES
+Other Features
+Vertical Digital Keystone Correction, Auto Source Detection, Quick(Instant) Power on/off: on: 10sec, off: 2-3 sec, Auto Sleep (Off), Sleep Timer, Horizontal and Vertical Image Flip, Color Temperature, Brilliant Color (Overlap Duty), Black Level Control, Expert ControlvADJ, Gamma Correction, Noise Reduction, AV Closed Caption, Auto Input Search, Auto Keystone, Automatic Standby, USB Host (DivX, MP3, Photo): HD DivX, File(Office) Viewer, WiDi Mirroring, Kensington Lock
+
+PHYSICAL SPECIFICATIONS
+Dimensions
+230(W) x 170(D) x 44(H) mm
+Weight
+1.35 kg
+
+WARRANTY
+Period
+-
+
+WARRANTY
+Period
+1 year /800 hours or 6 months on lampLG  India Wararanty
+
+INSTALLATION PROCESS
+1
+Installation is provided by LG for Free.
+2
+Call LG at their customer care - 1800 180 9999
+3
+Provide following Details: Model Name, Serial Number on the back of projector, Address.
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Epson EH-TW6100 LCD Home Cinema Proje...
+ -> 
+Highlights
+_____________________
+Brand:Epson
+Type:Projectors
+Connectivity:HDMI,USB,S-Video,D-SUB
+Resolution:1920 x 1080
+Brightness:2300 Lumens
+Display:LCD
+Functionality:3D
+Aspect Ratio:4:3
+Purpose:Home Cinema
+SUPC: SDL505126307
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+2 Years
+
+INSTALLATION PROCESS
+1
+Installation is provided by Epson for Free.
+2
+Call Epson at their customer care - 1800 425 0011
+3
+Provide following Details: Model Name, Serial Number on the back of projector, Address.
+4
+Epson Representative will visit your address with in 3 business days for installation.
+
+IN THE BOX
+Sales Package
+Main Unit, Compact Type Remote Control, HDMI Clamp x 2 (Cable Clamp/Lock), 3m and 3 Wire (Black) Power Cable, User Manual Set, 3D Glasses RF Type (optional), 3D Glasses Charger (optional), Spare Lamp (optional), Air Filter (optional)
+
+GENERAL
+Brand
+Epson
+Model
+EH-TW6100
+Usage
+-
+Lamp
+230W UHE
+Lamp Life
+4,000 hours/5,000 hours (Normal/Eco)
+Resolution
+Native Resolution: 1080p (1920 x 1080)
+Display Mode
+-
+Projection Distance
+1.32 - 2.15 (Wide - Tele)
+
+SPECIFICATION
+Video Compatibility
+480i/576i/480p/576p/720p/1080i/1080p, NTSC/NTSC4.43/PAL/M-PAL/N-PAL/PAL60/SECAM
+Connectivity
+Analog Input: 1 x D-Sub 15 pin, Component video input: RCA x 3 (Red/Green/Blue), composite video input: RCA x 1 (Yellow), HDMI: 2 (HDCP Supported), 1 x RCA (White/Red), 1 x USB Type A, USB Type B: 1 mini-USB (For service only), RS-232C: D-sub 9pin x 1
+Functional Modes
+-
+Remote Control
+Yes
+Other Specification
+Projection Lens Type: Optical zoom (Manual)/Focus (Manual), F-Number: 1.51 - 1.99, Focal Length: 18.2mm - 29.2mm, Zoom Ratio: 1 - 1.6, Video Quality: Interlace-Progressive conversion, 3D Y/C separation, Noise reduction, Sound Output: 10W x 2, Keystone Correction: ± 30 degrees (vertical) and ± 30 degrees Slider Bar (horizontal), Auto Keystone Correction
+
+DISPLAY FEATURES
+Screen Size
+Zoom Wide: 30 inches- 300 inches [0.87m - 8.9m], Zoom Tele: 30 inches - 300 inches [1.42m -14.5m]
+Brightness
+2,300 lm (White Light Output/Colour Light Output)
+Other Display Features
+LCD Size: 0.61 inches wide panel with MLA (D9, C2Fine, 12 bit); Contrast Ratio: 40,000:1; Colour Mode: Auto, Dynamic, Living room, Natural, Cinema, 3D Dynamic, 3D Cinema; Six Axis Colour Adjustment: Hue/Saturation/Brightness for each of RGBCMY are adjustable; Super Resolution: 0/1/2/3/4/5; Aspect Mode: Auto/Normal/Full/Zoom/Wide; 3D Display: On/Off; 2D - 3D Conversion: Off/Weak/Medium/Strong; 3D Format: Auto/Side by Side/Top and Bottom/2D; 3D Depth: ±10 The default value of 3D depth can be automatically set when a user enters the screen size
+
+POWER FEATURES
+Power Input
+100 - 240 V AC ±10%, 50/60 Hz
+Power Consumption(Active Mode)
+358W/274W Lamp On (Normal/Eco)
+Power Consumption(Standby Mode)
+0.35W/0.35W (HDMI Link On/Off)
+Other Power Features
+-
+
+ADDITIONAL FEATURES
+Other Features
+RGB liquid crystal shutter projection system (3LCD), Operating Temperature: 5 degrees C to 35 degrees C (41 degrees F to 95 degrees F), Operating Altitude: 0 m to 2,286 m (0 ft to 7500 ft), Start Up Period: 23 seconds, Warm-up Period: 30 seconds, Cool Down Period: 5 seconds, Fan Noise: 24 dB
+
+PHYSICAL SPECIFICATIONS
+Dimension Excluding Feet (W x H x D)
+420 x 137.3 x 365 mm
+Weight
+6.0 Kg
+
+WARRANTY
+Period
+-
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Epson EB-X03 LCD Business Projector 2...
+ -> 
+Highlights
+_____________________
+Brand:Epson
+Type:Projectors
+Connectivity:VGA
+Resolution:1024 x 768
+Brightness:2700 Lumens
+Display:LCD
+Functionality:3D
+Aspect Ratio:4:3
+Purpose:Business
+SUPC: SDL005336714
+Technical Specification
+_____________________
+
+INSTALLATION PROCESS
+1
+Installation is provided by Epson for Free.
+2
+Call Epson at their customer care - 1800 425 0011
+3
+Provide following Details: Model Name, Serial Number on the back of projector, Address.
+4
+Epson Representative will visit your address with in 3 business days for installation.
+
+IN THE BOX
+Sales Package
+Main Unit, Power Cable, Remote Control, Batteries, User Manual, 1.8 m Computer Cable
+
+GENERAL
+Brand
+Epson
+Model
+EB-X03
+Usage
+-
+Lamp
+200 Watts UHE
+Lamp Life
+Normal: 5000 Hours, Eco: 6000 Hours
+Resolution
+XGA: 1024 x 768
+Projection Distance
+1.8 to 2.17 m
+
+DISPLAY FEATURES
+Type
+LCD
+Panel
+0.55 inches without MLA (D7)
+Brightness
+Colour and White Brightness: 2700 ANSI Lumens
+Contrast Ratio
+10000:1
+Screen Size
+Tele: 30 to 300 inches (0.9 to 9.0 m), (Zoom: Wide): 30 to 300 inches (1.08 to 10.8 m)
+Aspect
+Native Aspect Ratio: 4:3
+Other Display Features
+Projection System: Epson 3 LCD, 3 chip technology
+
+SPECIFICATION
+Connectivity
+Input - Video: 1 x RCA (Yellow), 1 x S-Video, 1 x Component (via D-sub 15-pin), 1 x HDMI; Computer: 1 x D-sub 15-Pin (RGB), 1 x USB 2.0 type B, USB Memory Device: 1 x USB 2.0 type A, Digital: 1 x HDMI, Audio: 1 x RCA (Red and White), 1 x HDMI, Control: 1 x USB 2.0 type B, Epson USB Document Camera
+Functional Modes
+-
+Remote Control
+Yes
+Other Specification
+-
+Built-in Speakers
+Yes
+Throw Ratio
+1.48 (Zoom: Wide), 1.77 (Zoom: Tele)
+Projection Lens Focal Length
+16.7 mm
+Noise Level
+Normal: 37 dB, Eco: 29 dB
+Compatibility
+Computer, Smartphone, Tablet, Phone, iPad, iPod touch and Android devices with the app
+
+POWER FEATURES
+Power Input
+-
+Power Consumption(Active Mode)
+Normal: 270 Watts, Eco: 201 Watts
+Power Consumption(Standby Mode)
+0.28 Watts (Communication off)
+Other Power Features
+-
+
+ADDITIONAL FEATURES
+Other Features
+Keystone Correction Vertical: -30 to +30 degrees, Horizontal: -30 to +30 degrees; Offset: 8:01; Projection Lens F Number 1.58 to 1.72; Wireless Connectivity: Optional; Speaker Output: 1 Watts; Easy MP Network & Control: (with optional Wireless LAN Unit); Easy MP Network Projection: (with optional Wireless LAN Unit); PC Free Presentations; AV Mute Slide; Instant Off; Direct Power On/Off; Security Kensington lock: Security cable hole, Password protect function; Colour Modes: Dynamic, Presentation, Theatre, Photo, sRGB, Blackboard, Whiteboard; Low Cost of Ownership and Maintenance
+
+PHYSICAL SPECIFICATIONS
+Dimensions
+(W x H x D): 297 x 77 x 234 mm
+Weight
+2.4 Kg
+
+WARRANTY
+Period
+Projector: 2 Years Manufacturer Warranty, Lamp Warranty: 12 months or 750 hours
+
+WARRANTY
+Period
+2 Years
+Terms & Conditions
+_____________________
+ -------------------------------------------
+BenQ MX661 DLP Business Projector 300...
+ -> 
+Highlights
+_____________________
+Brand:Benq
+Type:Projectors
+Connectivity:USB,HDMI,RCA,S-Video,D-SUB
+Resolution:1024 x 768
+Brightness:3000 Lumens
+Display:DLP
+Functionality:3D,Networking
+Aspect Ratio:4:3
+Purpose:Business
+SUPC: SDL657406533
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Carry Bag, Remote Control w/Battery, Power Cord (by region), User Manual CD, Quick Start Guide, Warranty Card (by region), VGA (D-sub 15pin) Cable, Spare Lamp Kit (optional), Ceilling Mount (optional), 3D Glasses (optional)
+
+GENERAL
+Brand
+BenQ
+Model
+MX661
+Usage
+-
+Lamp
+210 W
+Lamp Life
+3500/5000/6500 hours (Normal/Economic Mode/SmartEco Mode)
+Resolution
+Native Resolution: XGA(1024x768)
+Display Mode
+-
+Projection Distance
+1.97-2.17 (50 inches at 2m)
+
+SPECIFICATION
+Video Compatibility
+NTSC, PAL, SECAM
+Connectivity
+Computer in (D-sub 15pin) x 2 (Share with component), Monitor out (D-sub 15pin) x 1, HDMI (1.4a) x 1, Composite Video in (RCA) x 1, S-Video in (Mini DIN 4pin) x 1, Audio in (Mini Jack) x 1, Audio out (Mini Jack) x 1, Microphone in (Mini Jack) x 1, Speaker 2W x 1, LAN (RJ45) x 1 (LAN Control and LAN Display), USB (Type A) x 1 (USB Reader with Office Viewer and Wireless Display), USB (Type B) x 1 (Download and Page up/Down), USB (Type mini B) x 1 (USB display and Download), RS232 (DB-9pin) x 1, IR Receiver x1 (Front)
+Functional Modes
+Dynamic/Presentation/sRGB/Cinema/User 1/User 2
+Remote Control
+Yes
+Other Specification
+Zoom Ratio: 1.1:1, Keystone Adjustment: 1D, Vertical ± 40 degrees, Projection Offset: 130% ±5%, Horizontal Frequency: 27K-102KHz, Vertical Scan Rate: 23-120Hz, HDTV Compatibility: 480i, 480p, 576i, 576p, 720p, 1080i, 1080p
+
+DISPLAY FEATURES
+Screen Size
+37 inches-300 inches (Diagonal)
+Brightness
+3000 AL
+Other Display Features
+Contrast Ratio: 13000:1; Display Color: 1.07 Billion Colors; Lens: F=2.51-2.69, f=21.95-24.18mm; 16:9 Aspect Ratio- Native 4:3 (5 aspect ratio selectable); Audible Noise: 34/32 dBA (Normal/Economic mode); On-Screen Display Languages: Arabic/Bulgarian/ Croatian/ Czech/ Danish/ Dutch/ English/ Finnish/ French/ German/ Greek/ Hindi/ Hungarian/ Italian/ Indonesian/ Japanese/ Korean/ Norwegian/ Polish/ Portuguese/ Romanian/ Russian/ Simplified Chinese/Spanish/ Swedish/ Turkish/ Thai/ Traditional Chinese (28 Languages)
+
+POWER FEATURES
+Power Input
+AC100 to 240 V, 50 to 60 Hz
+Power Consumption(Active Mode)
+265 W
+Power Consumption(Standby Mode)
+Less than 0.5 Watt
+Other Power Features
+-
+
+ADDITIONAL FEATURES
+Other Features
+-
+
+PHYSICAL SPECIFICATIONS
+Dimensions (D x W x H)
+230.1 x 327.4 x 126 mm
+Weight
+2.6 kg
+
+WARRANTY
+Period
+-
+
+WARRANTY
+Period
+2 Years
+
+INSTALLATION PROCESS
+1
+Installation is not provided by Brand
+2
+Customer has to approach local professional services for installation for a fee
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+LG BE320 LED Projector 2800 Lumens
+ -> 
+Highlights
+_____________________
+Brand:LG
+Type:Projectors
+Connectivity:VGA
+Resolution:800 x 600
+Brightness:2800 Lumens
+Display:DLP
+Functionality:3D
+Aspect Ratio:4:3
+Purpose:Education
+SUPC: SDL362268013
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+1 year /800 hours or 6 months on lampLG  India Wararanty
+
+INSTALLATION PROCESS
+1
+Installation is provided by LG for Free.
+2
+Call LG at their customer care - 1800 180 9999
+3
+Provide following Details: Model Name, Serial Number on the back of projector, Address.
+
+Specifications
+Technology
+DLP (0.55 Inch)
+Native Resolution
+SVGA (800 x 600)
+Brightness (ANSI-Lumens)
+2800 (typ. 2350)
+Contrast Ratio
+(FIFO) 3000:1
+Noise (dB)
+35
+Economic mode noise (dB)
+33
+Uniformity
+0.8
+Approach Manual
+Yes
+Zoom (x)
+1.1
+Image ratio
+1.95 ~ 2.15
+Lifetime of lamp (hours)
+5000
+Life time (hours in economy mode)
+6000
+Lamp power (W)
+180
+Aspect Ratio Control
+4:3 / 16:9 / 16:10 / 15:9 / 5:4 / Native / Auto
+Menu 20 Languages
+InglÃ©s / German / French / Italian / Spanish / Portuguese / Polish / Russian / Swedish / Norwagean / Greek / Huangarian / Czech / Simple Chinese / traditional Chinese / Arabic / Turkish / Korean / Japanese / Indonesian
+Dimensions (W x fndo x H mm)
+288 Ã 220 Ã 77
+Weight (Kg)
+2.2
+Consumption (W)
+225W/202W
+Consumption (W) Standby
+0.5
+RGB Input
+Upto UXGA 1600x1200 @ 60hz
+Component Video Input
+1080p/1080i/720p/480p/480i
+Composite video Entada
+SECAM / PAL / NTSC
+Additional Feature
+Ready for 3D DLP 3D Ready (DLP Link), Digital Keystone Correction vertical, Freeze frame, Auto Off, Colour temperature, Brilliant Colour, LED Status Display, Auto Input Search, Automatic Standby, Over Scan, Image flip Horizontal / Vertical, Noise Reduction, Sleep Time, Gamma Correction
+
+Connections
+RGB Input 1
+1
+RGB output 1
+1
+Composite Input If (1)
+1
+Component Input By RGB
+Yes
+RS-232C 1
+Yes
+Description
+_____________________
+Do you want to impress your clients so as to bag the next big contract? Along with preparing an impressive presentation, donâ€™t forget to use the
+Â
+The
+the projector boasts of a
+Other features include freeze frame, over scan, noise reduction, sleep time and gamma correction.
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Dell 1210S Projector
+ -> 
+Highlights
+_____________________
+1 Year Warranty
+Screen Resolution : 800 x 600 pixels
+Brightness : 2500 lm (Maximum)
+Contrast Ratio : 2200:1
+Video Compatibility : Composite Video / S-Video: NTSC (M, 3.58, 4.43), PAL (B, D, G, H, I, M, N, 4.43), SECAM (B, D, G, K, K1, L, 4.25/4.4), Component Video via VGA: 1080i/p, 720p, 576i/p, 480i/p
+Ports : USB, Dual VGA connectors for Fast and Smooth Transitions, VGA: 2 x 15 Pin D-sub, 1 x 15 Pin D-sub, S Video: Mini DIN 4 Pin x 1
+In The Box : Power Cable, VGA Cable, CD Users Guide, Remote Control with 2 AAA Batteries, Quick Setup Guide, Product Information Guide
+Warranty : 5 Years Domestic Warranty and 1 Year Warranty on Bulb
+SUPC: SDL759096425
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Power Cable, VGA Cable, CD Users Guide, Remote Control with 2 AAA Batteries, Quick Setup Guide, Product Information Guide
+
+GENERAL
+Brand
+Dell
+Model
+1210S
+Colour
+Black
+Usage
+Business
+
+SPECIFICATION
+Video Compatibility
+Composite Video / S-Video: NTSC (M, 3.58, 4.43), PAL (B, D, G, H, I, M, N, 4.43), SECAM (B, D, G, K, K1, L, 4.25/4.4), Component Video via VGA: 1080i/p, 720p, 576i/p, 480i/p
+Connectivity
+USB, Dual VGA connectors for fast and smooth transitions, VGA: 2 x 15 Pin D-sub, 1 x 15 Pin D-sub, S Video: Mini DIN 4 Pin x 1
+Functional Modes
+EcoMode, Normal Mode, Standby Mode, Power Saving Mode
+Remote Control
+Yes
+Lamp
+185 W
+Lamp Life
+3000 hrs
+Projection Distance
+39.3 inch to 39.3 ft
+Other Specification
+Device Chipset: DLP, Aperture: F2.41 - F2.55, Focal Length: 21.8 - 24 mm, Focus Mechanism: Manual Focus, Component Video Input
+
+DISPLAY FEATURES
+Display Mode
+SVGA, 480i, 480p, 576i, 576p, 720p, 1080i, 1080p
+Screen Size
+303 inches
+Brightness
+2500 lm (Maximum)
+Resolution
+SVGA (800 x 600)
+Other Display Features
+Zoom Ratio: 1.1 x, Contrast Ratio: 2200:01:00 Hz, BrilliantColorTM Technology, Throw Ratio: 1.95 (Wide) - 2.15 (Tele)
+
+POWER FEATURES
+Power Input
+110 V AC
+Power Consumption
+234 W
+Other Power Features
+Standby Mode: 0.5 W (110 V AC), Eco Mode: 209 W (220 V AC), Power-Saving Design: Less than 14 W (Fan Speed at Minimum), Consumes Less than 1 Watt of Electricity in Standby Mode
+
+ADDITIONAL FEATURES
+Other Features
+Flexible Display Options, Simple Onscreen Navigation, Excellent Image Quality, Operating Temperature- 5 Degree Celcius to 35 Degree Celcius, Humidity 80, Other Operating Conditions- Storage Temperature: 0 Degree Celcius to 60 Degree Celcius, Humidity: 90 % Maximum, Signal Type:  PAL, NTSC, SECAM, Keystone Adjustment:  (Vertical) - 35 Degree, Controls: Page Up, Page Down, Keystone Correction, Security Slot, Security Password
+
+PHYSICAL SPECIFICATIONS
+Dimensions in mm: (W x H x D)
+286 x 286 x 192
+
+WARRANTY
+Period
+5 Years Domestic Warranty and 1 Year Warranty on Bulb
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Epson EB-S03 LCD Business Projector 2...
+ -> 
+Highlights
+_____________________
+Brand : Epson
+Type : Projectors
+Connectivity : HDMI
+Resolution : 800 x 600
+Brightness : 2700 Lumens
+Display : LCD
+Functionality : Networking
+Aspect Ratio : 43
+Purpose : Business
+SUPC: SDL969380287
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+2 year warranty, lamp warranty is  90 days from date of purchase or 500 hours of usageEpson  India Wararanty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+LG PF 80G LED Home Cinema Projector 1...
+ -> 
+Highlights
+_____________________
+Brand:LG
+Type:Projectors
+Connectivity:HDMI,USB
+Resolution:1920 x 1080
+Brightness:1300 Lumens
+Display:LED
+Functionality:3D
+Aspect Ratio:4:3
+Purpose:Home Cinema
+SUPC: SDL797456770
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Remote Control, User Manual, CD, Warranty Card
+
+GENERAL
+Brand
+LG
+Model
+PF80G
+Usage
+-
+Lamp
+PT54TE
+Lamp Life
+30000 hours
+Resolution
+Native Resolution: Full HD (1920x1080)
+Display Mode
+-
+Projection Distance
+1.4 (Wide-Tele)
+
+SPECIFICATION
+Video Compatibility
+-
+Connectivity
+Composite(AV) in/Composite(AV) Audio in: Phone to AV in, Component (YPbPr): Phone to Component in, 1 x RJ45, HDMI x 2 (1 MHL), 2 x USB(SVC,Interactive)
+Functional Modes
+-
+Remote Control
+Yes
+Other Specification
+Projection System Technology: DLP (0.65 inches), Projectoin Offset: 100%, Uniformorty(JBMMA 9point): 0.85, Noise (Normal): 27dB(A), Projection Lens Focus/Zoom: Manual/Fixed, Digital(HDMI): Up to 1080p(60Hz/24Hz), Component Video: 1080i/p, 720p, 480i/p
+
+DISPLAY FEATURES
+Screen Size
+20 inches-120 inches
+Brightness
+1000 (Typ 600) ANSI Lumens
+Other Display Features
+Contrast Ratio(FOFO): 100,000 : 1; Aspect Ratio Control: 4:3/Just scan/Set by Pro./16:9/Cinema Zoom; Picture Still
+
+POWER FEATURES
+Power Input
+100V-240V at 50-60 Hz
+Power Consumption(Active Mode)
+160 W
+Power Consumption(Standby Mode)
+0.5 W
+Other Power Features
+-
+
+ADDITIONAL FEATURES
+Other Features
+Operation Temp: 0-40 C, Vertical Digital Keystone Correction, Auto Source Detection, Auto Sleep (Off), Quick(Instant) Power on/off: on 10 Sec off 2 Sec, Sleep Timer, Horizontal/Vertical Image Flip, Color Temperature, Brilliant Color (Overlap Duty), Black Level Control, Expert ControlvADJ, Gamma Correction, Noise Reduction, Closed Caption, Auto Input Search, Auto Keystone, HD DivX USB Host, File (Office) Viewer, WiDi, MiraCast (WFD), Wi-Fi built-in
+
+PHYSICAL SPECIFICATIONS
+Dimensions
+275(W) x 219 (D) x 45 (H) mm
+Weight
+2.2 Kg
+
+WARRANTY
+Period
+-
+
+INSTALLATION PROCESS
+1
+Installation is provided by LG for Free.
+2
+Call LG at their customer care - 1800 180 9999
+3
+Provide following Details: Model Name, Serial Number on the back of projector, Address.
+
+WARRANTY
+Period
+1 year /800 hours or 6 months on lampLG  India Wararanty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Benq MX522P DLP Home Cinema Projector...
+ -> 
+Highlights
+_____________________
+Brand:Benq
+Type:Projectors
+Connectivity:VGA
+Resolution:1024 x 768
+Brightness:3000 Lumens
+Functionality:3D
+Aspect Ratio:4:3
+Purpose:Education
+SUPC: SDL006809878
+Technical Specification
+_____________________
+
+INSTALLATION PROCESS
+1
+Installation is not provided by Brand
+2
+Customer has to approach local professional services for installation for a fee
+
+WARRANTY
+Period
+2 Years
+
+IN THE BOX
+Sales Package
+Main Unit, Lens Cover, Downloading UM and Regulatory Statements, Remote Control with Batteries, VGA (D - Sub 15 Pin) Cable, Warranty Card, Quick Start Guide, Power Cord
+
+GENERAL
+Brand
+Benq
+Model
+MX522P
+Usage
+-
+Lamp
+190 Watts
+Lamp Life
+Normal/Economic Mode: 4500/6000/6500/10000 Hours
+Resolution
+Native Resolution XGA: 1024 x 768, Up to UXGA: 1600 x 1200
+Projection Distance
+-
+
+DISPLAY FEATURES
+Type
+DLP
+Panel
+-
+Brightness
+3000 ANSI Lumens
+Contrast Ratio
+13000:1
+Screen Size
+-
+Aspect
+Aspect Ratio: Native 4:3 (5 Aspect Ratio Selectable)
+Other Display Features
+Display Color: 1.07 Billion Colors; Zoom Ratio: 1.1:1; Picture Mode: Dynamic, Presentation, RGB, Cinema, 3D, User1, User 2
+
+SPECIFICATION
+Connectivity
+Input: Computer (D - Sub 15 Pin) x 2, Composite Video RCA x 1, S - Video (Mini DIN 4 Pin) x 1, Audio (Mini Jack) x 1; HDMI x 1; USB (TYPE mini B) x 1; RS232 (DB - 9 Pin) x 1; IR Receiver x 1 (Front); Output: Audio (Mini Jack) x 1, Monitor (D - Sub 15 Pin) x 1
+Functional Modes
+-
+Remote Control
+-
+Other Specification
+-
+Built-in Speakers
+Yes
+Throw Ratio
+1.86 to 2.04 (53 inches at 2 M)
+Projection Lens Focal Length
+-
+Noise Level
+Audible Noise - Normal: 33 dB (A), Economic: 28 dB (A)
+Compatibility
+HDTV Compatibility: 480i, 480p, 576i, 720p, 1080i, 1080p; Video Compatibility: NTSC, PAL, SECAM; 3D Compatibility: Frame Sequential: Up to 720p, Frame Packing: Up to 1080p, Side by side: Up to 1080i/p, Top Bottom: Up to 1080p
+
+POWER FEATURES
+Power Input
+AC 100 to 240 V, 50 to 60 Hz
+Power Consumption(Active Mode)
+Normal: 270 Watts, Eco: 220 Watts
+Power Consumption(Standby Mode)
+Less than 0.5 Watts
+Other Power Features
+-
+
+ADDITIONAL FEATURES
+Other Features
+Horizontal Frequency: 15 k to 120 kHz; Vertical scan Rate: 23 to 120 Hz; Offset: 120% +/- 5%; Keystone Adjustment: 1D, Vertical +/- 40 Degrees; Picture Mode: Dynamic, Presentation, sRGB, Cinema, 3D, User 1, User 2; Languages: Arabic, Bulgaria, Croatian, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hindi, Hungarian, Italian, Indonesian, Japanese, Korean, Polish, Portuguese, Romanian, Russian, Simplified, Chinese, Spanish, Swedish, Turkish, Thai, Traditional Chinese (28 Languages)
+
+PHYSICAL SPECIFICATIONS
+Dimensions
+(W x H x D) - With Feet: 283 x 95 x 222 mm, Without Feet: 283 x 88.7 x 22 mm
+Weight
+1.9 Kg
+
+WARRANTY
+Period
+-
+Description
+_____________________
+
+
+
+
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Sony VPL-DX120 LCD Home Cinema Projec...
+ -> 
+Highlights
+_____________________
+Brand:Sony
+Type:Projectors
+Connectivity:HDMI,S-Video,USB
+Resolution:1024 x 768
+Brightness:2600 Lumens
+Display:LCD
+Functionality:3D
+Aspect Ratio:4:3
+Purpose:Home Cinema
+SUPC: SDL108696117
+Technical Specification
+_____________________
+
+Specifications
+Brand
+Sony
+Model No.
+VPL-DX120
+Type
+Projector
+Dimension (WxHxD) (without protrusion)
+315 x 75 x 230.5 mm
+Mass
+2.5 Kg
+Power Requirement
+AC 100V to 240V, 1.2A to 2.9A, 50/60 Hz
+Operating Temperature
+0ËC to 35ËC
+Operating Humidity
+20% to 80% (no condensation)
+Storage Temperature
+(-10ËC to +60ËC)
+Storage Humidity
+20% to 80% (no condensation)
+Speaker
+1W x 1 (monaural)
+Power Consumption Max (AC220V to 240V, AC100V to 120V)
+270W/219W/187W, 282W/227W/193W (lamp mode : high/standard/low)
+Power Consumption Standby (AC220V to 240V, AC100V to 120V)
+less than 0.5W (Standby mode: Standard/Low)
+Heat Dissipation (AC220V to 240V, AC100V to 120V)
+920 BTU, 964 BTU
+
+Optical
+Projection System
+3 LCD panels, 1 lens projector system
+Lamp
+UHP lamp,Â 210W
+Light Output
+2600 lm (Lamp mode: high) / 1900 lm (Lamp mode: Standard) / 1700 lm (Lamp mode: low)
+Color Light Output
+2600 lm (Lamp mode: high) / 1900 lm (Lamp mode: Standard) / 1700 lm (Lamp mode: low)
+Screen Coverage
+30(76.2 cms) to 300(762 cms)(measured diagonally)
+Panel
+0.63(1.60 cms) x 3 BrightEraÂ LCD panelÂ Aspect ratio : 4:3
+Projector Lens
+Approx. 1.2 times manual zoom / manual Focus, TR = 1.47-1.77:1
+KeystoneÂ Correction Range
+Max. Vertical : +/- 30 degrees
+Throwing Distance (4:3 Screen Aspect Ratio) From the center of projection window to screen
+80(203.2cm) Screen 2.42 to 2.88m, 100(254cm) Screen 3.02 to 3.60m, 120(304.8cm) Screen 3.63 to 4.33m, 150(381cm) Screen 4.55 to 5.42m, 200(508cm) Screen 6.07 to 7.23m
+
+Signals
+Contrast Ratio
+2500:1
+Resolution
+Panel display: 2,359,296 (1024x768 x 3) pixels
+Colour System
+NTSC3.58, PAL, SECAM, NTSC4.43, PAL-M, PAL-N
+Display Resolution Video input
+NTSC, PAL, SECAM, 480/60i, 576/50i, 480/60p, 576/50p, 720/60p, 720/50p, 1080/60i, 1080/50i, 1080/60p, 1080/50p
+Display Resolution Computer input
+Maximum display (resizing): UXGA 1600x1200 dots*Â¹ (Panel display resolution : 1024x768 dots)
+Displayable Scanning Frequency
+fH: 15Â KHzÂ to 92Â KHz,Â fV: 48 Hz to 92Hz
+
+Input Interface
+Input A
+RGB /Y Pb PR input connector: Mini D-sub 15-pin (female), Audio input connector: Stereo mini jack (shared with VIDEO IN)
+Input B
+HDMIÂ input connector:Â HDMIÂ 19-pin, HDCP support, Audio input connector: HDMIÂ audio support
+VIDEO IN
+Video input connector: Pin jack, Audio input connector: Stereo mini jack (Shared with INPUT A)
+
+INSTALLATION PROCESS
+1
+Installation is not provided by Brand
+2
+Customer has to approach local professional services for installation for a fee
+
+WARRANTY
+Period
+2 Years
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+EPSON EB-S18 LCD Business Projector 3...
+ -> 
+Highlights
+_____________________
+Brand:Epson
+Type:Projectors
+Connectivity:USB,D-SUB,RCA
+Resolution:800 x 600
+Brightness:3000 Lumens
+Display:LCD
+Functionality:3D
+Aspect Ratio:4:3
+Purpose:Business
+SUPC: SDL085918760
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+2 Years
+
+INSTALLATION PROCESS
+1
+Installation is provided by Epson for Free.
+2
+Call Epson at their customer care - 1800 425 0011
+3
+Provide following Details: Model Name, Serial Number on the back of projector, Address.
+4
+Epson Representative will visit your address with in 3 business days for installation.
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Sony VPL-DX100 LCD Home Cinema Projec...
+ -> 
+Highlights
+_____________________
+Brand:Sony
+Type:Projectors
+Connectivity:HDMI,S-Video,USB
+Resolution:1024 x 768
+Brightness:2300 Lumens
+Display:LCD
+Functionality:3D
+Aspect Ratio:4:3
+Purpose:Home Cinema
+SUPC: SDL107719622
+Technical Specification
+_____________________
+
+INSTALLATION PROCESS
+1
+Installation is not provided by Brand
+2
+Customer has to approach local professional services for installation for a fee
+
+WARRANTY
+Period
+2 Years
+
+Specifications
+Brand
+Sony
+Model No.
+VPL-DX100
+Type
+Projector
+Dimension (WxHxD) (without protrusion)
+315 x 75 x 230.5 mm
+Mass
+2.5 Kg
+Power Requirement
+AC 100V to 240V, 1.2A to 2.9A, 50/60 Hz
+Operating Temperature
+0ËC to 35ËC
+Operating Humidity
+20% to 80% (no condensation)
+Storage Temperature
+(-10ËC to +60ËC)
+Storage Humidity
+20% to 80% (no condensation)
+Speaker
+1W x 1 (monaural)
+Power Consumption Max (AC220V to 240V, AC100V to 120V)
+263W/221W/189W, 275W/228W/195W (lamp mode : high/standard/low)
+Power Consumption Standby (AC220V to 240V, AC100V to 120V)
+less than 0.5W (Standby mode: Standard/Low)
+Heat Dissipation (AC220V to 240V, AC100V to 120V)
+898 BTU, 938 BTU
+
+Optical
+Projection System
+3 LCD panels, 1 lens projector system
+Lamp
+UHP lamp,Â 210W
+Light Output
+2300 lm (Lamp mode: high) / 1800 lm (Lamp mode: Standard) / 1500 lm (Lamp mode: low)
+Color Light Output
+2300 lm (Lamp mode: high) / 1800 lm (Lamp mode: Standard) / 1500 lm (Lamp mode: low)
+Screen Coverage
+30(76.2 cms) to 300(762 cms)(measured diagonally)
+Panel
+0.63(1.60 cms) x 3 BrightEraÂ LCD panelÂ Aspect ratio: 4:3
+Projector Lens
+Approx. 1.2 times manual zoom / manual Focus, TR = 1.47-1.77:1
+KeystoneÂ Correction Range
+Max. Vertical : +/- 30 degrees
+Throwing Distance (4:3 Screen Aspect Ratio) From the center of projection window to screen
+80(203.2cm) Screen 2.42 to 2.88m, 100(254cm) Screen 3.02 to 3.60m, 120(304.8cm) Screen 3.63 to 4.33m, 150(381cm) Screen 4.55 to 5.42m, 200(508cm) Screen 6.07 to 7.23m
+
+Signals
+Contrast Ratio
+2500:1
+Resolution
+Panel display: 2,359,296 (1024x768 x 3) pixels
+Colour System
+NTSC3.58, PAL, SECAM, NTSC4.43, PAL-M, PAL-N
+Display Resolution Video input
+NTSC, PAL, SECAM, 480/60i, 576/50i, 480/60p, 576/50p, 720/60p, 720/50p, 1080/60i, 1080/50i, 1080/60p, 1080/50p
+Display Resolution Computer input
+Maximum display (resizing): UXGA 1600x1200 dots*Â¹ (Panel display resolution : 1024x768 dots)
+Displayable Scanning Frequency
+fH: 15Â KHzÂ to 92Â KHz,Â fV: 48 Hz to 92Hz
+
+Input Interface
+Input A
+RGB/Y Pb PR input connector : Mini D-sub 15-pin (female), Audio input connector: Stereo mini jack (shared with VIDEO IN)
+Input B
+HDMIÂ input connector:Â HDMIÂ 19-pin, HDCP support, Audio input connector: HDMIÂ audio support
+VIDEO IN
+Video input connector: Pin jack, Audio input connector: Stereo mini jack (Shared with INPUT A)
+Description
+_____________________
+Terms & Conditions
+_____________________

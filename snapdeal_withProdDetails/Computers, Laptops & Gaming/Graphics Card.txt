@@ -1,0 +1,651 @@
+
+ -------------------------------------------
+Msi Geforce Gtx 750ti 2 Gb Gddr5 Grap...
+ -> 
+Highlights
+_____________________
+Warranty : 3 Years MSI India Warranty
+Type : DDR5
+Features : All Solid Capacitors10 years ultra-long lifetime (under full load).
+Lower temperature and higher efficiency.
+Aluminum core for higher stability.
+Afterburner Overclocking UtilityMonitor fan speed profile.
+In-game video recording.
+iOS/Android remote control.
+Built-in DX11.2 benchmark.
+GPU Boost 2.0 TechnologyEnsures the GPU runs at its peak performance and games at their highest frame rate possible.
+Offer new levels of customization including GPU temperature target, overclocking, and unlocked voltage.
+3DVision ReadySupport for NVIDIA 3D Vision, bringing a fully immersive stereoscopic 3D experience to the PC.
+SUPC: SDL331127325
+Technical Specification
+_____________________
+
+In The Box
+Sales Package
+Graphic Card, Manual, Driver CD
+
+General
+Brand
+MSI
+Graphics Engine
+NVIDIA GeForce GTX 750Ti
+GPU Clock
+1059 (Boost Clock: 1137)
+Processors and Cores
+
+RAMDAC Clock Speed
+400
+GPU Manufacturing Process
+NVIDIA
+Bus Standard
+PCI Express 3.0 x16
+Cooling and Heatsink
+FAN
+Model ID
+N750Ti-2GD5/OCV1
+Power Supply Required
+600 W
+Part Number
+
+
+Memory
+Memory
+2 GB GDDR5 Memory with 5400 MHz
+Memory Bandwidth
+32 GB/sec
+
+Technologies Supported
+Graphics Technologies Supported
+Microsoft DirectX v11.2, Open GL Optimization v4.4
+
+Connectivity
+VGA/D-SUB Output
+1xVGA DSub Output
+DVI and HDMI Interface
+Yes
+Other Interface
+1 x Dual Link DVI-D
+HD Content Support
+HDCP Support
+
+System Requirements
+Supported OS
+Windows XP & Above
+Other System Requirements
+
+
+Dimensions
+Dimensions
+165x111x33mm
+
+Other Features
+Additional Features
+PCI-E 3.0 Bus Standard 600 W Power Supply Required 3D Vision Support 2 GB GDDR5 Memory
+Description
+_____________________
+Useful Links
+_____________________
+
+"Graphics Card Buying Guide"
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Gigabyte Nvidia Gv-n75toc-2gi 2 Gb Dd...
+ -> 
+Highlights
+_____________________
+Capacity : 2 GB
+Type : DDR5
+SUPC: SDL345135542
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit
+
+GENERAL
+Brand
+Gigabyte
+Series
+NVIDIA
+Model
+GV-N75TOC-2GI
+Type
+Graphics Card
+Colour
+Black and Silver
+
+SPECIFICATIONS
+GPU Clock
+Core Clock - Base: 1033 MHz, Boost: 1111 MHz (Standard - Base: 1020 MHz, Boost: 1085 MHz)
+Memory Clock
+5400 MHz
+Chipset
+GeForce GTX 750Ti
+Process Technology
+28 nm
+DirectX
+11.2
+OpenGL
+4.4
+PCB Form
+ATX
+Multi-view
+4
+Bus Standard
+Memory Bus: 128 bit, Card Bus: PCI-E 3.0
+Cooling and Heatsink
+WindForce 2X Anti-turbulence Parallel inclined Fan
+Memory Size
+2 GB
+Memory Type
+GDDR5
+Maximum Resolution
+Digital: 4096 x 2160 (via 2 HDMI), Analog: 2048 x 1536
+
+CONNECTIVITY
+DVI and HDMI Interface
+Dual-link 1 x DVI-I, 1 x DVI-D, 2 x HDMI
+
+POWER
+Power Comsumption
+400 Watts
+
+PHYSICAL DIMENSIONS
+Dimensions
+(L x W x H): 204 x 144 x 42 mm
+
+ADDITIONAL FEATURES
+Other Features
+Support PCI Express 3.0 x 16 bus interface; Support 4 K at 60 Hz Via Two HDMI; Ultra Durable 2: Ultra Cooling - Low RDS(on) MOSFET Design, Low Power Loss - Ferrite Core Choke Design, Longer Life - All-Solid Capacitor Design, Gold plated HDMI, Up to 4 displays on a Single Card, OC GURU ll
+Useful Links
+_____________________
+
+"Graphics Card Buying Guide"
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Asus NVIDIA Strix GTX 980 4 GB GDDR5 ...
+ -> 
+Highlights
+_____________________
+Warranty : 3 Years Manufacturer Warranty
+Capacity : 4 GB
+Type : DDR5
+Features : DirectCU II with 0dB Fan Technology Enjoy Light Games in Complete Silence and Hardcore Gaming 30% Cooler with 3X-quieter Performance, Reliability and Performance
+` Voltages, GPU Tweak Streaming On-screen Action in Real Time, GPU Boost Clock: 1279
+DIGI+VRM with 10-phase Super Alloy Power Delivers Precise Digital Power for Superior Efficiency, GPU Tweak Helps you Modify Clock Speeds
+SUPC: SDL012066615
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Power Cable
+
+GENERAL
+Brand
+Asus
+Model
+Strix GTX 980 4 GB
+Type
+Graphic Card
+Color
+Black
+
+SPECIFICATIONS
+Graphics Engine
+NVIDIA GeForce GTX 980
+GPU Clock
+1178 MHz
+Processors and Cores
+2048 CUDA Cores
+Bus Standard
+PCI Express 3.0
+Cooling and Heatsink
+Fan: 2, Heatpipe
+Memory
+256-bit, 4 GB GDDR5 Memory with 7010 MHz
+Maximum Resolution
+-
+
+CONNECTIVITY
+DVI and HDMI Interface
+1 x DVI Output Out, 1 x HDMI Output Out
+Other Interface
+3 x Display Port Out, 1 x DVI-I, 1 x HDMI 2.0
+HD Content Support
+HDCP Support
+
+PHYSICAL DIMENSIONS
+Dimensions
+288.6 x 40.9 x 134.4 mm
+
+ADDITIONAL FEATURES
+Other Features
+Software Included: Asus GPU Tweak and Driver; HD Content Support: HDCP Support; Graphics Technologies Supported; 3D Support; 3D Mark Fire Strike Extreme: 27242 Marks at 1850/2093 MHz; 3D Mark Vantage Performance: 112312 Marks at 1900/2093 MHz; 3D Mark Fire Strike: 39862 Marks at 1850/2093 MHz; DirectCU II with 0 dB Fan Technology Enjoy Light Games in Complete Silence and Hardcore Gaming 30% Cooler with 3X-quieter Performance, Reliability and Performance, Voltages; GPU Tweak Streaming On-screen Action in Real Time; GPU Boost Clock: 1279, DIGI+VRM with 10-phase Super Alloy Power Delivers Precise Digital Power for Superior Efficiency; GPU Tweak Helps Modify Clock Speeds, 3D Mark11 Performance: 50569 Marks at 1820/2093 MHz
+
+Warranty
+Period
+3 Years Manufacturer Warranty
+Useful Links
+_____________________
+
+"Graphics Card Buying Guide"
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Palit Nvidia Geforce 210 1 Gb Ddr3  G...
+ -> 
+Highlights
+_____________________
+1 Year Warranty
+Brand : Palit
+Type : Graphic Cards
+SUPC: SDL039395716
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Manual and CD Driver
+
+GENERAL
+Brand
+Palit
+Model
+GeForce 210
+Type
+Graphic Cards
+
+SPECIFICATIONS
+Graphics Engine
+NVIDIA GeForce 210
+GPU Clock
+589 MHz
+Processors and Cores
+16 CUDA Cores
+Bus Standard
+PCI-Express 2.0 x 16
+Cooling and Heatsink
+Fan: 1
+Memory
+64-bit, 1 GB DDR3 Memory with 500 MHz
+Maximum Resolution
+2560 x 1600 (Digital), 2048 x 1536 (Analog)
+
+CONNECTIVITY
+DVI and HDMI Interface
+Dual Link DVI Out, 1 x HDMI Output Out
+Other Interface
+1 x VGA DSub Output
+
+SYSTEM REQUIREMENTS
+Supported OS
+Windows 7 and 8
+
+PHYSICAL DIMENSIONS
+Dimensions
+(H x W): 145 x 69 mm
+
+ADDITIONAL FEATURES
+Other Features
+Shader Version 4.1, 300 W Power Supply Required, Memory Bandwidth: 8 GB/sec, HD Content Support: HDCP Support, Software Included: Driver CD, NVIDIA CUDA Technology, NVIDIA PureVideo HD Technology
+
+Warranty
+Period
+3 Years Manufacturer Warranty
+Useful Links
+_____________________
+
+"Graphics Card Buying Guide"
+Terms & Conditions
+_____________________
+ -------------------------------------------
+ZOTAC NVIDIA GeForce GTX 980 4GB DDR5...
+ -> 
+Highlights
+_____________________
+Capacity : 4 GB
+Type : DDR5
+SUPC: SDL024856211
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, DVI-to-VGA adapter, 2 x Dual MOLEX-to-6-pin, PCIe adapter, Driver Disk, User Manual
+
+GENERAL
+Brand
+ZOTAC
+Series
+GeForce 900
+Model
+ZT-90204-10P
+Type
+Graphics Cards
+Colour
+Grey & Orange
+
+SPECIFICATIONS
+Graphics Engine
+NVIDIA GeForce GTX 980
+GPU Clock
+1165 MHz (base), 1266 MHz (boost)
+Processors and Cores
+Cores: 2048
+Bus Standard
+PCI Express 3.0 x16 (Compatible with 1.1)
+Cooling and Heatsink
+Cooler: Triple fan cooler
+Maximum Resolution
+4K
+
+MEMORY
+Memory Clock
+7010 MHz
+Memory Size
+4 GB
+Memory Interface
+256-bit
+Memory Type
+GDDR5
+
+CONNECTIVITY
+DVI and HDMI Interface
+DVI: 1 (2560 x 1600), HDMI: 1 (4K at 60 Hz)
+Other Interface
+Display Port: 3 (4K at 60 Hz), VGA with included adapter
+
+SYSTEM REQUIREMENTS
+Supported OS
+Certified for Windows 8/7/Vista
+
+ADDITIONAL FEATURES
+Other Features
+3D API - DirectX: DirectX 12, OpenGL: OpenGL 4.4; RAMDAC: 400 MHz; RoHS Compliant; SLI Supported; Dual-Link DVI Supported; HD Audio
+Useful Links
+_____________________
+
+"Graphics Card Buying Guide"
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Gigabyte GTX780 GDDR5 3GB OC Graphics...
+ -> 
+Highlights
+_____________________
+Capacity : 3 GB
+Type : DDR5
+SUPC: SDL080159173
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit
+
+GENERAL
+Brand
+Gigabyte
+Series
+NVIDIA
+Model
+GV-N780OC-3GD
+Type
+Graphics Card
+Colour
+Black
+
+SPECIFICATIONS
+GPU Clock
+Core Clock - Base/Boost clock: 954/1006 MHz
+Memory Clock
+6008 MHz
+Chipset
+GeForce GTX 780
+Process Technology
+28 nm
+DirectX
+11.2
+OpenGL
+4.4
+PCB Form
+ATX
+Multi-view
+4
+Bus Standard
+Memory Bus: 384 bit, Card Bus: PCI-E 3.0
+Cooling and Heatsink
+WINDFORCE 3X 2 Slot 450 Watts Cooling system
+Memory Size
+3 GB
+Memory Type
+GDDR5
+Maximum Resolution
+Digital: 4096 x 2160 (via a single HDMI connector and not supported with two DVI connectors), Analog: 2048 x 1536
+
+CONNECTIVITY
+DVI and HDMI Interface
+Dual-link 1 x DVI-I, 1 x DVI-D, 1 x HDMI
+Other Interface
+1 x 6-pin and 1 x 8-pin external power connectors, 1 x Display Port
+
+POWER
+Power Comsumption
+600 Watts
+
+PHYSICAL DIMENSIONS
+Dimensions
+(L x W x H): 292 x 129 x 43 mm
+
+ADDITIONAL FEATURES
+Other Features
+OC GURU ll; Up to 4 displays on a Single Card
+Useful Links
+_____________________
+
+"Graphics Card Buying Guide"
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Asus NVIDIA GT630-2GD3 PCI  Express 2...
+ -> 
+Highlights
+_____________________
+3 Years Warranty
+Super Alloy Power
+Dust-proof Fan
+GPU Tweak
+Powered by NVIDIA GeForce GT 630
+NVIDIA PhysX
+Microsoft DirectX 11.1 API (feature level 11_0)
+NVIDIA CUDA
+NVIDIA 3D Vision
+Microsoft Windows 7 Compatible
+SUPC: SDL912486309
+Technical Specification
+_____________________
+
+Warranty
+Period
+3 Years Warranty
+
+IN THE BOX
+Sales Package
+Main Unit, Support DVD, Setup Guide
+
+GENERAL
+Brand
+Asus
+Model
+GT 630
+Type
+Graphics Card
+
+SPECIFICATIONS
+Graphics Engine
+NVIDIA GeForce GT 630
+GPU Clock
+Engine Clock: 810 MHz
+Processors and Cores
+96 CUDA Cores
+Bus Standard
+PCI Express 2.0
+Cooling and Heatsink
+Active (1 x Fan)
+Maximum Resolution
+Digital resolution: 2560 x 1600 (DVI) (Max), VGA (Analog) resolution: 2048 x 1536 (Max)
+Form factor
+ATX
+Video
+Physx, Pure Video
+
+MEMORY
+Memory Capacity
+2 GB
+Memory Type
+DDR3
+Memory Architecture
+128-bit
+Memory Clock
+1800 MHz (900 MHz DDR3)
+Memory Bandwidth(GB/Sec)
+-
+
+CONNECTIVITY
+DVI and HDMI Interface
+1 x DVI-l, 1 x HDMI
+Other Connectors
+1 x D-Sub
+
+SYSTEM REQUIREMENTS
+Supported OS
+Windows XP, Vista, 7, 8, 8.1
+Other System Requirements
+-
+
+PHYSICAL DIMENSIONS
+Dimensions
+Length: 7.6 inches, Dual Slot Width
+Weight
+-
+
+POWER
+Graphics card Power
+75 Watts
+Power Supply Recommended
+450 Watts (min)
+
+ADDITIONAL FEATURES
+Other Features
+Direct X 11.0; Open GL 4.2; Multi Monitor; HDCP capable; Audio over HDMI; Super Alloy Power; Dust-Proof Fan; GPU Tweak; 3D Vision
+
+Warranty
+Period
+-
+Description
+_____________________
+Take your gaming experience to the next level with Asus GT630-2GD3 NVIDIA PCI Express Graphic Card. The
+The graphics card features
+NVIDIA PhysX
+lets you play games with advanced effects such as blazing explosions and lifelike characters.
+The graphics card is
+Useful Links
+_____________________
+
+"Graphics Card Buying Guide"
+Terms & Conditions
+_____________________
+ -------------------------------------------
+ZOTAC NVIDIA GeForce GTX 750  Ti (ZT-...
+ -> 
+Highlights
+_____________________
+2 Year Warranty
+Brand : ZOTAC
+SUPC: SDL166572272
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, DVI to VGA Adapter, 6 Pin Power cable (PCI-E) x 1, Driver Disc, manual, Boost Premium
+
+GENERAL
+Brand
+Zotac
+Model
+GTX 750 Ti
+Type
+Graphics Card
+
+SPECIFICATIONS
+Graphics Engine
+NVIDIA GeForce GTX 750 Ti
+GPU Clock
+Base clock: 1033 MHz, Boost clock: 1111 MHz
+Processors and Cores
+640 CUDA Cores
+Bus Standard
+PCI Express 3.0 x16 (compatible with 1.1)
+Cooling and Heatsink
+Fansink
+Maximum Resolution
+Digital resolution: 4096 x 2160 (Max), VGA (Analog) resolution: 2048 x 1536 (Max)
+Form factor
+ATX
+Video
+Physx, G-sync, Shadowplay, SLI, Dx 11, 4K, Game streaming, 3D vision
+
+MEMORY
+Memory Capacity
+2 GB
+Memory Type
+GDDR5
+Memory Architecture
+128-bit
+Memory Clock
+5004 MHz
+Memory Bandwidth(GB/Sec)
+86.4 GB/sec
+
+CONNECTIVITY
+DVI and HDMI Interface
+Dual DVI, Mini HDMI
+Other Connectors
+-
+
+SYSTEM REQUIREMENTS
+Supported OS
+Windows XP, Vista, 7, 8, 8.1 and Linux
+Other System Requirements
+-
+
+PHYSICAL DIMENSIONS
+Dimensions
+Length: 5.7 inches, Dual Slot Width
+Weight
+-
+
+POWER
+Graphics card Power
+71 Watts (Approx)
+Power Supply Recommended
+400 Watts
+
+ADDITIONAL FEATURES
+Other Features
+Direct X 11.0 (11.2 via API); Open GL 4.4; Multi Monitor; HDCP capable; Audio over HDMI; CUDA; PhysX; Geforce Experience; GPU Boost 2.0; FXAA/TXAA; 3D Vision; NVIDIA Surround; Adaptive Vsync; Shadow Play; Game streaming to NVIDIA Shield; Additional Power connector requirement: One 6 pin
+
+Warranty
+Period
+-
+Useful Links
+_____________________
+
+"Graphics Card Buying Guide"
+Terms & Conditions
+_____________________

@@ -1,0 +1,562 @@
+
+ -------------------------------------------
+Lapcare Data Cards
+ -> 
+Highlights
+_____________________
+Warranty : 1 Year Manufacturer Warranty
+Memory : 32 GB
+Network : WCDMA
+Color : Black
+Wi-Fi Enabled : Yes
+Download Speed : 7.2 Mbps
+SUPC: SDL797046068
+Technical Specification
+_____________________
+
+Warranty
+Period
+1 Year
+
+In the Box
+Box Contents
+User Manual, Main Unit
+
+General
+Colour
+White
+Model
+3G 200
+Brand
+Lapcare
+
+System Requirements
+Software
+Plug and Play
+
+Modem
+Network Type
+HSDPA
+SIM or UIM Support
+UIM
+Wi-Fi Enabled
+Hard Wifi
+
+Connectivity Speed
+HSDPA (Download Speed)
+14.4 mbps
+HSUPA (Upload Speed)
+5.76 mbps
+UMTS
+3G mbps
+
+Bandwidth
+UMTS
+2100 mhz
+GSM (EDGE/GPRS)
+1900 mhz
+
+Memory Support
+Memory Card Support
+Yes
+Memory Capacity
+32 gb
+
+Additional Features
+External Interface
+USB 2.0
+Indicator
+LED
+Voice Support
+Yes
+Phonebook Support
+Yes
+Setup Installation
+Auto
+Antenna Type
+Internal
+SMS Support
+Yes
+Other Features
+APN Auto Management Supported
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Huawei Power-Fi E8221 Data Card (Black)
+ -> 
+Highlights
+_____________________
+1 Year Warranty
+HSDPA 14.4Mbps Download Speed
+Create Wi-Fi hotspot and connect upto 10 devices
+Windows 8 compatibility
+SUPC: SDL788674866
+Technical Specification
+_____________________
+
+Specifications
+Brand
+Huawei
+Model
+E8221
+Color
+Black
+
+MODEM
+Network Type
+GSM
+
+CONNECTIVITY SPEED
+HSDPA
+14.4 Mbps
+
+ADDITIONAL FEATURES
+External Interface
+USB 2.0
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+TATA DOCOMO Data Cards
+ -> 
+Highlights
+_____________________
+Warranty : 1 Year
+Memory : 16 GB
+Network : CDMA
+Color : Black
+Wi-Fi Enabled : Yes
+Download Speed : 7.2 Mbps
+SUPC: SDL278371772
+Technical Specification
+_____________________
+
+SPECIFICATIONS
+Brand
+TATA DOCOMO
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Digisol Data Cards
+ -> 
+Highlights
+_____________________
+Warranty : 3
+Memory : Upto 32 GB
+Network : GSM
+EDGE
+UMTS
+Color : white
+Wi-Fi Enabled : No
+Download Speed : 3.2 mbps
+SUPC: SDL492085886
+Technical Specification
+_____________________
+
+SPECIFICATIONS
+Brand
+Digisol
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+iBall Airway Data Card 21 Mbps
+ -> 
+Highlights
+_____________________
+Warranty : 1 Year Manufacturer Warranty
+Data Card Network : GSM
+Product Sim : 3G
+Wi-Fi Enabled Product : Yes
+Data Card Download Speed : 21.0Mbps
+Data Card Upload Speed : 5.76 Mbps
+Color : White
+SUPC: SDL094896954
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Digisol Data Cards
+ -> 
+Highlights
+_____________________
+Warranty : 12 Months
+Memory : 32 GB
+Network : HSDPA
+Color : White
+Wi-Fi Enabled : Yes
+Download Speed : 7.2 Mbps
+SUPC: SDL839319302
+Technical Specification
+_____________________
+
+SPECIFICATIONS
+Brand
+Digisol
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Digisol DG-BA3314 Data Card
+ -> 
+Highlights
+_____________________
+Warranty : 3 Years Manufacturer Warranty
+Memory : 32 GB
+Network : GSM
+Color : White & Red
+Download Speed : 14.4 Mbps
+SUPC: SDL069390028
+Technical Specification
+_____________________
+
+Warranty
+Period
+3 Years
+
+In the Box
+Box Contents
+User Manual, Main Unit
+
+General
+Colour
+White
+Model
+DG-BA3314
+Brand
+Digisol
+
+System Requirements
+Software
+Plug and play (auto Install)
+
+Modem
+Network Type
+GSM, EDGE, UMTS
+SIM or UIM Support
+Sim
+Wi-Fi Enabled
+Soft Wifi
+
+Connectivity Speed
+HSDPA (Download Speed)
+14.4 mbps
+HSUPA (Upload Speed)
+5.76 mbps
+UMTS
+3G mbps
+
+Bandwidth
+UMTS
+2100 mhz
+GSM (EDGE/GPRS)
+1900 mhz
+
+Memory Support
+Memory Card Support
+Yes
+Memory Capacity
+32 gb
+
+Additional Features
+External Interface
+Standard USB 2.0
+Indicator
+LED
+Voice Support
+yes
+Phonebook Support
+Yes
+Setup Installation
+Auto
+Antenna Type
+Internal monopole antenna
+SMS Support
+Yes
+Other Features
+APN Auto Management Supported
+
+Size & Weight
+Height
+85.5 mm
+Width
+25 mm
+Depth
+8.9 mm
+Weight
+22 grams
+Terms & Conditions
+_____________________
+ -------------------------------------------
+D-Link DWP-156 14.4 Mbps Data Card
+ -> 
+Highlights
+_____________________
+3 Year Warranty
+Convient Design
+Global Mobile Broadband
+SMS Manager
+Voice Call Support
+SUPC: SDL691216466
+Technical Specification
+_____________________
+
+Specifications
+Model
+DWP-156 14.4 Mbps
+Part Number
+DWP-156
+Form Factor
+USB Dongle
+
+System Requirements
+Operating System
+Windows XP and Above, Mac OS X 10.4 and Above
+Other System Requirements
+Intel or AMD CPU 500 MHz or Higher, 128 MB RAM or Greater, 50 MB Available Disk Space, Internet Explorer v6.0 and Above, Firefox v1.5 and Above
+
+Modem
+SIM or UIM Support
+Standard 6-Pin SIM card Interface
+Network Type
+GSM, EDGE, GPRS, UMTS, HSUPA
+
+Connectivity Speed
+HSDPA
+14.4 Mbps
+
+Bandwidth
+UMTS(3G)
+850 MHz, 900 MHz, 1900 MHz, 2100 MHz
+GSM (EDGE/GPRS)
+850 MHz, 900 MHz, 1800 MHz, 1900 MHz
+
+Memory Support
+Memory Card Support Slot
+microSD Card
+Memory Capacity
+32 GB
+
+Additional Features
+External Interface
+USB 2.0
+Indicator
+LED
+Voice Support
+Call Support
+Antannae Type
+Internal Monopole Antenna
+Phone Book Support
+Yes
+Setup Installation
+Plug and Auto Installation
+SMS Support
+Yes
+Other Features
+CE, FC Certifications
+
+Dimensions
+Width
+25 mm
+Height
+11 mm
+Depth
+85 mm
+
+Warranty
+Period
+3 Year Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Digisol Data Cards
+ -> 
+Highlights
+_____________________
+Warranty : 1 Year Manufacturer Warranty
+Memory : 4 GB
+Network : 3G
+Color : White
+Wi-Fi Enabled : No
+Download Speed : 21.4 Mbps
+SUPC: SDL020300012
+Technical Specification
+_____________________
+
+Warranty
+Period
+3 Years
+
+In the Box
+Box Contents
+User Manual, Main Unit
+
+General
+Colour
+White
+Model
+DG-BA3314
+Brand
+Digisol
+
+System Requirements
+Software
+Plug and Play (auto install)
+
+Modem
+Network Type
+GSM, EDGE, UMTS
+SIM or UIM Support
+Sim
+
+Connectivity Speed
+HSDPA (Download Speed)
+14.4 mbps
+HSUPA (Upload Speed)
+5.76 mbps
+UMTS
+3G mbps
+
+Bandwidth
+UMTS
+2100 mhz
+GSM (EDGE/GPRS)
+1900 mhz
+
+Memory Support
+Memory Card Support
+Yes
+Memory Capacity
+32 gb
+
+Additional Features
+External Interface
+USB 2.0
+Indicator
+LED
+Voice Support
+Yes
+Phonebook Support
+Yes
+Setup Installation
+Auto
+Antenna Type
+Internal
+SMS Support
+Yes
+Other Features
+APN Auto Management Supported
+
+Size & Weight
+Height
+80 mm
+Width
+25 mm
+Depth
+10.5 mm
+Weight
+22 grams
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+MTS Mblaze Ultra AC2792 Data Card with 10GB Data
+ -> 
+Highlights
+_____________________
+Warranty : 1 Year Manufacturer Warranty
+Memory : 32 GB
+Network : 3G
+Customer has to recharge with FRC of INR 1 to avail the offer of 10GB Data. T&C apply
+SUPC: SDL589003129
+Technical Specification
+_____________________
+
+GENERAL
+Model
+AC2792
+Brand
+MTS
+Form Factor
+-
+Color
+-
+In The Box
+Main Unit
+
+SYSTEM REQUIREMENTS
+Operating System
+Windows XP (32/64), VISTA (32/64), Windows 7(32/64), Windows 8(32/64)- Classic View; Mac 10.5X, 10.6X, 10.7X, 10.8.0; Ubuntu 13.04,12.042,12.10; Fedora 14/15/16/17; OpenSuse 12.2/12.1/11.4; Debian 5.0/6.0; Mandriva 2011, 2012.02; Red Flag 7.0
+
+MODEM
+SIM or UIM Support (2G/3G)
+3G Plus
+Network Type
+3G
+Wi-Fi enabled
+-
+
+CONNECTIVITY SPEED
+HSDPA (Download Speed)
+-
+HSUPA (Upload Speed)
+-
+UMTS (3G)
+Upto 9.8 Mbps
+
+BANDWIDTH
+UMTS (3G)
+-
+GSM (EDGE/GPRS)
+-
+CDMA (Evdo)
+800 MHz
+
+MEMORY SUPPORT
+Memory Card Support Slot
+Micro SD card
+Memory Capacity
+Up to 32 GB
+
+ADDITIONAL FEATURES
+External Interface
+-
+Indicator
+-
+Voice Support
+-
+Phone Book Support
+-
+Setup Installation
+-
+Antennae Type
+-
+SMS Support
+-
+Power Supply
+-
+Other Features
+Onboard Apps
+
+SIZE & WEIGHT
+Dimensions (W x D x H)
+-
+Weight
+35 g
+
+WARRANTY
+Period
+1 Year Manufacturer Warranty
+Terms & Conditions
+_____________________

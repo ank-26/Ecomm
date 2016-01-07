@@ -1,0 +1,835 @@
+
+ -------------------------------------------
+TRANSCEND TS128GSSD 370 128GB SSD(Sol...
+ -> 
+Highlights
+_____________________
+Capacity Gb : 128 GB
+Features : Save Power, Fast Response, Ultra-slim, Ultra-portable, Reliable, S.M.A.R.T to monitor health status, Enhances Battery Life
+SUPC: SDL590202825
+Technical Specification
+_____________________
+
+PACKAGE CONTENTS
+Contents
+Main unit
+
+GENERAL
+Brand
+Transcend
+Model
+TS128GSSD370
+Type
+SSD
+Colour
+Black
+
+SPECIFICATIONS
+Capacity
+128 GB
+Storage Media
+Synchronous MLC NAND Flash memory
+Certificates
+CE, FCC, BSMI
+
+POWER
+Operating Voltage
+DC 5V
+Operating Temperature
+0 Degree Celsius to 70 Degree Celsius
+
+PHYSICAL SPECIFICATIONS
+Dimensions
+99.8 x 69.8 x 7 mm
+Weight
+52 g
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+WESTERN DIGITAL Scorpio Blue 320 GB 3...
+ -> 
+Highlights
+_____________________
+2 Years Warranty
+320 GB storage capacity
+Solid performance
+SATA hard drive for Desktops only
+5400 RPM
+Up to 3 Gbps transfer rate
+SUPC: 1275596
+Technical Specification
+_____________________
+
+Warranty
+Period
+2-year limited warranty
+
+GENERAL
+Brand
+Western Digital
+Type
+Desktop SATA Hard Drives
+Model
+Blue
+
+PHYSICAL SPECIFICATIONS
+Interface
+SATA 3 Gb/s
+Capacity
+320 GB
+
+PERFORMANCE SPECIFICATIONS
+Transfer Rate
+3 Gb/s (Max)
+Rotational Speed
+5,400 RPM (nominal)
+Buffer Size
+8 MB
+
+ENVIRONMENTAL SPECIFICATIONS
+Operating Temperature
+minus 0 C to 60 C
+Non-operating Temperature
+minus 40 C to 65 C
+
+ELECTRICAL SPECIFICATIONS
+Read/Write
+1.4 Watts
+Idle
+0.55 Watts
+Standby
+0.13 Watts
+Sleep
+0.13 Watts
+
+DIMENSIONS
+Size
+6.8 mm x 100.2 mm x 69.85 mm
+Weight
+0.09 kg
+
+WARRANTY
+Period
+2-year limited warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+TRANSCEND TS256GSSD 370 256GB SSD(Sol...
+ -> 
+Highlights
+_____________________
+Capacity Gb : 256GB
+External Power : No
+Warranty : 3 years
+Connectivity : USB 3.0
+Features : Transcend 370 series SSD is faster than 340 series and get better performance.Size 99.8mm x 69.8mm x 7mm Weight 52g Storage Media Synchronous MLC NAND Flash memory Operating Voltage DC 5V Controller TS6500
+Performance : Seq Read/Write 550MB/s 470MB/s, Max 4k random file read /write 75000 /75000 IOPS
+SUPC: SDL208157586
+Technical Specification
+_____________________
+
+In The Box
+Sales Package
+includes bracket
+
+General
+Brand
+Transcend
+Model ID
+TS256GSSD370
+OS Compatibility
+Windows series:Microsoft Windows 8Microsoft Windows 7Microsoft Windows XPMicrosoft Windows VistaetcLinux series:Fedora 13Ubuntu 9.10Solaris 10etcEmbedded system:WinXP EmbeddedWinCEetcMac OS 10.4 or later DOS
+Series
+370
+
+Drive Configuration
+Device
+SSD
+Device Type
+Sata III 6gb/s
+Drive Capacity
+256GB
+Spin Speed
+no spin-ssd
+Interface
+SATA III
+Cache Memory
+SSD
+Transfer Rate
+75000 IOPS
+I/O Transfer Rate
+75000 IOPS read/write both
+Average Latency
+75000 IOPS
+Average Seek Time
+75000 IOPS
+Non-recoverable Read Error
+75000 IOPS
+Reliability
+high
+
+Power
+Standard Input Voltage
+sata III
+Maximum Start Current
+5V DC
+Power Consumption
+less than watt
+
+Operating Conditions
+Operating Temperature
+85 to -40 deg
+Non-Operating Temperature
+above 85 deg
+Operating Humidity
+85 to -40 deg
+Non-Operating Humidity
+above 85 deg
+Shock Tolerance
+mobile
+
+Dimensions
+Dimensions
+99.8mm x 69.8mm x 7mm
+
+Warranty
+Warranty Type
+Worldwide
+Warranty Summary
+3 Years
+Covered in Warranty
+3 years
+Not Covered in Warranty
+Bracket
+Service Type
+available
+Domestic Term
+Yes
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+SEAGATE SATA 3 TB (ST3000VX000)
+ -> 
+Highlights
+_____________________
+3 Year Brand Warranty
+Capacity Gb : 3 TB
+Warranty : 3 Years Manufacturer Warranty
+SUPC: SDL754897075
+Technical Specification
+_____________________
+
+GENERAL
+Brand
+Seagate
+Model ID
+ST3000VX000
+Type
+Internal Hard Drives
+
+DRIVE CONFIGURATION
+Compatible
+Desktop
+Device Type
+3.5 inch HDD
+Drive Capacity
+3 TB
+Spin Speed
+7200 RPM
+Interface
+SATA 6 Gb/s
+Cache Memory
+64 MB
+Transfer Rate
+Average Data Rate read/write (MB/s): 156, Max Sustained Data Rate; OD read; (MB/s): 210
+Reliability
+300000 (Load/Unload Cycles); Non-recoverable Read Errors per Bits Read, Max 1 per 10 to the power 14; MTBF (hours) 1Million, Annualised Failure Rate (AFR)
+
+POWER REQUIREMENT
+Standard Input Voltage
+12 V and 5 V
+Maximum Start Current
+2 Ampere
+Power Consumption
+8 W
+
+OPERATING CONDITIONS
+Operating Temperature
+0 to 60 Degree Celsius
+Non-Operating Temperature
+-40 to 70 Degree Celsius
+
+ADDITIONAL FEATURES
+Features
+SATA transfer rate: 6.0/3.0/1.5 Gbps, Seek Average; Read (ms):
+
+PHYSICAL SPECIFICATIONS
+Dimensions (W x D x H)
+101.6 x 146.99 x 26.1 mm
+Weight
+626 g
+
+WARRANTY
+Period
+3 Years Manufacturer Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+WESTERN DIGITAL  Caviar Black (WESTER...
+ -> 
+Highlights
+_____________________
+2 Years Warranty
+Dual processor to maximise performance
+Dual processor to maximise performance
+Ideal for power computing applications such as multimedia, video and photo editing, and maxed out gaming computers
+Easy to install
+Compatible with Desktops only
+SUPC: 1244623
+Technical Specification
+_____________________
+
+Product Specifications
+Interface
+SATA 6 Gb/s
+
+Performance Specifications
+Rotational Speed
+7,200 RPM (nominal)
+Buffer Size
+64 MB
+Average Latency
+4.20 ms (nominal)
+Load/unload Cycles
+300,000 minimum
+
+Transfer Rates
+Buffer To Host (Serial ATA)
+6 Gb/s (Max)
+
+Physical Specifications
+Formatted Capacity
+2,000,398 MB
+Capacity
+2 TB
+User Sectors Per Drive
+3907029168
+
+Physical Dimensions
+Height
+1.028 Inches
+Depth
+5.787 Inches
+Width
+4.00 Inches
+Weight
+1.66 Pounds
+
+Metric
+Height
+26.1 mm
+Depth
+147 mm
+Width
+101.6 mm
+Weight
+0.75 kg
+
+Environmental Specifications
+Operating Shock (Read)
+30G, 2 ms
+Non-operating Shock
+300G, 2 ms
+
+Acoustics
+Idle Mode
+29 dBA (average)
+Seek Mode 0
+34 dBA (average)
+Seek Mode 3
+30 dBA (average)
+
+Temperature (English)
+Operating
+32 F to 140 F
+Non-operating
+minus40 F to 158 F
+
+Temperature (Metric)
+Operating
+minus0 C to 60 C
+Non-operating
+minus40 C to 70 C
+
+Electrical Specifications
+Power Dissipation
+-
+Read/Write
+10.70 Watts
+Idle
+8.20 Watts
+Standby
+1.30 Watts
+Sleep
+1.30 Watts
+
+Warranty
+Period
+2 Year Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Samsung Mz-7ke128bw Laptop Hard Drive...
+ -> 
+Highlights
+_____________________
+Capacity Gb : 128GB
+Warranty : 10 Years
+Connectivity : SATA
+SUPC: SDL972349245
+Technical Specification
+_____________________
+
+In The Box
+Sales Package
+
+
+General
+Brand
+Samsung
+Model ID
+MZ-7KE128BW
+OS Compatibility
+
+Series
+850 Pro
+
+Drive Configuration
+Device
+Laptop
+Device Type
+
+Drive Capacity
+
+Spin Speed
+
+Interface
+SATA
+Cache Memory
+
+Transfer Rate
+Max Sequential Read : Up to 550 MBPS / Max Sequential Write : Up to 470 MBPS
+I/O Transfer Rate
+
+Average Latency
+
+Average Seek Time
+
+Non-recoverable Read Error
+
+Reliability
+
+
+Power
+Standard Input Voltage
+
+Maximum Start Current
+
+Power Consumption
+
+
+Operating Conditions
+Operating Temperature
+
+Non-Operating Temperature
+
+Operating Humidity
+
+Non-Operating Humidity
+
+Shock Tolerance
+
+
+Dimensions
+Dimensions
+
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Samsung Mz-7ke256bw Laptop Hard Drive...
+ -> 
+Highlights
+_____________________
+Capacity Gb : 256GB
+Warranty : 10 Years
+Connectivity : SATA
+SUPC: SDL974518164
+Technical Specification
+_____________________
+
+In The Box
+Sales Package
+
+
+General
+Brand
+Samsung
+Model ID
+MZ-7KE256BW
+OS Compatibility
+
+Series
+850 Pro
+
+Drive Configuration
+Device
+Laptop
+Device Type
+
+Drive Capacity
+
+Spin Speed
+
+Interface
+SATA
+Cache Memory
+
+Transfer Rate
+Max Sequential Read : Up to 550 MBPS / Max Sequential Write : Up to 520 MBPS
+I/O Transfer Rate
+
+Average Latency
+
+Average Seek Time
+
+Non-recoverable Read Error
+
+Reliability
+
+
+Power
+Standard Input Voltage
+
+Maximum Start Current
+
+Power Consumption
+
+
+Operating Conditions
+Operating Temperature
+
+Non-Operating Temperature
+
+Operating Humidity
+
+Non-Operating Humidity
+
+Shock Tolerance
+
+
+Dimensions
+Dimensions
+
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+WESTERN DIGITAL  2 TB enterprise sata...
+ -> 
+Highlights
+_____________________
+2 Years Warranty
+2 TB Capacity
+3.5 Inch Form Factor
+7200RPM Rotational Speed
+6Gbps Transfer Rate
+Upto 1.4 Million Hour MBTF
+Enhanced RAFF Technology Vibration Protection
+Dual Actuator Technology
+RoHS Compliant
+Self Encryption Option
+StableTrac Technology
+SUPC: SDL243286227
+Technical Specification
+_____________________
+
+Warranty
+Period
+1 Year Manufacturer Warranty
+
+General Specifications
+Model Number
+WD2000FYYZ
+Interface
+SATA 6 Gb/s
+Formatted Capacity
+2 TB
+User Sectors per Drive
+3,907,029,168
+Native Command Queuing
+Yes
+Form Factor
+3.5-inch
+RoHS Compliant
+Yes
+
+Performance
+Data Transfer Rate (Buffer to Host)
+6Gbps
+Host To/From Drive
+164MBps
+Cache
+64MB
+Rotational Speed
+7200RPM
+
+Reliability/Data Integrity
+Load/Unload Cycles
+600000
+Non-Recoverable Read Errors per Bits Read
+Less than 10 in 10^16
+MBTF
+1,200,000 Hours
+AFR
+0.73 Per Cent
+
+Power Management
+Sequential Read
+8.1W
+Sequential Write
+7.7W
+Random Read/Write
+9W
+Idle
+6.4W
+
+Environmental Specifications
+Operating Temperature
+5 Degree Celsius to 55 Degree Celsius
+Non-Operating Temperature
+-40 Degree Celsius to 70 Degree Celsius
+Operating Shock (2ms Read/Write)
+30G
+Operating Shock (2ms Read)
+65G
+Non-Operating Shock (2ms)
+300G
+Acoustics (Idle)
+31dBA
+Acoustics (Seek)
+34dBA
+
+Physical Dimensions
+Height
+26.1mm
+Length
+147mm
+Width
+101.6mm
+Weight
+0.70Kg
+Terms & Conditions
+_____________________
+ -------------------------------------------
+WESTERN DIGITAL  2 TB sata cavier black
+ -> 
+Highlights
+_____________________
+2 Years Warranty
+2TB Capacity
+3.5 Inch Form Factor
+SATA 6.0Gbps Interface
+64MB Cache Memory
+7200RPM Spin Speed
+Low Power Consumption
+Very High Shock Tolerance
+NoTouch Ramp Load Technology
+Dual Actuator Technology
+RoHS Compliant
+S.M.A.R.T System Compliant
+CE Compliant
+SUPC: SDL239444755
+Technical Specification
+_____________________
+
+Warranty
+Period
+1 Year Manufacturer Warranty
+
+Drive Configuration
+Device
+Desktop
+Device Type
+3.5 Inch HDD
+Drive Capacity
+2TB
+Interface
+SATA 6.0Gbps
+Cache Memory
+64MB
+Spin Speed
+7200rpm
+Transfer Rate
+138Mbps
+Data Transfer Rate (To/From Host)
+6144Mbps
+Average Latency
+4.2ms
+Non-recoverable Read Error
+1 per 10^14
+Reliability
+300000 (Load/Unload Cycles)
+
+Power
+Idle
+8.2W
+Power Consumption
+10.7 W (Read/Write), 1.3 W (Standby/Sleep)
+
+Operating Conditions
+Operating Temperature
+0DegC to 60DegC
+Non-Operating Temperature
+-40DegC to 70DegC
+Shock Tolerance
+30 G for 2 ms (Operating), 300 G for 2 ms (Non-Operating)
+
+Other Features
+IntelliPower
+Yes
+NoTouch Ramp Load Technology
+Yes
+Dual Actuator Technology
+Yes
+S.M.A.R.T System Compliant
+Yes
+Formatted Capacity
+2,000,398 MB
+Average Drive Ready Time
+21 Seconds
+
+Dimensions
+Size
+101.6 x 26.1 x 147 mm
+Weight
+750g
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Kingston V300 240 GB Desktop, Laptop ...
+ -> 
+Highlights
+_____________________
+3 Year Warranty
+Product Type : Internal Hard Drive
+Capacity Gb : 240 GB
+Color : Grey
+Warranty : 3 Year Manufacturer Warranty
+Connectivity : SATA Rev. 3.0 (6 Gb/s) with backwards compatibility to SATA
+SUPC: SDL411982115
+Technical Specification
+_____________________
+
+Warranty
+Period
+3 Year Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+WESTERN DIGITAL 20EFRX 2 TB Red SATA ...
+ -> 
+Highlights
+_____________________
+Capacity Gb : 2 TB, Formatted Capacity: 2000398 MB
+External Power : Yes
+Warranty : 3 Years Manufacturer Warranty
+Features : Rotational Speed: IntelliPower; User Sectors Per Drive: 3907029168; Vibration - Operating: 0.004 g Square/Hz (10 to 300 Hz)
+Non-operating: 0.05 g Square/Hz (10 to 300 Hz), Operating Linear: 20 - 300 Hz, 0.75 G (0 to peak)
+SUPC: SDL167363584
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit
+
+GENERAL
+Brand
+Western Digital
+Model ID
+WD20EFRX
+Series
+Red
+Type
+Internal Hard Drive
+
+DRIVE CONFIGURATION
+Compatible
+Windows/Mac/Linux
+Device Type
+3.5 inch HDD
+Drive Capacity
+2 TB, Formatted Capacity: 2000398 MB
+Spin Speed
+-
+Interface
+SATA 6 Gb/s
+Cache Memory
+64 MB
+Transfer Rate
+Buffer To Host (Serial ATA): 6 Gb/s (Max)
+Reliability
+MTBF: 1000000 Hours
+Acoustics Noise
+Idle Mode: 23 dB (A) (Average), Seek Mode (0): 24 dB (A) (Average)
+
+POWER REQUIREMENT
+Standard Input Voltage
+-
+Current Requirements
+12 V DC - Read/Write: 250 mA, Idle: 230 mA, Standby: 7 mA, Sleep: 7 mA; 5 V DC - Read/Write: 280 mA, Idle: 260 mA, Standby: 105 mA, Sleep: 105 mA
+Power Consumption
+Read/Write: 4.40 Watts, Idle: 4.10 Watts, Standby: 0.60 Watts, Sleep: 0.60 Watts
+Battery
+-
+
+OPERATING CONDITIONS
+Operating Temperature
+-0 to 70 Degree C
+Non-Operating Temperature
+-40 to 70 Degree C
+Operating Humidity
+5 - 95% RH non-condensing
+Non-Operating Humidity
+-
+Shock Tolerance
+Operating Shock (Read): 65 G, 2 ms; Non-operating Shock: 250 G, 2 ms
+
+ADDITIONAL FEATURES
+Features
+Rotational Speed: IntelliPower; User Sectors Per Drive: 3907029168; Vibration - Operating: 0.004 g Square/Hz (10 to 300 Hz), Non-operating: 0.05 g Square/Hz (10 to 300 Hz), Operating Linear: 20 - 300 Hz, 0.75 G (0 to peak)
+
+PHYSICAL SPECIFICATIONS
+Dimensions (W x D x H)
+(W x H x D): 101.6 x 26.1 x 147 mm
+Weight
+635 g
+
+WARRANTY
+Period
+3 Years Manufacturer Warranty
+Terms & Conditions
+_____________________

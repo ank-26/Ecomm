@@ -1,0 +1,400 @@
+
+ -------------------------------------------
+TVS-E Barcode Scanners
+ -> 
+Highlights
+_____________________
+Brand: TVS-E
+Type: Barcode Scanners
+Light Source: 650 nm visible laser diode (VLD)
+Depth of Field: 0 - 216 mm (UPC/EAN 100%, PCS=90%)
+Scan Pattern: 5 Directions of Scan Field
+Scan Rate: 1200 scans per second (omni directional)
+No. of Scan Lines: 20
+Minimum Bar Width: 5 mil @ PCS=90%
+Print Contrast: 30% @ UPC/EAN 100%
+Indicators (LED): Two-colour LED (green & red)
+Beeper Operation: Programmable tone & beep time
+System Interfaces: USB and Ps2
+Physical Dimensions: (L) 118 x (D) 100.0 x (H) 165.1 mm
+Weight: 360 g (without cable)
+SUPC: SDL433810799
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Godex RT700i Barcode Printer + GS220 ...
+ -> 
+Highlights
+_____________________
+Product Type : Laser Printers
+Colour Type : -
+Cartridge Type : -
+Compatible Printer Models : -
+Warranty : GODEX RT700i-1 year on printer and 3 months on printhead. GODEX GS220- 1 year on scanner and 3 months on cable.
+Utility : Healthcare, Retail, Logistics, Manufacturing, Travel & Leisure.
+Printing Output : B/W
+Print Technology : Laserjet
+Size : Small
+Other Features : Print and Scan
+SUPC: SDL064397057
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Epson Point-of-Sale Printer (TM-T81)
+ -> 
+Highlights
+_____________________
+1 Year Manufacturer's Warranty
+For more details, please see below
+Brand: Epson
+Specifically designed with safety in mind: The circuit board is mounted upside down to protect it from accidental spillage
+The most durable and efficient thermal receipt printer: Expected lifespan of 52 million lines (MCBF), 360,000 hours (MTBF) and auto-cutter life of 1.5million cuts
+More savings with minimal paper usage: Adjustable margin settings reduce unnecessary paper wastage
+Easy installation and usage in any retail environment: Windows Driver function makes the printer easy to install and use, and the wide angle of the top cover allows for quick roll replacement
+SUPC: SDL259559927
+Technical Specification
+_____________________
+
+Warranty
+Period
+1 Year Manufacturer's Warranty
+
+Specifications
+Printing Method
+Thermal Line Printing
+Dot Density
+203 dpi x 203 dpi [dpi: dots per inch (25.4 mm)]
+Print Direction
+Unidirectional with friction deed
+Paper Width
+80 mm (3.15”)
+Printing Width
+72 mm (2.83”), 576 dot positions
+Characters Per Line (Default)
+48/64
+Character Spacing (Default)
+0.25 mm (0.01”) [2 dots] [Note: programmable by control demand]
+Line Spacing
+3.75 mm (0.15”) [Note: programmable by control demand]
+Character Set
+95 Alphanumerical, 1 x International, 128 x 1 Extended Graphic, South Asia models carry Thai (128 x 3) & Vietnamese (128 x 2) characters
+Character Structure
+12 x 24 / 9 x 17 / 9 x 24 (including 2-dot spacing horizontally
+Speed (Normal)
+150 mm/s (5.91”/s), Approx 40.0 Ips [3.75 mm (0.15”) feed]
+Page Mode Printing Speed
+150 mm/s (5.91”/s)
+Bit-Image Printing Speed
+150 mm/s (5.91”/s)
+Raster Bit-Image Printing Speed
+150 mm/s (5.91”/s)
+Ladder Bar Code, 2 Dimensional Printing Speed
+99 mm/s (3.90”/s)
+Paper Feed Speed
+Approx 150 mm/s (5.91”/s) [Continuous paper feeding]
+Roll Paper
+Width: 79.5 ± 0.5 mm (3.13” ± 0.02”); Diameter: 83 mm (3.27”) maximum
+Thickness
+0.06 to 0.07 mm (0.002” to 0.003”)
+Reliability - Mtbf (Mean Time Before Failure )
+360,000 hours
+Reliability - Mcbf (Mean Cycle Before Failure )
+52 million lines; Auto cutter 1.5 million cuts
+Dimensions
+144 (W) x 189 (D) x 145 (H) mm / 5.67” (W) x 7.44” (D) x 5.71” (H)
+Weight
+Approx. 1.7 kg
+Case Colour
+Dark Grey
+Autocutter
+Built-in
+Roll Paper Device
+Built-in
+Power
+24VDC ± 7%
+Power Consumption
+Approx. 1.4 A (Mean)
+Power Supply
+PS-180 (included)
+Printer Driver
+Windows® Printer Driver (APD)
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Argox As8312 Barcode Scanner
+ -> 
+Highlights
+_____________________
+Product Type : Scanners
+Colour Type : Grey
+Yield (No. of Pages) : NA
+Warranty : 1 Year On Scanner, 3 Months On Cable
+Size : Small
+SUPC: SDL462247276
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Citizen Cls621 Thermal Transfer Barco...
+ -> 
+Highlights
+_____________________
+Product Type : Barcode Printers
+Colour Type : Black
+Cartridge Type : Ribbon
+Yield (No. Of Pages) : 4IPS
+Compatible Printer Models : CLS621
+Warranty : 1 Year Of Printer And 3 Months Of Printhead
+Utility : Direct DeliveryLogistic / TransportManufacturingRetail
+Printing Output : B/W
+Print Technology : Thermal Transfer/Direct Thermal
+Size : Small
+Other Features : Metal Hi-Lift print mechanism Standard internal parallel, serial and USB interfaces Internal Ethernet and wireless LANnetworking options
+SUPC: SDL355431250
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Motorola-LS2208 barcode scanner with ...
+ -> 
+Highlights
+_____________________
+A barcode scanner is an electronic device for reading printed barcodes
+Like a flatbed scanner,it consists of a light source
+a lens and a light sensor translating optical impulses into electrical ones
+Nearly all barcode readers contain decoder circuitry analyzing the barcode's image data provided by the sensorsending the barcode's content to the scanner's output port.
+SUPC: SDL050738753
+Description
+_____________________
+The Motorola LS2208 handheld barcode scanner offers high performance scanning at a moderate price point. From the retail point-of-sale and backroom to the patient bedside or school book checkout, the LS2208 provides fast, reliable scanning in a durable, lightweight form factor, delivering enhanced productivity and efficiency while reducing your total cost of ownership (TCO). With aggressive scanning capabilities and a wide working range, the LS2208 accurately captures data fast, helping employees work quickly and efficiently. And you'll be up and running fast, because the Motorola LS2208 is easy to deploy and use, thanks to a plug-and-play installation and intuitive, user-friendly design that requires little or no training. Plus the ergonomic, balanced form factor reduces user fatigue to maximize user comfort. All scanners read RSS codes
+Terms & Conditions
+_____________________
+ -------------------------------------------
+ARGOX-AS8000 SCANNER
+ -> 
+Highlights
+_____________________
+Product Type : BARCODE SCANNER
+Colour Type : NA
+Cartridge Type : NA
+Yield (No. Of Pages) : 100 scans per second
+Compatible Printer Models : ARGOX-AS8000 SCANNER
+Warranty : 1 yr. No warranty on cable
+Utility : SCAN
+Printing Output : NA
+Print Technology : NA
+Size : Small
+Other Features : 100 scans per second
+SUPC: SDL211745196
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Honeywell Mk5145 Laser Barcode Scanner
+ -> 
+Highlights
+_____________________
+Product Type : Barcode Scanners
+Colour Type : Black
+Yield (No. Of Pages) : 72 scan lines per second
+Warranty : 1 year warranty on scanner, no warranty on cable
+Utility : Healthcare, Retail, Warehouse, Logistics, Inventory
+Size : Small
+SUPC: SDL115756190
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit
+
+GENERAL
+Brand
+Honeywell
+Model
+Eclipse 5145
+Type
+Single-Line Laser Scanner
+Colour
+Black
+
+SPECIFICATIONS
+Drop
+Designed to withstand 1.5 m drops
+Environmental Sealing
+Sealed to resist airborne particulate contaminants
+Light Levels
+4842 Lux
+
+SCAN PERFORMANCE
+Scan Pattern
+Single scan line
+Scan Speed
+72 scan lines per second
+Scan Angle
+Horizontal: 50 Degree
+Print Contrast
+35 Percent minimum reflectance difference
+Pitch
+68 Degree
+Skew
+52 Degree
+Decode Capability
+Reads standard 1D and GS1 DataBar symbologies
+
+POWER REQUIREMENT
+Power Input
+5 V DC +/- 0.25 V
+Operating Power
+675 mW (125 mA at 5 V)
+
+OPERATING ENVIRONMENT
+Temperature
+Operating: 0 Degree C to 40 Degree C (32 Degree F to 104 Degree F), Storage: -40 Degree C to 60 Degree C (-40 Degree F to 140 Degree F)
+Humidity
+5 Percent to 95 Percent relative humidity, non-condensing
+
+ADDITIONAL FEATURES
+Features
+Code Gate; Code Sense; Powerlink Cables; Flash ROM; OPOS and JPOS System Compatible
+
+PHYSICAL SPECIFICATIONS
+Dimension
+(L x W x H): 169 x 63 x 51 mm
+Weight
+100 g
+
+WARRANTY
+Period
+3 Years Manufacturer Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+iBall Laser Barcode Reader LS-202A (A...
+ -> 
+Highlights
+_____________________
+1 Year Manufacturer Warranty
+Auto Sense Technology
+Laser Sensor
+Read Longer Barcodes (up to 90 characters)
+Dustproof
+Water Resistant
+USB Interface
+Ideal for Super Markets, Showrooms, Warehouse and Retail stores
+SUPC: SDL243080075
+Technical Specification
+_____________________
+
+Warranty
+Period
+1 Year Manufacturer Warranty
+
+In the box
+Package Contents
+1 Unit, Barcode Reader, USB Cable, Quick Start Guide, Stand
+
+Specifications
+Brand
+iBall
+Model No.
+LS-202A
+Key Features
+Auto Sense technology for Trigger free & large scale operation, Laser - Superb & Fast reading performance, Read longer barcodes with up to 90 characters, Dustproof and Water Resistant with IP54* Grade, Ideal for Super Markets, Showrooms, Warehouse, Retail stores, Lotteries, Couriers etc.
+Additional Features
+Switch between Auto Sense & Manual mode by pressing trigger upto 6Sec, High performance laser barcode Reader with sharp aim-and-shoot reading, Aggressive reading performance for fast and accurate data entry application, Free Stand bundled to use in autosense mode, Light weight and ergonomic design, USB Interface
+
+Optical & Performance
+Light Source
+Laser Sensor:ÃÂÃÂÃÂÃÂ Red LED 650nm
+Ambient Light Lux
+5,000 Lux
+Read Rate
+200 /Sec
+Resolution
+3mil
+Print Contrast Ratio
+0.2
+
+Mechanical
+Dimensions
+150 (L) x 65 (W) x 87 (H) mm
+Weight
+129g (without stand)
+Housing Material
+ABS Plastic
+Cable Type
+USB Cable
+
+Electrical
+Operation Voltage
+5 VDC ÃÂÃÂÃÂÃÂ± 5%
+Working Current
+85 mA
+Standby Current
+36 mA
+
+System Function
+Interface
+USB
+Symbologies
+UPC/EAN, UPC/EAN include complement code, Coda bar, Code 39, Code 39 Full ASCII, Code 93, Code 128, Code 128 Full ASCII, UCC/EAN128, Industrial 2 of 5, Interleaved 2 of 5, MSI, Code 11, Code 32, ISBN, ISSN, Telepen, Chinese Post code etc.ÃÂÃÂÃÂÃÂ
+Operation Mode
+Auto Sense Mode, Trigger Mode
+Prompt
+Buzzer Indicator
+
+Environment & Safety Conformance
+Operating Temperature
+0-45ÃÂÃÂÃÂÃÂ°c
+Storage Temperature
+-20ÃÂÃÂÃÂÃÂ°-60ÃÂÃÂÃÂÃÂ°
+Humidity
+Relative humidity 5%-95% (non-condensing)
+Shock Resistance
+1.5m drop
+Safety Approval
+CE, FCC, RoHS, IP54.
+Depth Of Field
+2.5-600 mm
+Description
+_____________________
+The
+Due to the presence of
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Godex Gs220 4mil Laser Barcode Scanne...
+ -> 
+Highlights
+_____________________
+Product Type : Scanners
+Warranty : 1 YEAR CARRY IN WARRANTY
+SUPC: SDL275156990
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Enter Laser Barcode Scanner E-LBS10
+ -> 
+Highlights
+_____________________
+Product Type : Scanners
+Warranty : 1 Year
+Size : ML
+Other Features : Light Source: 670nm Laser; Scan Module: Handheld; Depth of Scan field: 10mm - 450mm; Resolution: 0.1mm (4mil); Scan Speed: 120 Scans/sec; Print Contrast: Print Contrast; Light Level: Upto 20000LUX
+SUPC: SDL136984001
+Terms & Conditions
+_____________________

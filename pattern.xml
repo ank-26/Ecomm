@@ -1,0 +1,3 @@
+<web url="www.homeshop18.com" products_all = "div[@class='box']" products_title = "a[@class='productTitle']" products_price = "span[@class='current']"></web>
+ 
+<web url="www.flipkart.com" products_all = "div[@class='gd-col gu12 browse-product fk-inf-scroll-item']" products_title = "a[@class='lu-title']" products_price = "div[@class='pu-final fk-font-17 fk-bold']"></web>

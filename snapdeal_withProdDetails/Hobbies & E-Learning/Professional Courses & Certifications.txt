@@ -1,0 +1,114 @@
+
+ -------------------------------------------
+The Java Spring Training (e-Certifica...
+ -> 
+Highlights
+_____________________
+Online Delivery via E-mail. No Physical Dispatch
+Certificate Issuing Body: eduCBA
+Language: English
+Course Duration in Hrs: 4
+Stream: JAVA
+Type: Self Paced Learning
+Course Validity: Lifetime Validity
+Certification type: Course Completion Certification
+Non-Cancellable Product
+For queries and concerns drop a mail to learning@snapdeal.com
+Mode of Delivery: You will receive access details via e-mail within 24 hours. NO physical dispatch
+SUPC: SDL661792179
+Description
+_____________________
+
+Operating 
+
+Software
+Windows XP or 
+
+Higher
+Processor
+Minim
+
+um P4 or Higher
+RAM
+1 GB or 
+
+Higher
+Browser
+Any
+Recommended Internet 
+
+Speed
+Minimum 1MBPS
+Supported Browser 
+
+Plug-ins
+* Updated 
+
+Flash Player, * Update Java
+Other 
+
+Requirements
+Speaker or 
+
+headphone
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Big Data & Hadoop with Apache Spark S...
+ -> 
+Highlights
+_____________________
+Online Delivery via E-mail. No Physical Dispatch
+Type: Self Paced Learning
+Language: English
+Brand: KnowBigData
+Course Content: 33 Hours of Video Tutorials
+Certificate: No
+Stream: Big Data & Hadoop
+Validity: Lifetime
+Non-Cancellable Product
+For queries and concerns drop a mail to learning@snapdeal.com
+Mode of Delivery: You will receive access details via e-mail within 24 hours. NO physical dispatch.
+SUPC: SDL595906064
+Description
+_____________________
+
+
+
+Module I
+Big Data Introduction, Hadoop Architecture
+What/why of Big Data? Why Now? Examples Customers What is Hadoop? Components Hadoop HDFS Architecture NameNode Secondary NameNode Job Tracker File Read/Write Replication & Rack Awareness Further Reading/Assignment"
+Module II
+Architecture Recap, CloudLabs Overview, Installation
+Recap Cluster Overview Using Ambari Hue Using HDFS, Hive, Pig, Oozie From Web From Command Thinking in Map/Reduce Frequency Problem Solution 1 - Coding Solution 2 - SQL Solution 3 - Unix Pipes Solution 4 - External Sort Map/Reduce Overview Visualisation Analogies to groupby
+Module III
+MapReduce Framework
+Streaming Job Description Visualization Hands ON Discusion on Problems Limitations Testing
+Module IV
+Advance MapReduce, Testing
+Map Reduce in Java Testing Map Reduce in Java Map Reduce Adv. Concepts Input Splits Data Locality Optimization) Records Multiple Reducers Combiners Partitioner Network Topology - Rack Awareness
+Module V
+Pig and Pig Latin
+"Introduction Databases & Tables Basics Limitations Managed, External, Paritioned Tables Modules Chart Alter Table Word Count Example
+Module VI
+Pig Latin cont., Hive Basics, Advance Hive
+Load Getting Started Simple Select Statements Hive Prompt Aggregations Data Types Demo
+Module VII
+NoSQL Databases, Hbase and Advance Hbase
+What & Why NoSQL? Type of NoSQL NoSQL vs RDBMS CAP Theorem Column Oriented? HBASE Architecture Region Server Bloom Filter Quick Demo
+Module VIII
+ZooKeeper
+ZooKeeper Design Goals Data Models APIs ACLs Architecture
+Module IX
+Apache Flume, Apache Sqoop, Oozie, Mahout
+What is Sqoop? Connectors Import Export Flume Oozie Workflow Actions Mahout Machine Learning - Types, Applications, Tools
+Module X
+Apache Spark
+Apache Spark Concepts Transformations Actions Shared Memory Streaming
+Module XI
+Mahout Examples, Comparisions of Technologies and No SQLs
+Mahout Examples, Comparisions of Technologies and No SQLs
+We put our course-takers in touch with
+corporates that are looking for people with such skills based on the availability of such jobs.
+Terms & Conditions
+_____________________

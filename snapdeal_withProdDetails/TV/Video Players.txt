@@ -1,0 +1,860 @@
+
+ -------------------------------------------
+Google Chromecast HDMI Streaming Medi...
+ -> 
+Highlights
+_____________________
+1 Year Google India Warranty
+Stream HD videos, music and anything on the web to your TV using your smartphone, tablet or laptop
+Supports YouTube, Google Play Movies and Music, as well as anything on the web using Chrome browser
+Chromecast works with Android smartphones and tablets, iPhones and iPads, Chrome for Windows, Chrome for Mac and Chromebooks.
+Easy set-up: Plug into any HDMI port on your TV and connect to your home Wi-Fi network
+2 Mbps & above broadband Wifi connection is necessary for an optimal experience
+2 Mbps & above broadband Wifi connection is necessary for an optimal experience
+SUPC: SDL319241755
+Technical Specification
+_____________________
+
+Warranty
+Period
+1 Year Google India Warranty
+
+Specification
+Brand
+Google
+Model
+Chromecast
+Output
+HDMI, CEC (Consumer Electronics Control) compatible
+Max. Output Video Resolution
+1080 p
+Dimensions
+72 (L) x 35 (W) x 12 (H) mm
+Weight
+34 g
+Wireless Standards
+802.11 b/g/n Wi-Fi (802.11 n 2.4 GHz only)
+Wireless Security
+WEP, WPA / WPA2
+Power
+USB (USB cable and power adapter included)
+In the box
+Chromecast, HDMI extension cable, USB power cable, Power adaptor
+Description
+_____________________
+Useful Links
+_____________________
+
+Test Your Internet Speed
+
+Chromecast Help Center
+
+Learn more about casting
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Aeoss Android TV Box MiniIX NEO X8-H ...
+ -> 
+Highlights
+_____________________
+Type : Media Streamers
+SUPC: SDL419905765
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+6 months India Minix Warranty
+
+IN THE BOX
+Sales Package
+Main Unit, 1 x MINIX Remote, 1 x Power Adapter, 1 x OTG Cable, 1 x HDMI Cable, 1 x Setup Guide
+
+GENERAL
+Brand
+MINIX
+Model ID
+NEO X8-H
+Type
+Android TV Box
+Color
+Black
+
+SPECIFICATION
+Internet Browser
+-
+Formats
+Video Format: DAT/MPEG/MPE/MPG/TS/TP/VOB/ISO/AVI/MP4/MOV/3GV/FLV/MKV/M2TS/MTS/M4V/WMV/ASF/RM/RMVB, Audio Format: MP2/MP3/WMA/WAV/OGG/OGA/FLAC/ALAC/APE/AAC
+Resolution
+-
+CPU
+Quad-Core Cortex A9r4 Processor
+GPU
+Octo-Core Mali 450
+File system
+-
+Operating system
+Android KitKat 4.4
+User Interface
+Android
+Software
+-
+Indicator
+-
+
+CONNECTIVITY
+Network
+802.11n Dual Band Wi-Fi (2.4GHz/5.8GHz), RJ-45 Ethernet jack (10/100Mbps)
+Interface
+Bluetooth 4.0, Video Output: HDMI 1.4 b, up to 4K at 30 fps, Audio Output: HDMI 1.4 b, 3.5 mm stereo jack, Optical SPDIF, SD/MMC Card Reader (SD 3.0, MMC V4.41), Support HDMI-CEC, USB 2.0 port x 3, OTG port x 1, Microphone jack, Headphone jack, IR receiver
+
+MEMORY
+Memory
+DDR 2 GB
+Storage
+Internal: 16 GB eMMC
+
+ADDITIONAL FEATURES
+Features
+CE, FCC, CCC certified; 4K to 2K UHD Video Playback; 4K XBMC
+
+POWER
+Input Voltage
+DC 5 V, 3 A
+Power Consumption
+-
+Output Power
+-
+
+PHYSICAL DIMENSION
+Dimension
+-
+Weight
+-
+
+WARRANTY
+Warranty
+6 Month Manufacturer Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Leoxsys Lt88Brc Android Mini Pc Smart...
+ -> 
+Highlights
+_____________________
+Type : Android Mini PC Smart TV BOX with 2GB RAM Camera+mic skype video call with AV ouput and Remote control
+SUPC: SDL850242071
+Technical Specification
+_____________________
+
+SPECIFICATIONS
+CPU
+Rk3188T Duad-core Cortex-A9
+Storage
+8 GB
+Flash
+8 GB
+Wi-Fi
+WiFi 802.11b/g/n
+Bluetooth
+v4.0
+Ethernet
+RJ45
+Remote Control
+Transmission: 2.4G wireless remote control, Location: IR or G-sensor
+USB
+USB: 1x2
+POWER
+Power ON/OFF x 1
+SD
+TF Card Slot x 1
+Optical
+Optical Output x 1
+IR
+IR Support (extendable to support)
+Camera
+2.0 MP
+Mic
+Built-in
+HDMI
+HDMI Output x 1
+Video
+UHD H.264 2160p video decoding; Multi-format FHD video decoding, including Mpeg1/2, Mpeg4 SP/ASP GMC, H.263, H.264; H.264 High Profile 1080p at 30fps or 720p at 60fps encoding; 3840 x 1080 at 30fps 3D decoding, BD/SBS/TAB/FP supported; 3840 x 1080 at 30fps 3D encoding; Complies with RTSP, HTTP, HLS, RTMP, MMS streaming media protocols
+Audio
+Two sets of I2S/PCM interfaces for Baseband and Bluetooth; Two integrated differential analog MIC for headset and phone; Integrated digital MIC interface; Dedicated headphone/speaker/receiver outputs; Two-channel audio ADC with 96dBA SNR; Two-channel audio DAC with 100dBA SNR
+Other Features
+IE, IM, Mailbox, Video/Audio player, 4K PLAYER; Picture viewer, Text reader & Games; On-line Video/Audio player
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Sony DVP-SR660 DVD Player
+ -> 
+Highlights
+_____________________
+1 Year Manufacturer Warranty
+USB Content Playback
+Multi Disc and Format Playback
+Fast and Slow Playback with Sound
+Multi Disc Resume
+Progressive Scan
+Child Lock
+SUPC: 1265788
+Technical Specification
+_____________________
+
+Specifications
+Video Player Type
+DVD Player
+Disc Load Capacity
+Tray Disc Load
+In the Box
+AV Cable, Instruction Manual, AA Battery, Remote, Warranty Card
+
+Playable Disc Types
+DVD
+DVD-Video, Video DVD+R/+RW/+R DL, Video DVD-R/-RW-R DL, DVD-R/-RW-R DL (VR), MP3, JPEG, AAC, WMA, MPEG1, Simple MPEG4, LPCM
+CD
+CD, CD Video, SVCD, CD-R/RW, MP3-CD-R/RW, JPEG-CD-R/RW, AAC-CD-R/RW, WMA-CD-R/RW, LPCM-CD-R/RW, MPEG1-CD-R/RW, Simple MPEG4-CD-R/RW
+Others
+USB Flash Drive
+
+Display
+Display Type
+LED
+Display Features
+Union Jack FL Display
+
+Video Features
+Digital to Analog Video Converter
+12 Bit, 108 MHz
+Supported Signal Type
+NTSC, PAL
+Other Video Features
+Video Equalizer, Custom Picture Mode, Sharpness, High Speed Search, Instant Replay, Instant Advance, Video DAC, Color Default Setting and TV Type Default Setting
+
+Video Playback
+Video Playback Formats
+MPEG1, MPEG4
+Video Enhancement
+Progressive Scan
+Playback Modes
+Fast, Slow
+
+Audio Features
+Digital to Analog Audio Converter
+16 Bit, 192 KHz
+Sound System
+Dolby Digital, DTS
+Other Audio Features
+Audio CD Ripping, MPEG Digital Output, DD and DTS Digital Output, MP3 ID3 Lyrics
+
+Audio Playback
+Audio Playback Formats
+MP3, WMA, LPCM, AAC
+
+Image
+Image Formats
+JPEG
+Image Enhancements Features
+Zoom, Background Graphics, Screen Saver
+
+Convenience Features
+Child Lock
+Yes
+
+Connectivity
+Video Out (Composite)
+1
+Audio Out (Coaxial)
+1
+USB
+1
+
+Dimensions
+W x H x D
+320 x 38.5 x 209 mm
+Weight
+1.1 kg
+
+Additional Features
+Additional Features:
+Picture Navigation, Precision Drive 3, Control Menu, Tray Lock, Quick Set Up, 6 Multi-disc Resume, Auto Power Off
+
+WARRANTY
+Period
+1 year Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Philips DVP2850 DVD player
+ -> 
+Highlights
+_____________________
+1 Year Manufacture Warranty
+12-bit/108MHz video processing for sharp and natural images
+Screen Fit for optimal viewing every time 4 Smart Picture provides personalized image settings
+Connect and enjoy multiple sources
+USB Media Link for media playback from USB flash drives
+Play all your movies and music
+DivX Ultra Certified for enhanced DivX video playback
+Play CD, (S)VCD, DVD, DVD+- R/RW, DivX, MP3, WMA, JPEG
+ProReader Drive for smooth playback on virtually any disc
+SUPC: SDL953298922
+Technical Specification
+_____________________
+
+Specification
+Playback of
+CD, CD-DA, DVD, SVCD, VCD, DivX Ultra, MPEG-1, MPEG-2, MP3, WMA, JPEG
+Colour
+Black
+Dim
+(W x H x D) 270 x 37.5 x 201 mm
+Weight
+1 kg
+Power consumption (standby)
+0.5 W
+Power consumption (use)
+10 W
+MP4 Playback
+No
+
+WARRANTY
+Period
+6 months Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Apple TV ( 3rd generation)
+ -> 
+Highlights
+_____________________
+1 Year Manufacturer Warranty
+Fits in the palm of your hand
+Everything plays wirelessly on your widescreen TV
+iCloud and Photo Stream features
+Energy efficient
+Sleek Apple Remote
+Easy to connect
+Instant access to the hottest Hollywood titles and new releases
+Photo Stream feature
+AirPlay & AirPlay Mirroring
+Updates on current events
+Allows you to play videos you come across on YouTube and Vimeo
+SUPC: SDL453713391
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+1 year Warranty
+
+Size and Weight
+Height
+0.9 inch (23 mm)
+Width
+3.9 inches (98 mm)
+Depth
+3.9 inches (98 mm)
+Weight
+0.27 kg (0.6 pound)
+
+System Requirements
+Wi-Fi (802.11a, b, g, or n) wireless network (wireless video streaming requires 802.11a, g, or n) or 10/100BASE-T Ethernet network
+Yes
+iTunes Store account for buying or renting movies and buying TV shows
+Yes
+Netflix subscription required for streaming content
+Yes
+For streaming media from a Mac or PC: iTunes 10.6 or later; iTunes Store account for Home Sharing
+Yes
+MLB.TV subscription required to watch live and archived games
+Yes
+
+Ports and Interfaces
+HDMI
+Yes
+Optical audio
+Yes
+10/100BASE-T Ethernet
+Yes
+Built-in IR receiver
+Yes
+Micro-USB (for service and support)
+Yes
+
+Environmental Requirements
+Operating temperature
+32 Degree to 95 Degree F (0 Degree to 35 Degree C)
+Storage temperature
+Minus 4 Degree to 113 Degree F (-20 Degree to 45 Degree C)
+Relative humidity
+5% to 95% noncondensing
+Maximum operating altitude
+10,000 feet (3000 m)
+
+Additional Feature
+Audio Formats
+HE-AAC (V1), AAC (16 to 320 Kbps), protected AAC (from iTunes Store), MP3 (16 to 320 Kbps), MP3 VBR, Audible (formats 2, 3, and 4), Apple Lossless, AIFF, and WAV; Dolby Digital 5.1 surround sound pass-through
+Photo Formats
+JPEG, GIF, TIFF
+TV Compatibility
+Compatible with high-definition TVs with HDMI and capable of 1080p or 720p at 60/50Hz, including popular models from these manufacturers: Hitachi, JVC, LG, Mitsubishi, NEC, Panasonic, Philips, Pioneer, Samsung, Sharp, Sony, Toshiba, Vizio, Westinghouse
+Video Formats
+H.264 video up to 1080p, 30 frames per second, High or Main Profile level 4.0 or lower, Baseline profile level 3.0 or lower with AAC-LC audio up to 160 Kbps per channel, 48kHz, stereo audio in .m4v, .mp4, and .mov file formats, MPEG-4 video up to 2.5 Mbps, 640 by 480 pixels, 30 frames per second, Simple Profile with AAC-LC audio up to 160 Kbps, 48kHz, stereo audio in .m4v, .mp4, and .mov file formats, Motion JPEG (M-JPEG) up to 35 Mbps, 1280 by 720 pixels, 30 frames per second, audio in ulaw, PCM stereo audio in .avi file format
+Processor
+Apple single-core A5 chip
+Wireless
+Wi-Fi (802.11a/b/g/n)
+Bluetooth support for Apple Wireless Keyboard
+Requires Apple TV software version 5.2 or later
+Power
+Built-in 6-watt universal power supply
+In the Box
+Apple TV, Apple Remote, Power cord, Documentation
+Description
+_____________________
+
+Overview
+{C}{C}{C}{C}
+
+The
+The Apple TV is actually Apple's own media streamer and is so small that it
+Intuitive interface
+{C}{C}{C}{C}
+The Apple TV offers
+Get connected with Apple TV
+Even easier and convenient is setting up the Apple TV
+. Just plug the power lead into the wall and connect Apple TV to your widescreen TV using an HDMI cable. Since everything streams wirelessly to Apple TV over Wi-Fi network, you don t need any extra connections.
+
+Give your digital collection some airtime
+{C}{C}{C}{C}
+
+Quite wonderfully, the
+
+It puts the cinema in home cinema
+{C}{C}{C}{C}
+The Apple TV
+
+iCloud - play your favourite tracks anywhere
+{C}{C}{C}{C}
+The Apple TV
+1,000 of your latest photos - As seen on TV
+{C}{C}{C}{C}
+As you become the proud owner of the Apple TV, you will be elated to find that
+AirPlay and AirPlay Mirroring
+{C}{C}{C}{C}
+The amazingly wonderful
+In addition, the
+
+News Sport- Even news about sport All in one
+{C}{C}{C}{C}
+
+The Apple TV gives you the opportunity to
+Those of you who like to stay updated about the latest happenings every minute; you will then inevitably adore the Apple TV. It
+
+YouTube, Vimeo and Flickr - Fun ways to fill your widescreen TV
+{C}{C}{C}{C}
+The Apple TV gives you the golden opportunity to
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Minix Neo X7 Mini Quad Core Android M...
+ -> 
+Highlights
+_____________________
+Player Type : MP4 Player
+Color : Black
+Built-in memory capacity : 8 GB
+USB : High Speed USB 2.0
+Warranty : 1 year
+SUPC: SDL808509539
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Sony BDP-S1200 Blu Ray Player
+ -> 
+Highlights
+_____________________
+Type : Blu Ray Players
+SUPC: SDL685272974
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+1 year Warranty
+
+IN THE BOX
+Sales Package
+Main Unit, Remote Control (RMT-B127P), Batteries (2 x AAA type), HDMI Cable, Instruction Manual, Warranty Card, Customer Registration Card
+
+GENERAL
+Brand
+Sony
+Model ID
+BDP-S1200
+Type
+Bluray Player
+Color
+Black
+
+SPECIFICATIONS
+Capability
+Supported Media: External HDD (Read), BD-ROM: SL/DL, Bonus View: Profile 1.1, BD-Live: Profile 2.0, DVD-Video, SA-CD (SA-CD/CD) Playback: CD Part Only, CD (CD-DA), CD-R/-RW, DVD-R/DVD-RW/DVD-R Dual Layer, DVD+R/DVD+RW/DVD+R Double Layer, DVD Camcorder 8cm DVD: 8cm DVD-R/-RW; 8cm DVD+RW, USB Memory: FAT32, NTSF, File System (FAT32, NTFS, exFAT), BDAV (BD-RE/BD-R), BDMV (BD-RE/BD-R), Mixed Disc (BDMV), Hybrid Disc (BD/DVD, BD/CD, HDDVD/DVD): DVD Part Only
+Output Level (1 KHz, 0 dB)
+-
+Audio Features
+Dolby: Dolby True HD decoding (2Ch), DTS: DTS-HD Master Audio decoding (2Ch), AV Sync, LPCM (2ch/6ch/8ch) Through HDMI
+Video Features
+Noise Reduction: BNR, MNR, Preset Picture Mode: Standard/Brighter room/Theater Room, IP Content Noise Reduction, Precision Cinema HD Upscale, x.v.Colour, Deep Colour, 24p True Cinema, Full HD 1080p, PhotoTV HD, Video Output (BD-ROM): 480 i/480 p/720 p/1080 i/1080 p (60 Hz)), (1080 p (24 Hz)), Video Output (DVD Upscaling): HDMI (720 p/1080 i/1080 p), (1080 p (24 Hz)), Video Output (DVD-R/RW): HDMI (480 i/480 p/720 p/1080 i/1080 p (60 Hz)), BD: HD (24 Hz) (24 p True Cinema), HD 24 Hz to 60 Hz conversion, HD (60 Hz), SD (60 Hz), HD (50 Hz), SD (50 Hz), DVD: NTSC/PAL (60 Hz/50 Hz), DVD 24p output, TV Type Default Setting (16:9), HDMI (480 i/480 p/720 p/1080 i/1080 p (60 Hz)), Video Playback: Play/Stop/Pause/REW/FWD/PREV/NEXT/Slow Playback (FWD/REW)/STEP Playback (FWD/REW); Wider CODEC formats playability
+
+PLAYBACK FORMAT
+Video Format
+(BD, DVD, CD, USB): Xvid, WMV9 (.wmv, .asf), AVCHD Disc Format Folder, MPEG-1 Video/PS (.mpg .mpeg, .m2ts, .mts), MPEG-2 Video/PS, TS ( .mpg.mpeg, .m2ts, .mts), MPEG-4 AVC (.mkv, .mp4, .m4v, .m2ts, .mts), MPEG-4/AVC (.mov, 3gp, .3g2, .3gpp, .3gpp2), VC1 (.m2ts, .mts), Motion JPEG (.mov, .avi)
+Audio Format
+BD, DVD, CD, USB: MP3 (.mp3), AAC (.m4a), WMA9 Standard (.wma), LPCM (.wav)
+Image Format
+(BD, DVD, CD, USB): JPEG (.jpg, .jpeg), GIF (.gif), PNG (.png)
+
+CONNECTIVITY
+HDMI
+Output: 1 (Rear)
+USB
+1 (Front)
+LAN
+Ethernet Port: 1 (Rear)
+Audio Output
+Coaxial Audio Output: 1 (Rear)
+Video Output
+-
+Other Connectors
+-
+
+NETWORK FEATURES
+Wi-Fi/Network
+Sony Entertainment Network, Wi-Fi Ready
+
+SYSTEM REQUIREMENTS
+System Requirements
+-
+
+POWER
+Power Supply
+220 to 240 V, 50 to 60 Hz
+Power Consumption
+In Operation: 8.8 Watts (Approx), In Standby: 0.2 Watts (Approx)
+
+ADDITIONAL FEATURES
+Features
+Easy Navigation Remote Controller; Faster Start-up and Loading; Super Quick Start for faster start-up and loading
+
+PHYSICAL SPECIFICATIONS
+Dimensions
+(W x H x D): 265 x 43 x 199 mm
+Weight
+0.9 Kg
+
+WARRANTY
+Period
+6 Months Manufacturer Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Lg Dp 132 Dvd Players
+ -> 
+Highlights
+_____________________
+Type : DVD Players
+SUPC: SDL779634884
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Owners Manual, Remote Control, Battery (AAA), AV (Composite) Cable
+
+GENERAL
+Brand
+LG
+Model ID
+DP132
+Type
+DVD Player
+
+SPECIFICATION
+Video Content Formats
+MPEG-1, MPEG-2 PS/TS, MPEG-4, VOB, DivX
+Disc Playback Capability
+Disc Capacity: 1, DVD (PAL)/NTSC, CD-R/-RW, Audio CD, Dual Disc
+Audio Capabilities
+Digital/Analogue Conversion: 192 kHz/24 bit, 2 Ch. Dolby Digital Output, MP3, WMA
+Interface
+Front Panel: USB Port (2.0), DVD Disc Drive; Rear Panel - Video Out (Composite): 1, Audio Out (Audio L/R): 1
+
+ADDITIONAL FEATURES
+Features
+USB direct recording; Zoom; Subtitle; Parental Lock; A-B Repeat; Repeat; JPEG Slideshow; USB Plus; Program; Chapter Skip (Fwd/Rew); Slow (Fwd); Scan FFW/REW
+
+PHYSICAL DIMENSIONS
+Height
+37.5 mm
+Width
+250 mm
+Depth
+203 mm
+Weight
+0.9 Kg
+
+WARRANTY
+Period
+-
+
+WARRANTY
+Period
+1 year Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Sony BDP-S4200 3D Blu Ray Player
+ -> 
+Highlights
+_____________________
+Type : Blu Ray Players
+SUPC: SDL685210190
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+1 year Warranty
+
+IN THE BOX
+Sales Package
+Main Unit, Remote Control (RMT-B128P), Batteries (Type AAA x 2), Instruction manual, Warranty card
+
+GENERAL
+Brand
+Sony
+Model ID
+BDP-S4200
+Type
+3D Bluray Player
+Color
+Black
+
+SPECIFICATIONS
+Capability
+-
+Output Level (1 KHz, 0 dB)
+-
+Audio Features
+Playback Capability
+Video Features
+Full HD 3D, 2D to 3D Conversion, Super Scaler (Precision Cinemahd Upscale), Deep Color: 16 Bit, NTSC/PAL, DVD 24 P Output, Playback, Screen Saver/Easy Set Up/Phototv HD, Photo Slide Show with Music, Live Streaming/Subtitle/Recommendation, Bravia Sync
+
+PLAYBACK FORMAT
+Video Format
+-
+Audio Format
+-
+Image Format
+-
+
+CONNECTIVITY
+HDMI
+Output: 1 (Rear)
+USB
+1 (Front)
+LAN
+Ethernet Port: 1 (Rear)
+Audio Output
+Coaxial Audio Output: 1 (Rear)
+Video Output
+-
+Other Connectors
+-
+
+NETWORK FEATURES
+Wi-Fi/Network
+Sony Entertainment Network (SEN)
+
+SYSTEM REQUIREMENTS
+System Requirements
+-
+
+POWER
+Power Supply
+-
+Power Consumption
+9.5 Watts
+
+ADDITIONAL FEATURES
+Features
+Functions - Child Lock; Parental Control; USB Keyboard (101 Only)/Auto Standby; Firmware Update; Applications- Entertainment Database Browser, Gracenote, Web Browser, TV Sideview Remote; Boot-Up Fast with Super Quick Start; DLNA Certified; Plug and play
+
+PHYSICAL SPECIFICATIONS
+Dimensions
+(W x H x D): 265 x 43 x 199 mm
+Weight
+0.9 Kg
+
+WARRANTY
+Period
+-
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Lenovo WD100 Wireless Hdmi Streaming ...
+ -> 
+Highlights
+_____________________
+Type: Wireless Display Adaptor
+One-touch push to TV, Transfer the screen on your devices to TV or projector via HDMI simply with the connection of WD100
+Built-in Wi-Fi and intuitive interface
+Small and easy to carry when traveling
+Miracast Compatible, Support Blade and other android 4.2 and above device
+SUPC: SDL796821481
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit
+
+GENERAL
+Brand
+Lenovo
+Model
+WD100
+Type
+Wireless Display Adapter
+Colour
+White
+
+SPECIFICATION
+Protocol supported
+WiDi3.5/Miracast
+Display Resolution
+Full HD 1080p
+Connectivity
+HDMI
+Wi-Fi
+Built-in Wi-Fi
+Wi-Fi type
+2.4 G
+Power
+Micro USB
+
+Additional Features
+Other Features
+One-touch push to TV, Transfer the screen on your devices to TV or projector via HDMI simply with the connection of WD100; intuitive interface; Small and easy to carry when traveling; one-key projection
+
+PHYSICAL SPECIFICATIONS
+Dimensions (L x W x H)
+91.5 x 31x 10 mm
+Weight
+32 g
+
+WARRANTY
+Period
+1 Year Manufacturer Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Sony BDP-S4500 3D Blu Ray Player - Black
+ -> 
+Highlights
+_____________________
+Type : Blu Ray Players
+SUPC: SDL539210984
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit, Instruction Manual: (Full Manual in unit), Remote Control, Batteries Type AAA x 2, HDMI Cable, Warranty Card
+
+GENERAL
+Brand
+Sony
+Model
+BDP4500
+Type
+Blu- ray Disc Player
+Color
+Black
+
+SPECIFICATIONS
+Disc Drive
+Yes (Precision Drive HD)
+Single/Changer
+Single
+Region Code (BD)
+C
+Region Code (DVD)
+5
+Startup Screen
+Yes
+TV system Default Setting
+50 Hz
+
+AUDIO FEATURES
+Dolby
+Dolby True HD decoding (2Ch)
+DTS
+DTS decoding (2Ch)
+LPCM 2ch out (HDMI)
+Yes (192kHz/96kHz/48kHz)
+LPCM 6ch out (HDMI)
+Yes (192kHz/96kHz/48kHz)
+LPCM 8ch out (HDMI)
+Yes (96kHz/48kHz)
+Other Audio Features
+Re-enc from DTS to Dolby Digital (5.1ch), AV Sync, DRC, DTS HD Master Audio bit-stream out (HDMI), Dolby TrueHD bit-stream out (HDMI), DTS bit-stream out (Coaxial, Optical), Dolby Digital bit-stream out (Coaxial, Optical), LPCM 2ch (-48kHz/-24bit (16bit for encrypted content)) Out (Coaxial, Optical)
+
+PHOTO
+PhotoTV HD
+Yes
+Slide Show with Music
+CD, USB
+
+INPUTS AND OUTPUTS
+HDMI Output(s)
+1 (Rear)
+Coaxial Audio Output(s)
+1 (Rear)
+USB Input(s)
+1 (Front)
+Ethernet Connection(s)
+1 (Rear)
+
+POWER REQUIREMENT
+Power Consumption (w)
+9.5 Watts (in Operation), 0.2 Watts (in Standby)
+Power Input
+110 - 240 V, 50/60 Hz
+
+ADDITIONAL FEATURES
+Features
+3D - BD-ROM, Streaming, Video (from camcorder), Photo; Network - Home Share (DLNA) (DMP): Yes (Video, Audio, Photo), Home Share (DLNA) (DMR): Yes (Video, Audio, Photo), Home Share (DLNA) (Contents Throw): Yes (Video, Audio, Photo), Web Browser: Streaming, Java, Search, Home (Default), Live Streaming, 3D Streaming, Subtitle, Wake on LAN, Video Features - BNR, MNR, Preset Picture mode Cinema tuned (Theater room/Brighter room/Standard room), Super Scaler (Precision Cinema HD upscale), x.v.Color/x.v.Colour, Deep Color: Yes (16bit), 24p True Cinema, Video Specs - Video Output - BD-ROM (HDMI): Yes (480i/480p/720p/1080i/1080p (60Hz)), (576i/576p/720p/1080i/1080p (50Hz)), (1080p (24Hz)), Video Output - DVD - Video (HDMI): Yes (480i/480p/720p/1080i/1080p (60Hz)), (576i/576p/720p/1080i/1080p (50Hz)), Video Output - DVD R/RW BD R/RE non copy protected (HDMI): Yes (480i/480p/720p/1080i/1080p (60Hz)), (576i/576p/720p/1080i/1080p (50Hz)), Video Output - DVD Upscaling (HDMI): Yes (720p/1080i/1080p), (1080p (24Hz)), BD (HD (24Hz) (24p True Cinema)), BD (HD 24Hz to 60Hz conversion), BD (HD (60Hz)), BD (SD (60Hz)), BD (HD (50Hz)), BD (SD (50Hz)), DVD (NTSC/PAL (60Hz/50Hz)), DVD (DVD 24p output), DVD (TV Type Default Setting): 16:09; Playback Features - Play/Stop/Pause, REV/FWD, PREV/NEXT, Slow Playback (FWD/REV), STEP Playback (FWD/REV), Repeat: All, Title, Chapter, Track; Convenience Features - 2nd Display: TV SideView, Device(iPhone, Android, PC), XMB (Xross Media Bar), New UI, Customize on My Apps, FAVORITE on Remote, List with Thumbnail (BD/DVD/CD): Photo Only, List with Thumbnail (HDD): Photo Only, List with Thumbnail (USB): Photo Only, List with Thumbnail (DLNA): Photo Only, Software Keyboard Language: ENG, NOR, FIN, GRC, RUS, POL, FRA, DEU, ITA, ESP, NED, POR, SWE, DNK, Software Keyboard Style: Qwerty, Azerty, Qwertz, History Indication, BRAVIA Sync, Easy Setup, Super Quick Start Mode, Screen Saver, Child Lock, DEMO mode - Tray Lock, Parental Control, Auto Power Off (Auto Stand-by), Bit Rate Indicator: Yes (Video, Audio, BIV), USB Keyboard: Yes (101 only), USB Keyboard: Yes (101 only), Multiple Language Display: GB ENG, NOR, FIN, GRC, RUS, POL, FRA, DEU, ITA, ESP, NED, POR, SWE, DNK; Supported Media - BD-ROM: Yes (SL/DL), Bonus View: Yes (Profile 1.1), BD-Live: Yes (Profile 2.0), Stereoscopic 3D (profile 5), DVD-Video, SA-CD (SA-CD/CD) Playback: Yes (CD part only), CD (CD-DA), CD-R/-RW, DVD-R: Video, VR (w/o CPRM), DVD-RW: Video, VR (w/o CPRM), DVD-R Dual Layer: Video, VR (w/o CPRM); DVD+R, DVD+R Double Layer, DVD Camcorder 8cm DVD, 8cm DVD-R/-RW, 8cm DVD+RW, USB Memory, File System (FAT32, NTFS, exFAT): FAT32/NTFS, External HDD (Read/Write/Copy/Move): Yes(Read), BD-RE (BDAV): Yes (ver.2.0, SL/DL),BD-R (BDAV): Yes (ver.1.0, SL/DL), BD-RE (BDMV): BD-R (BDMV): Yes (ver.2.0, SL/DL), BD/DVD (Hybrid Disc): Yes (select in set-up menu), BD/CD (Hybrid Disc): Yes (select in set-up menu), HDDVD/DVD (Hybrid Disc): Yes (DVD part only), JPEG (.jpg, .jpeg) (Photo): Yes (BD, DVD, CD, USB, DLNA), GIF (.gif) (Photo): Yes (BD, DVD, CD, USB, DLNA), PNG (.png) (Photo): Yes (BD, DVD, CD, USB, DLNA), MPO MPF 3D (.mpo) (Photo): Yes (BD, DVD, CD, USB), Xvid (.avi, .mkv) (Video): Yes (BD, DVD, CD, USB, DLNA), WMV9 (.wmv, .asf, .mkv) (Video): Yes (BD, DVD, CD, USB, DLNA), AVCHD Disc Format (Video): Yes (BD, DVD, CD, USB, DLNA), MPEG-1 Video/PS (.mpg .mpeg, .mkv) (Video): Yes (BD, DVD, CD, USB, DLNA), MPEG-2 Video/PS, TS ( .mpg.mpeg, .m2ts, .mts, .mkv) (Video): Yes (BD, DVD, CD, USB, DLNA), MPEG-4 AVC (.mkv, .mp4, .m4v, .m2ts, .mts) (Video): Yes (BD, DVD, CD, USB, DLNA), MPEG-4/AVC (.mov, 3gp, .3g2, .3gpp, .3gpp2, .flv) (Video): Yes (BD, DVD, CD, USB), VC1 (.m2ts, .mts, .mkv) (Video): Yes (BD, DVD, CD, USB), Motion JPEG (.mov, .avi) (Video): Yes (BD, DVD, CD, USB), AAC (.aac, .mka) (Music): Yes (BD, DVD, CD, USB), MP3 (.mp3) (Music): Yes (BD, DVD, CD, USB, DLNA), MP3 (.mka) (Music): Yes (BD, DVD, CD, USB), AAC (.m4a) (Music): Yes (BD, DVD, CD, USB, DLNA), HEAAC v.1/v.2/level2 (Music): Yes (BD, DVD, CD, USB, DLNA), WMA9 Standard (.wma) (Music): Yes (BD, DVD, CD, USB, DLNA), LPCM (.wav) (Music): Yes (BD, DVD, CD, USB, DLNA), LPCM (.mka) (Music): Yes (BD, DVD, CD, USB), FLAC (.flac, .fla) (Music): Yes (BD, DVD, CD, USB), Dolby Digital (.ac3, .mka) (Music): Yes (BD, DVD, CD, USB), WMA10 Pro (Music), Vorbis (Music), Monkey's Audio (Music)
+
+PHYSICAL SPECIFICATIONS
+Dimension
+(W x H x D): Approx. 230 x 39 x 194 mm
+Weight
+Approx. 0.8 kg
+Description
+_____________________
+Terms & Conditions
+_____________________

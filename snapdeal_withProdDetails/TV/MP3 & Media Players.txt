@@ -1,0 +1,680 @@
+
+ -------------------------------------------
+Apple iPod Shuffle 2GB (2015 Edition)...
+ -> 
+Highlights
+_____________________
+Player Type : Apple iPod
+Color : Blue
+Built-in memory capacity : 2 GB
+USB : Yes
+Compression Format : MP3, WAV
+Playback Time : Up to 15 Hours of audio playback
+Warranty : 1 year
+SUPC: SDL539049903
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit; Earphones; USB Cable; Quick Start guide
+
+GENERAL
+Brand
+Apple
+Model
+Shuffle
+Type
+Apple iPod
+Color
+Blue
+
+SPECIFICATIONS
+Capacity
+2 GB
+Frequency Response
+20 Hz to 20000 Hz
+Connectivity
+USB
+System Requirement
+Mac: OS X v10.7.5 or later and iTunes 12.2 or later; PC: Windows 7 or later and iTunes 12.2 or later
+Languages
+29 Voiceover languages: Chinese (Cantonese, Mandarin), Czech, Danish, Dutch, English (Australia, UK, and U.S.), Finnish, French (Canada, France), German, Greek, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese (Brazil, Portugal), Romanian, Russian, Slovak, Spanish (Mexico, Spain), Swedish, Thai, Turkish
+
+FILE FORMAT
+Audio Format
+AAC (8 to 320 Kbps), Protected AAC (from iTunes Store), MP3 (8 to 320 Kbps), MP3 VBR, Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+), Apple Lossless, AIFF, and WAV
+
+BATTERY
+Battery Type
+Built-in rechargeable lithium-ion battery
+Playback Time
+Up to 15 Hours of audio playback
+
+OPERATING ENVIRONMENT
+Operating Temperature
+0 to 35 Degree C
+Nonoperating temperature
+- 20 to 45 Degree C
+Operating Humidity
+5 to 95 Percent
+Operating Altitude
+Upto 10000 feet (3000 m)
+
+ADDITIONAL FEATURES
+Features
+BFR-free; PVC-free; Recyclable aluminium enclosure
+
+PHYSICAL SPECIFICATIONS
+Dimension
+(H x W x D): 29 x 31.6 x 8.7 mm
+Weight
+12.5 g
+Volume
+5668 cu. Mm (Including Clip)
+
+WARRANTY
+Period
+1 Year Manufacturer Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Sony NWZ-B183F/R 4GB MP3 Walkman Play...
+ -> 
+Highlights
+_____________________
+Bass boost
+FM Recording
+Quick Charge
+Direct USB
+Drag and Drop Transfer
+Long Battery
+SUPC: SDL629936972
+Technical Specification
+_____________________
+
+Specification
+Memory (Available capacity may vary)
+4GB
+FM Tuner
+Yes
+Input / Output Terminals
+Hi-Speed USB(USB 2.0 compliant)
+Power Source
+Built-in Rechargeable lithium-ion Battery, USB power (from a computer via a USB connector of the player)
+Recharging Method
+USB-based charging
+Recharge Time
+Approx. 70minutes
+Maximum Dimensions (W x H x D)
+84.5 x 22.2 x 13.4mm
+Weight
+Approx. 30g
+Supplied Accessories
+WALKMAN (1), Headphones (1), Quick Start Guide
+Sound Settings
+Bass Boost / 5Band equalizer(Heavy/Pop/Jazz/Unique/Custom)
+Play Mode
+Shuffle/Repeat/Repeat 1 Song
+Continuous Playback Time
+Approx. 20 Hrs
+Number of Songs
+Approx. 890 songs
+MP3 Audio
+Bit rate: 32 to 320kbps (Supports variable bit rate (VBR)), Sampling frequency : 32, 44.1, 48kHz
+WMA Audio
+Bit rate: 32 to 192kbps (Supports variable bit rate (VBR)), Sampling frequency : 44.1kHz
+AAC Audio
+Bit rate: 16 to 320kbps (Supports variable bit rate (VBR)), Sampling frequency : 8, 11.025, 12, 16, 22.05, 24, 32, 44.1, 48kHz
+Linear-PCM Audio
+Bit rate: 1411kbps, Sampling frequency : 44.1kHz
+AVC(H.264/AVC) Video
+Bitrate : Max 18 Mbps, Frame rate : Max 30 fps, Resolution : Max 1920x1080 / Bitrate : Max 2 Mbps, Frame rate : Max 30 fps, Resolution : Max 720x480
+MPEG-4 Video
+Bitrate : Max 10 Mbps, Frame rate : Max 30 fps, Resolution : Max 1920x1080
+Windows Media Video 9
+Bitrate : Max 20 Mbps, Frame rate : Max 30 fps, Resolution : Max 1920x1080
+AAC-LC Video
+Sampling frequency : 24, 32, 44.1, 48 kHz, Bit rate : Max 288kbps / channel
+WMA (for Windows Media Video 9)
+Bit rate: 32 to 192kbps (Supports variable bit rate (VBR)), Sampling frequency : 44.1kHz
+JPEG Photo
+Number of pixels: Max. 6,048 x 4,032 pixels (24,000,000 pixels)
+
+WARRANTY
+Period
+1 year Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Zebronic Guitar Mp3 Player - Blue (Wi...
+ -> 
+Highlights
+_____________________
+Micro SD Card Slot
+In-ear Earphone
+Media Control Buttons
+USB Support
+MP3 Player
+SUPC: SDL106803921
+Technical Specification
+_____________________
+
+Specification
+Brand
+Zebronics
+Type
+MP3
+Model ID
+Guitar
+
+AUDIO
+Audio File Format
+MP3
+
+CONNECTIVITY
+IO Device
+USB
+
+DIMENSIONS
+Width
+37 mm
+Height
+14 mm
+Depth
+80 mm
+Weight
+15 g
+
+POWER
+Recharging Method
+USB-based Charging
+Battery Type
+Lithium
+
+WARRANTY
+Period
+1 year Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Sony NWZ E383 Mp3 Player - Black
+ -> 
+Highlights
+_____________________
+1 Year Manufacture Warranty
+4 GB Memory
+4.5cm TFT Colour Display
+Hi-speed USB
+Delivers Superb Audio Quality
+30 Hours of Endless Audio
+9.9mm Super Slim Design
+Transfer Your Music Files Effortlessly (Drag & Drop)
+FM Tuner
+Multi Audio and Video Codec Support
+Colour: Black
+SUPC: SDL871633032
+Technical Specification
+_____________________
+
+General
+Memory
+4GB
+Display
+1.77 (4.5cm), TFT color display with white LED-backlight, QQVGA(128 x 160 Pixels) 65,536 colors
+Input / Output Terminals
+Hi-Speed USB(USB 2.0 compliant)
+Maximum Power Output (16 ohms/mW)
+10mW+10mW (non CEW) 0.45mW min +0.45mW min (CEW)
+Power Source
+Built-in Rechargeable lithium-ion Battery USB power (from a computer via the supplied USB cable)
+Recharging Method
+USB-based charging
+Recharge Time
+Approx. 2 hours(full charge), Approx. 45 min(approx. 80%)
+
+Dimensions (W x H x D)
+Maximum Dimensions (W x H x D)
+43.4mm x 87.7mm x 9.9mm
+Weight
+Approx. 52 g
+Supplied Accessories
+Headphones, Quick Start Guide, USB cable(mini-B) Software(in the built-in flash memory)
+
+Music
+Clear Audio
+Clear Bass, Clear Stereo
+Searching Methods
+All Songs/Album/Artist/Genre/Release Year/Folder/Playlists
+Play Mode
+Normal / Repeat / Shuffle / Shuffle&Repeat / Repeat 1 Song
+
+Video
+Frame rate
+Max 30 fps
+Resolution
+Max QQVGA (128 x 160)
+
+Image
+Play Mode
+Normal / Slide Show /Slide Show Repeat Slide Show Interval(Short / Normal / Long)
+Supported Format
+Compatible with Exif 2.21file format
+
+File Formats Supported
+MP3 Audio
+Bit rate: 32 to 320kbps (Supports variable bit rates (VBR)) Sampling frequency -1: 32, 44.1, 48kHz
+WMA Audio
+Bit rate: 32 to 192kbps (Supports variable bit rates (VBR)) Sampling frequency -1 : 44.1kHz, WM-DRM not supported except U version
+AAC Audio
+Bit rate: 16 to 320kbps (Supports variable bit rate (VBR)); 3 Sampling frequency -1: 8,11.025, 12, 16, 22.05, 24, 32, 44.1, 48kHz, AAC-LC not supported except U version
+Linear-PCM Audio
+Bitrate: 1411kbps; Sampling frequency -1: 44.1kHz
+
+WARRANTY
+Period
+1 year Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Fiio Lc-x1-flip Leather Case For Fiio...
+ -> 
+Highlights
+_____________________
+Color : Blue
+SUPC: SDL418613244
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit
+
+GENERAL
+Brand
+Fiio
+Model ID
+LC-X1
+Type
+Flip Leather Case
+Color
+Blue
+
+SPECIFICATION
+Material Type
+Leather Case
+Compatibility
+Fiio X1 Mp3 Music Player
+
+ADDITIONAL FEATURES
+Features
+Soft, Glossy finish; Strong magnet closure on the back cover that helps to secure the gadget like MP3 player properly inside the case; Hardshell flip case; You can also keep mp3 player inside the case while charging; Additional screen protection; Durable and Sturdy; Designed with tough quality materials; Protective case comes with a small window to view the screen
+
+PHYSICAL SPECIFICATIONS
+Weight
+50 g
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Zebronics Music Beat Mp4 Player (Blac...
+ -> 
+Highlights
+_____________________
+Player Type : MP4 Player
+Color : Red
+Maximum memory card capacity : 32 GB
+USB : High Speed Usb 2.0
+Screen Size : 10.9cm
+Headphone : 3.5 mm
+Compression Format : MP3
+Playback Time : 8 Hrs
+Warranty : 1 Year
+SUPC: SDL094616268
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+1 Year Zebronics India Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Apple iPod Touch 16 GB (5th Generatio...
+ -> 
+Highlights
+_____________________
+Player Type : Apple iPod
+Color : Black
+Built-in memory capacity : 16 GB
+Maximum memory card capacity : 16 GB
+USB : High Speed USB 2.0
+Screen Size : 4.3 inches
+Headphone : 3.5 mm
+Playback Time : 8 hrs
+Warranty : 1 year
+SUPC: SDL985431950
+Technical Specification
+_____________________
+
+Technical Specification
+Brand
+Apple
+Type
+MP4
+Model ID
+Touch
+Color
+Blue
+
+MEMORY
+Memory Size
+16 GB
+
+OTHERS
+Additional Features
+Ultra Thin Design (The Thinnest and Lightest iPod Touch, Anodized Aluminum Enclosure), iSight Camera (5 MegaPixel iSight Camera with 1080p HD Video, FaceTime Camera with 720p HD Video), Retina Display (Sharp, Vivid, Lifelike, One-handed Control), iOS 7 (Control Center, Smarter Multitasking, AirDrop for iOS, New Camera Formats and Filters, More Capable Siri, and iTunes Radio), Lightning Connector (All-digital, 8-signal Design), iTunes and The App Store (Songs, Movies, TV Shows, and Podcasts), iPod Touch Loop, Game Center, Dimension: (123.4 x 58.6 x 6.1 mm)
+
+POWER
+Recharging Method
+USB-based Charging
+
+DISPLAY
+Display Size
+4 inch
+Display Type
+Retina Display
+Display Resolution
+1136 x 640
+
+DIMENSIONS
+Weight
+88 g
+
+AUDIO
+Audio Playback Time
+40
+
+CONNECTIVITY
+IO Device
+USB
+
+VIDEO
+Video Available
+Yes
+Video Playback Time
+8
+Description
+_____________________
+Fun was built into every millimeter of the thinnest, lightest iPod touch. It does more than ever, more powerfully than ever, from playing games to playing music to just playing around. And everything looks tremendous on the 4-inch Retina display. For the first time, iPod touch is made from the same kind of anodized aluminum used in the MacBook line. And it's made the same way too: By machining the enclosure from a single piece of aluminum. The first thing you'll notice about iPod touch is its barely-there weight. Then its supersmooth finish. Then all those Apple details - like the highly polished beveled edges. And iPod touch is made from one of the strongest grades of aluminum there is. Which means that it not only looks and feels incredible, it's tough enough to tag along on more than a few nights out. There's a reason these iPod touch colors are so incredibly rich and vibrant. It's because they're bonded right to the aluminum - not just painted on the surface. So you see saturated color that still lets the luster of the metal shine through. Which gives you a material that shows off the color, and a color that shows off the material. The Retina display is tall but not wide. That means everything you do on iPod touch can be a one-handed operation, and your thumb has room to roam. The display is advanced, with finger-friendly Multi-Touch technology built into the glass instead of beneath it. So less gets between you and your games, music, messages - whatever you love to see and do. The iPod touch loop is a colorful way to keep your iPod touch at the ready.* That's perfect for when you want to shoot from a hard-to-reach camera angle. Flip iPod touch up to type a quick iMessage. Or just sport it when you're pocketless. The loop also keeps your iPod touch safe, so you don't have to worry about a slip, fumble, drop, or overzealous robot dance. The loop is easy to attach and detach.
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Transcend 4GB Black MP300
+ -> 
+Highlights
+_____________________
+With 2 years Transcend India Warranty
+Internal Li-polymer battery provides over 15 hours of continuous music playback
+Supports MP3, WMA, and WAV music files
+High-Speed USB 2.0 port for easy computer connectivity and fast file transfers
+Simple, intuitive control interface for easy operation when traveling or exercising
+Ultra-portable compact size fits easily in any pocket or purse
+Dual-color LED indicator
+USB flash drive capability for data transfer and storage
+SUPC: 1074221
+Technical Specification
+_____________________
+
+WARRANTY
+Period
+2 years Warranty
+
+Specifications
+Capacity and Color
+4GB
+Dimensions
+68.6 mm , 9.6 mm
+Weight
+15g
+Music Formats
+MP3, WMA, and WAV
+Battery Life*
+15hrs
+Battery Type
+Li-Polymer
+Certificates
+CE, FCC, BSMI
+Compression Rates
+32Kbps to 320Kbps
+S/N Ratio
+>= 90dB
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Transcend MP350B 8GB Digital Music Pl...
+ -> 
+Highlights
+_____________________
+Water and shock resistant
+Built-in sport clip
+Vivid all-white OLED screen displays clear text at any angle and in any light
+Supports MP3, WMA,and WAV(IMA_ADPCM) music Files
+Built-in microphone and FM radio recording
+USB fash drive capabilities for data transfer and storage
+Two year limited warranty (Li-polymer battery: six months)
+SUPC: SDL718383718
+Technical Specification
+_____________________
+
+Specification
+Dimensions
+67 x 26.5 x 11.7mm (without clip)/ 67 x 26.5 x 18.3mm (with clip)
+Weight
+22g
+Display Type
+1 inch White Monochrome OLED
+Display Resolution
+128 x 32 pixels
+Music Formats
+MP3, WMA, WAV(IMA_ADPCM)
+Music Playback Time
+12hr (Fully Charged)
+Max. Recording Hours
+20hr (Low Quality)
+Recording Format
+IMA_ADPCM (WAV)
+
+WARRANTY
+Period
+2 years Warranty
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Philips 4GB Vibe MP-4 Player-Red
+ -> 
+Highlights
+_____________________
+1 Year Manufacturer Warranty
+Colour: Red
+Fullsound
+Soft Rubber Ear-buds for Comfortable Listening
+1.8 Inches Full Colour Display
+Soft and Smooth Finish for Easy Comfort and Handling
+Enjoy up to 25 Hours of Music or 5 Hours of Video Playback
+FM Radio with RDS and 30 Presets for More Music Options
+Philips Songbird
+LikeMusic for Playlists of Songs That Sound Great Together
+Fast Charge for 90-minute Playback in Just 5 Minutes
+SUPC: 1672933
+Technical Specification
+_____________________
+
+General
+Brand
+Philips
+Colour
+Red
+
+Picture/Display
+Backlight
+Yes
+Type
+LCD
+Diagonal screen size
+4.6 cm
+Resolution
+160 x 128
+
+Sound
+Equalizer customizable
+Yes
+Equalizer settings
+Funk, Hip Hop, Jazz, Rock, Techno, Classical
+Sound Enhancement
+FullSound
+Channel separation
+45 dB
+Frequency response
+80 - 18 000 Hz
+Output power (RMS)
+2 x 2.4 mW
+
+Audio Playback
+Compression format
+MP3, WAV, WMA, FLAC, APE
+ID3 Tag support
+Song title, artist, album
+MP3 sample rates
+16, 32, 48, 11.025, 22.050, 8 kHz
+Digital Rights Management
+Windows Media DRM for Portable Devices, Supports download & subscription music services
+MP3 bit rates
+8-320 kbps and VBR
+WMA bit rates
+5-320 kbps
+WMA sample rates
+8, 11.025, 16, 22.050, 32, 44.1, 48 kHz
+
+Still Picture Playback
+Picture Compression Format
+JPEG, BMP
+Slide show
+Yes
+
+Storage Media
+Built-in memory type
+NAND Flash
+Mass storage class compliant
+Yes
+Built-in memory capacity
+4 GB
+
+Connectivity
+Headphone
+3.5 mm
+USB
+USB 2.0
+
+Convenience
+Function
+Keypad lock
+Superscroll
+Yes
+Firmware upgradeable
+Yes
+Battery charging indication
+On user interface
+Charge & play
+when connected to PC
+Customizable volume limit
+Yes
+Dedicated volume controls
+Yes
+
+Accessories
+Headphones
+AY3832
+Quick start guide
+Yes
+USB cable
+AY3930
+
+System Requirements
+USB
+Free USB port
+Internet connection
+Yes (for access to updated support documents, manuals, future firmware and PC software upgrades)
+PC OS
+Windows XP (SP3) / Windows Vista / Windows 7
+
+Power
+Battery Type
+LI-Polymer
+Rechargeable
+Yes, via USB
+Battery capacity
+290 mAh
+Playtime on internal battery
+Up to 25 hours audio, 12 hours radio or 5 hours video
+
+Tuner/Reception/Transmission
+Tuner Bands
+FM
+Station presets
+30
+
+Audio Capturing
+Built-in microphone
+mono
+Voice recording
+Yes
+FM radio recording
+Yes
+
+Software
+Philips Songbird
+Yes
+
+Partners
+7digital
+Yes
+Audible
+Yes
+
+Video Playback
+MJPEG (.mp4)
+160x128 pixels, 30 fps, 512 kpbs
+
+WARRANTY
+Period
+1 year Warranty
+Description
+_____________________
+Philips 4GB Vibe MP4 Player is as stylish as it is powerful. The
+You can enjoy
+up to 25 hours of music
+or
+5 hours of video playback
+, thanks to the
+compact
+With the
+With the
+The
+offers additional music options for you to enjoy. All you need to do is tune into the station that you want to preset, press and hold the preset button to memorise the frequency. You can
+Other features of the MP4 player include easy and intuitive user interface with album art display,
+soft rubber ear-buds
+for comfortable listening and
+1.8 inches full colour display
+for smooth and intuitive navigation.
+Terms & Conditions
+_____________________

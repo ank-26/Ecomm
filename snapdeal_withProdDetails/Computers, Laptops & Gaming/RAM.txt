@@ -1,0 +1,582 @@
+
+ -------------------------------------------
+Transcend JetRam DDR3 4 GB PC RAM (JM...
+ -> 
+Highlights
+_____________________
+5 Years Manufacturer Warranty
+Type : DDR3
+Device : Desktop
+Capacity : 4 GB
+SUPC: SDL733139477
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit
+
+GENERAL
+Brand
+Kingston
+Model ID
+KHX18C9T2K2/8X
+Series
+XMP Predator
+
+SPECIFICATIONS
+Memory Type
+8 GB (2 x 4 GB) 1866 MHz DDR3 DIMM
+Compatible Device
+PC
+Pins
+240-pin
+Burst Length
+8
+Technology
+DDR3 SDRAM Memory
+CAS Latency
+9-8-7-6
+
+POWER
+Input Voltage
+1.5 V
+Output Voltage
+1.65 V
+
+ADDITIONAL FEATURES
+Features
+Error Check: Non-ECC; Unbuffered; Cooling and Heatsink: Heatsink; XMP (Extreme Memory Profile), UL Rating 94 V - 0, Operating Temperature: 0 DegC to 85 DegC, Storage Temperature: -55 DegC to 100 DegC, Row Cycle Time - 49.5 ns (min), Refresh to Active / Refresh Command Time - 160 ns, Row Active Time (tRASmin) - 36 ns, Power 2.4 W (Operating), Bidirectional Differential Data Strobe, On Die Termination using ODT Pin
+
+WARRANTY
+Period
+5 Years Manufacturer Warranty
+Compatible with:
+Desktop
+Terms & Conditions
+_____________________
+ -------------------------------------------
+GSkill SQ For MAC DDR3 4 GB (1 x 4 GB...
+ -> 
+Highlights
+_____________________
+Lifetime Warranty
+Type : DDR3
+Capacity : 4 GB
+Memory Speed : -
+Compitable With : -
+Warranty : 10 Years Limited Warranty
+Structure : -
+Features : -
+SUPC: SDL590419803
+Technical Specification
+_____________________
+
+IN THE BOX
+Sales Package
+Main Unit
+
+GENERAL
+Brand
+GSkill
+Series
+SQ
+Model ID
+FA-8500CL7S-4GBSQ
+Colour
+Green and Black
+
+SPECIFICATIONS
+Memory Type
+4 GB DDR3 SO-DIMM
+Memory Standard
+DDR3-1066/PC3-8500
+Compatibility
+Mac, iMAC, Mac mini, MacBook Pro
+Pins
+204-Pin
+Burst Length
+8
+Error Check
+Non-ECC
+Buffered/Unbuffered
+Unbuffered
+Memory Clock
+133 MHz
+Technology
+DDR3 SDRAM Memory
+CAS Latency
+7/7/2007
+
+POWER
+Input Voltage
+Test Voltage: 1.5 V
+
+WARRANTY
+Period
+10 Years Limited Warranty
+
+Warranty
+Period
+Lifetime Warranty
+Description
+_____________________
+A RAM upgrade is the most cost-effective
+way to increase your PC`s performance. So enhance your computer speed and
+performance with Gskill
+Â
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Gskill 2Gb X 1 Ddr3 1333Mhz Cl9 Ripja...
+ -> 
+Highlights
+_____________________
+Lifetime Warranty
+Effective Way to Increase Your PCs Performance
+CAS Latency of 9-9-9-24-2N at 1.5 Volts
+SUPC: SDL592902062
+Technical Specification
+_____________________
+
+Warranty
+Period
+Lifetime Warranty
+Compatible with:
+Desktop
+
+Warranty
+Period
+Lifetime Warranty
+Description
+_____________________
+A RAM upgrade is the most cost-effective way to increase your PC`s performance. So enhance your computer speed and performance with Gskill 2Gb X 1 DDR3 1333Mhz CL9 Ripjaws X RAM. It is timed at
+. It is compatible with PC is a 240-pin type.
+Terms & Conditions
+_____________________
+ -------------------------------------------
+EVM DDR3 2 GB PC RAM (EVMT2G1333U86D)
+ -> 
+Highlights
+_____________________
+3 Years Warranty
+.
+SUPC: SDL390260398
+Technical Specification
+_____________________
+
+Warranty
+Period
+3 Years Warranty
+
+In the Box
+Box Contents
+Main Unit
+
+General
+Memory Clock
+1333 mhz
+Other Features
+RoHS compliant product
+CAS Latency
+9
+Technology
+DDR3 SDRAM
+Pins
+240
+Brand
+EVM
+Memory Type
+DDR3 DIMM
+Model ID
+EVMT2G1333U86D
+Compatible Devices
+PC
+Buffered/Unbuffered
+Unbuffered
+
+Memory
+Memory Standard
+DDR3
+
+Power
+Specified Voltage
+1.5 v
+
+Capacity
+Storage
+2 gb
+
+Warranty
+Period
+5
+Type
+Domestic
+Description
+_____________________
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Gskill 4Gb X 1 Ddr3 1600Mhz Cl11 Valu...
+ -> 
+Highlights
+_____________________
+Lifetime Warranty
+Effective Way to Increase Your PCs Performance
+CAS Latency of 11-11-11 at 1.5 Volts
+SUPC: SDL591684566
+Technical Specification
+_____________________
+
+Warranty
+Period
+Lifetime Warranty
+Compatible with:
+Laptop
+
+Warranty
+Period
+Lifetime Warranty
+Description
+_____________________
+A RAM upgrade is the most cost-effective
+way to increase your PC`s performance. So enhance your computer speed and
+performance with Gskill 4GB X 1 DDR3 1600Mhz CL11 Value Ram for Laptop (For
+Apple Mac). It is timed at
+Capacity is 4GB (4GB x 1), 8GB (4GB x 2). Type is 204-pin SO-DIMM.
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Corsair DDR3 4GB Desktop RAM (CMZ4GX3...
+ -> 
+Highlights
+_____________________
+10-Year Replacement Warranty
+Maximize your system memory
+Built for overclocked performance
+Compatible with all Intel i3, i5 & i7 processors
+Single module
+1600 MHz
+1.5 V
+SUPC: 1550349
+Technical Specification
+_____________________
+
+Warranty
+Period
+10-Year Replacement Warranty
+Compatible with:
+Desktop
+
+Warranty
+Period
+10-Year Replacement Warranty
+Description
+_____________________
+Corsair DDR3 4GB RAM CMZ4GX3M1A11600C9 is designed for rock-solid performance and stability for demanding applications on desktops.
+The Corsair Vengeance range of memory modules is ideal to serve your purpose of gaming, watching movies in high definition and running memory guzzling graphics software lag-free and smoothly. Complete with a sturdy packaging, it comes with a 10-year replacement warranty from the manufacturer.
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Gskill 8Gb X 1 Ddr3 1333Mhz Cl9 Ripja...
+ -> 
+Highlights
+_____________________
+Lifetime Warranty
+Effective Way to Increase Your PCs Performance
+CAS Latency of 9-9-9-24-2N at 1.5 Volts
+Height: 40 mm
+SUPC: SDL593399727
+Technical Specification
+_____________________
+
+Warranty
+Period
+Lifetime Warranty
+
+Warranty
+Period
+Lifetime Warranty
+Compatible with:
+Desktop
+Description
+_____________________
+A RAM upgrade is the most cost-effective
+way to increase your PC`s performance. So enhance your computer speed and
+performance with Gskill 8Gb X 1 DDR3 1333Mhz CL9 Ripjaws X RAM. It is timed at
+.
+Type is a 240-pin DIMM.
+Terms & Conditions
+_____________________
+ -------------------------------------------
+G.Skill Ripjaws DDR3 4 GB Laptop RAM ...
+ -> 
+Highlights
+_____________________
+Type : RAM
+Warranty : 10 Years Manufacturer Warranty
+SUPC: SDL464817723
+Technical Specification
+_____________________
+
+In the Box
+Box Contents
+Main Unit
+
+General
+Memory Clock
+1600 mhz
+Other Features
+RoHS compliant product
+CAS Latency
+9
+Technology
+DDR3 SDRAM
+Pins
+240
+Brand
+G SKILL
+Memory Type
+DDR3 4 GB
+Model ID
+KHX16C9B1RK2/8X
+Compatible Devices
+PC
+Buffered/Unbuffered
+Unbuffered
+Burst Length
+8
+
+Memory
+Memory Standard
+DDR3
+
+Power
+Specified Voltage
+1.35 v
+
+Capacity
+Storage
+4 gb
+
+Warranty
+Period
+5
+Type
+Manufacturer
+
+Product Dimension
+Length
+17 cm
+Height
+1 cm
+Width
+6.5 cm
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Gskill 4Gb X 1 Ddr3 1333Mhz Cl9 Value...
+ -> 
+Highlights
+_____________________
+Lifetime Warranty
+Effective Way to Increase Your PCs Performance
+Uses Gold Contact Fingers
+requires +1.5 Volts
+SUPC: SDL590575490
+Technical Specification
+_____________________
+
+Warranty
+Period
+Lifetime Warranty
+
+Warranty
+Period
+Lifetime Warranty
+Compatible with:
+Laptop
+Description
+_____________________
+A RAM upgrade is the most cost-effective
+way to increase your PC`s performance. So enhance your computer speed and
+performance with G.Skill 4GB X 1 DDR3 1333Mhz CL9 Value Ram for Laptop (For
+Apple Mac). It is timed at
+Terms & Conditions
+_____________________
+ -------------------------------------------
+ADATA DDR3 2GB DRAM (Laptop)
+ -> 
+Highlights
+_____________________
+3 Year Warranty
+Glass-Epoxy Printed Circuit Board
+Laptop Compatible
+DDR3 1333MHz memory speed
+2 GB capacity
+SUPC: 1312986
+Technical Specification
+_____________________
+
+Warranty
+Period
+3 Year Warranty
+Compatible with:
+Laptop
+
+Warranty
+Period
+3 Year Warranty
+Description
+_____________________
+ADATA Supreme Series memory modules use original-branded DRAM ICs that are built on full data sheets, including cross-platform and durability testing to guarantee quality and performance. In terms of reliability and high quality, choosing ADATA Supreme Series memory for your laptopÃ¢â‚¬â„¢s memory upgrade is a wise, worry-free decision that is backed by the same lifetime warranty that comes with all ADATA memory modules.
+The ADATA Supreme Series DDR3 1333MHz SO-DIMM for laptops is a module in the lower parasitic-loading FBGA (Fine-pitch Ball Grid Array) packaging on a 204-pin glass-epoxy printed circuit board. Running at 1.5 volts and 1333MHz of the clock, the transmission bandwidth can achieve up to 10.6 GB/s by PC3-10600 specification.
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Corsair Value DDR3 8 GB Desktop RAM (...
+ -> 
+Highlights
+_____________________
+Type : RAM
+SUPC: SDL012623472
+Technical Specification
+_____________________
+
+GENERAL
+Brand
+Corsair
+Model ID
+8GB Value 1600 C11 (CMV8GX3M1A1600C11)
+Series
+Value
+
+SPECIFICATIONS
+Memory Type
+8 GB DDR3
+Compatible Device
+Desktop
+Memory Configuration
+Dual Channel
+
+WARRANTY
+Period
+10 Years Manufacturer Warranty
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Transcend DDR2 2 GB PC RAM (JM800QLU-2G)
+ -> 
+Highlights
+_____________________
+Lifetime Warranty
+2GB Capacity
+DIMM Memory Module
+DDR2 Memory Type
+Compatible with PCs
+Memory Clock Speed of 400MHz
+240-pin Configuration
+Unbuffered
+1.8 V Specified Voltage
+SUPC: SDL836330850
+Technical Specification
+_____________________
+
+Warranty
+Period
+5 Years Transcend India Warranty
+
+SPECIFICATION
+Brand
+Transcend
+Memory Type
+2 GB (8 x 128 MB) DDR2 DIMM
+Memory Standard
+DDR2-800/PC-6400
+Compatible Device
+PC
+Pins
+240-pin
+Burst Length
+4, 8
+Buffered/Unbuffered
+Unbuffered
+Model ID
+DDR2-800/PC-6400
+
+MEMORY
+Memory Clock
+400 MHz
+Technology
+DDR2 SDRAM Memory
+CAS Latency
+4-5-6
+
+POWER
+Specified Voltage
+1.8 V
+
+ADDITIONAL FEATURES
+Other Features
+ROHS compliant product, On Die Termination, Serial presence detect with EEPROM
+Compatible with:
+Desktop
+Description
+_____________________
+Enjoy optimum performance and enhanced stability by upgrading your systemâ€™s memory with
+Terms & Conditions
+_____________________
+ -------------------------------------------
+Corsair Vengeance DDR3 4 GB (1 x 4 GB...
+ -> 
+Highlights
+_____________________
+Lifetime Warranty
+4GB Size
+Features Aluminium Heat Spreaders
+1600MHz Tested Speed
+Compatible with all Intel Core i3, i5 and i7 processors, and 2nd generation Intel processor Family
+Latency: 9-9-9-24
+Works on Dual Channel Intel Platforms
+XMP Performance Profile
+Single Module Memory Configuration
+DDR3 Memory Type
+SUPC: SDL820790176
+Technical Specification
+_____________________
+
+Warranty
+Period
+Lifetime Warranty
+
+SPECIFICATION
+Brand
+Corsair
+Memory Type
+4GB Kit (1 x 4GB)
+Memory Standard
+DDR3-1600/PC3-12800
+Compatible Device
+Desktop
+Pins
+240-pin
+Model ID
+CMZ4GX3M1A1600C9
+
+MEMORY
+Technology
+DDR3 SDRAM Memory
+
+POWER
+Specified Voltage
+1.5 V
+
+ADDITIONAL FEATURES
+Compatible with:
+Desktop
+Description
+_____________________
+Running multiple programs and applications on your laptop becomes easier with
+To ensure compatibility with the latest CPUs and motherboards available in the market, the
+Terms & Conditions
+_____________________
